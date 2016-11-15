@@ -1,0 +1,101 @@
+# -*- mode: org; org-alphabetical-lists: t -*-
+
+#+TITLE:     Purpose.org
+#+AUTHOR:    Ezequiel Birman
+#+EMAIL:     stormwatch@espiga4.com.ar
+#+DATE:      2013-02-15 vie
+#+DESCRIPTION:
+#+KEYWORDS: música, fundación, traducción
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+OPTIONS:   email:t timestamp:t creator:t
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT:
+
+# La Fúndación Música AntiquaNova fue creada para fomentar y difundir
+# la música clásica y contemporánea en la República Argentina en sus
+# diferentes campos: creación, interpretación, formación profesional y
+# documentación, así como promover el intercambio cultural con otros
+# países.
+
+# Bajo este objeto, la Fundación proyecta realizar las siguientes actividades:
+
+# A) La realización de conciertos y ciclos de conciertos.
+
+# B) Actividades educativas y de formación profesional realizando
+# seminarios, talleres, cursos y conferencias a cargo de compositores,
+# musicólogos, directores e intérpretes de reconocida trayectoria en
+# nuestro medio y/o en el exterior a fin de ayudar a la formación
+# profesional de músicos y ayudar a la difusión de producciones de
+# investigación en el ámbito de la música contemporánea.
+
+# C) Realizar concursos de composición musical, dirección musical e
+# interpretación musical con el otorgamiento de premios monetarios,
+# estreno de obras, prácticas de dirección con ensamble y ayuda para
+# la compra de instrumentos. A estos efectos, se designarán jurados de
+# reconocida trayectoria.
+
+# D) Se destinarán fondos en concepto de honorarios por la composición
+# de obras musicales originales a compositores argentinos y/o del
+# exterior, para fomentar el crecimiento del repertorio argentino y
+# universal. Además, se ayudará, por medio de encargos a jóvenes
+# compositores, a difundir las producciones nuevas. Las obras
+# encargadas serán estrenadas en el marco de conciertos públicos.
+
+# E) Todas las actividades realizadas por la fundación serán
+# registradas en los diversos formatos que se crean convenientes
+# (audio, video, programas, libros y otros posibles) para la creación
+# de un archivo audiovisual que sirva como fuente para futuras
+# producciones audiovisuales y para la conservación de un registro
+# histórico y documental de todas las actividades de la fundación.
+
+# F) Realización de producciones discográficas y/o audiovisuales en
+# los formatos CD y/o DVD para fomentar la difusión de la música de
+# compositores argentinos.
+
+# Todas las actividades de la fundación serán sin fines de lucro.
+
+AntiquaNova Music Foundation was created to encourage and promote
+classical and contemporary music in Argentina in various fields:
+creation, performance, training and documentation as well as to
+promote cultural exchange with other countries.
+
+In accordance to this aim, the Foundation plans to conduct the
+following activities:
+
+A) Carrying out concerts and concert series.
+
+B) Educational and professional training activities such as seminars,
+   workshops, courses and lectures by composers, musicologists,
+   directors and performers renowned in our country and/or abroad in
+   order to help the training of musicians and to promote research
+   work in the field of contemporary music.
+
+C) Organize composition, conducting and performance contests by
+   granting: monetary awards, premiere of new works, conducting
+   practices with ensemble, and financial aid for the purchase of
+   instruments. For this purpose renowned juries shall be appointed.
+
+D) Funds will be earmarked as fees for the composition of original
+   musical works by Argentine and/or abroad composers, to promote
+   growth of Argentine and universal repertoire. In addition, the
+   Foundation will help, by way of commissions to young composers, to
+   promote new works. The commissioned works will be premiered as part
+   of public concerts.
+
+E) All activities undertaken by the foundation will be recorded in the
+   various formats deemed appropriate (audio, video, software, books
+   and possibly others) in order to create an audiovisual archive to
+   serve as a source for future media productions and preservation of
+   historical and documentary record of all of the Foundation’s
+   activities.
+
+F) Making musical records and/or audio in CD and/or DVD format to
+   promote the music by Argentine composers.
+
+All of the Foundation's activities will remain nonprofit.

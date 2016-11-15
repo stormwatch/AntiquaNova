@@ -1,0 +1,119 @@
+#+TITLE:     Jeffrey Means
+#+AUTHOR:    Ezequiel Birman
+#+EMAIL:     stormwatch@0crash.com.ar
+#+DATE:      2014-11-07
+#+DESCRIPTION: Breve biografía
+#+KEYWORDS: música, director, dirección
+#+LANGUAGE:  es
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+OPTIONS:   email:t timestamp:t creator:t
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT:
+
+# One of a younger generation of conductors dedicated to new and recent
+# repertoire, Jeffrey Means has emerged as a prominent figure in
+# contemporary music.Based in Boston, Means has conducted many of the
+# city's new music ensembles, including the Firebird Ensemble, Ludovico
+# Ensemble, Callithumpian Consort, East Coast Contemporary Ensemble,
+# Dinosaur Annex, and others. Means is also the conductor and artistic
+# director of Sound Icon, whose performance of Georg Friedrich Haas’ In
+# Vain was named the best contemporary music performance of 2012 by the
+# Boston Globe. Means has been honored to work closely with some of the
+# most significant composers of our time, including Tristan Murail,
+# Helmut Lachenmann, Salvatore Sciarrino, Pierre Boulez, Hanspeter
+# Kyburz, Steve Reich, Jonathan Harvey, Chaya Czernowin, and others.
+
+Miembro de una generación más joven de directores dedicados al
+repertorio nuevo y reciente, Jeffrey Means emergió como una figura
+prominente en la música contemporanea. Radicado en Boston, Means ha
+dirigido a muchos de los ensambles de nueva música de esa ciudad,
+incluyendo al /Firebird Ensemble, Ludovico Ensemble, Callithumpian
+Consort, East Coast Contemporary Ensemble, Dinosaur Annex/ y
+otros. Means es también el director musical y artístico de Sound Icon,
+cuya interpretación de /In Vain/ de Georg Friedrich Haas fue nominada
+mejor interpretación de música contemporánea de 2012 por el /Boston
+Globe/. Means ha tenido el honor de trabajar de forma cercana con
+algunos de los compositores más importantes de nuestro tiempo,
+incluyendo a Tristan Murail, Helmut Lachenmann, Salvatore Sciarrino,
+Pierre Boulez, Hanspeter Kyburz, Steve Reich, Jonathan Harvey, Chaya
+Czernowin y otros.
+
+# Means has conducted in many festivals of contemporary music. In 2008
+# he led the opening concert of the Ditson Festival of Contemporary
+# Music, and in 2010 he led the first concert of the Celebrating Boulez
+# festival, which included the composer’s seminal Le marteau sans
+# maître. Jeffrey has twice served as conductor of the Etchings Festival
+# of Contemporary Music in Auvillar, France, and has conducted the
+# Composit Festival in Rieti, Italy. In 2014, Means will conduct the
+# Musica AntiquaNova Foundation International Festival in Argentina.
+
+Means ha dirigido en muchos festivales de música contemporánea. En
+2008 dirigió el concierto de apertura del Festival Ditson de Música
+Contemporánea, y en 2010 dirigió el primer concierto del festival
+/Celebrating Boulez/ que incluyó su obra seminal /Le Marteau Sans
+Maître/. Jeffrey fue director dos veces en el /Etchings Festival of
+Contemporary Music/ en Auvillar, Francia y dirigió en el Festival
+Composit en Rieti, Italia, en 2014.
+
+# Well-noted for his scrupulous interpretations of even the most
+# demanding scores, Means has led numerous large-scale masterpieces of
+# the European avant-garde in the us, including Wolfgang Rihm’s Concerto
+# Seraphín (us premiere), Georg Friedrich Haas’ In Vain, Lachenmann’s
+# Zwei Gefülhe, Hans Abrahamsen’s Schnee, and Hanpeter Kyburz’s Réseaux
+# (us premiere), to name only a few. In addition to the aforementioned
+# works, Means has led us premieres of works by Mark Andre, He also
+# collaborated with Philippe Leroux and Salvatore Sciarrino on concerts
+# of their own works. Means led the 2013 Fromm Concerts at Harvard
+# University, a two-concert series that centered on Elliott Carter’s
+# seminal Double Concerto.
+
+Bien considerado por sus interpretaciones escrupulosas de las
+partituras más demandantes, Means ha dirigido numerosas obras maestras
+de gran aliento de la /avant garde/ europea en los Estados Unidos,
+incluyendo el /Concerto Seraphín/ (estreno en EEUU) de Wolfgang Rihm,
+/In Vain/ de Georg Friedrich Haas, /Zwei Gefülhe/ de Helmut
+Lachenmann, /Schnee/ de Hans Abrahamsen y /Réseaux/ (estreno en EEUU)
+de Hanspeter Kyburz entre otros.
+
+# In 2008, Means was one of two conductors invited to study with Pierre
+# Boulez in Lucerne, Switzerland. There, he learned Boulez’s
+# electro-acoustic masterwork, Repons. Means was invited back to study
+# with Boulez again in 2010.Jeffrey remains an active percussionist. He
+# is a member of Trio Okho, along with percussionists Nick Tolle and
+# Mike Williams. Means is also a member of the Callithumpian Consort,
+# and performs with numerous other new music ensembles and orchestras in
+# and around Boston. In 2015, he will perform Stockhausen’s Kontakte
+# with Finnish pianist Paavali Jumppanen.
+
+En 2008 Means fue uno de los dos directores invitados para estudiar
+con Pierre Boulez en Lucerna, Suiza. Allí estudió /Repons/, la obra
+maestra electroacústica de Boulez. Means fue invitado nuevamente en
+2010 a estudiar con Boulez. Jeffrey mantiene su actividad como
+percusionista. Es miembro del Trio Okho, junto con los percusionistas
+Nick Tolle y Mike Williams. Means también es miembro del Callithumpian
+Consort, y toca con muchos otros ensambles de nueva música y orquestas
+en y alrededor de Boston. En 2015 interpretará /Kontakte/ de
+Stockhausen junto al pianista fines Paavali Jumppanen.
+
+
+# Means is on the conducting faculty at the Berklee College of Music,
+# and regularly leads the new music series at Brandeis and Tufts
+# Universities, and other institutions. He holds a bm in percussion and
+# a mm in conducting from New England Conservatory. At nec, he received
+# the John Cage Award, the Tourjee Alumni Award, and was given the
+# Gunther Schuller Medal at his graduation. He has recordings available
+# on Albany, Mode, New World, Navona, and Naxos records.
+
+Means es profesor en La Facultad de Dirección Musical del /Berklee
+College of Music/ y dirige regularmente las /New Music Series/ en las
+universidades Brandeis, Tufts y otras instituciones. Tiene un grado de
+/Bachelor of Music/ en percusión y una Maestría en Dirección del
+Conservatorio de Nueva Inglaterra. Allí recibió el premio John Cage,
+el premio Tourjee Alumni y fue el destinatario de la Medalla Gunther
+Schuller en su graduación. Ha grabado para los sellos Albany, Mode,
+New World, Navona y Naxos.

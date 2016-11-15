@@ -1,0 +1,70 @@
+#+TITLE:     Duo Soufflé
+#+AUTHOR:    Ezequiel Birman
+#+EMAIL:     stormwatch@espiga4.com.ar
+#+DATE:      2014-11-07
+#+DESCRIPTION: Breve biografía
+#+KEYWORDS: música, flauta, clarinete, duo
+#+LANGUAGE:  es
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+OPTIONS:   email:t timestamp:t creator:t
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT:
+
+# “Duo Soufflé“ was founded in 2005 and is consisting of Doris Nicoletti
+# (flutes) and Theresia Schmidinger (clarinets). The two musicians have
+# commissioned numerous compositions and works including cooperations
+# with composers to enlarge the repertoire for the instrumentation of
+# flute and clarinet.
+
+El /Duo Soufflé/ se fundó en 2005 y está integrado por Doris Nicoletti
+(flautas) y Theresia Schmidinger (clarinetes). Ambas intérpretes han
+encargado muchas composiciones y obras además de cooperar con los
+compositores para ensanchar el repertorio para flauta y clarinete.
+
+# Contemporary music offers a wide field in which the sounds of these
+# two instruments and their related instruments can be explored. The
+# rich colourfulness and expressiveness of flute and clarinet, both in
+# sound and noise, are the foundation which allows the creation of
+# different shades of blending, fusion and contrast.  The element
+# “sound“ is seen within the context of a new listening dimension and
+# the duo performs regularly with electronics and in room installations
+# in which pieces are performed outside the “classical“ stage.  The duo
+# sees a logical continuation between instrumental music and voice, and
+# the artistic use of breath and air when playing a wind instrument. The
+# duo has performed in several theatrical pieces for speaking, singing
+# and acting musicians and have also worked with writers, actors and
+# dancers.
+
+La música contemporánea ofrece un campo amplio en donde los sonidos de
+estos dos instrumentos así como instrumentos afines, pueden ser
+explorados. El colorido rico y la expresividad de la flauta y el
+clarinete, tanto en el sonido como en el ruido, son el fundamento que
+permite la creación de diferentes matices de mezcla, fusión y
+contraste. El elemento «sonido» es visto dentro del contexto de una
+dimensión nueva de la escucha y el duo interpreta regularmente con
+electrónica e instalaciones donde las piezas se interpretan afuera del
+escenario «clásico». El duo vé una continuación lógica entre la música
+instrumental y la voz, y el uso artístico de la respiración y el aire
+cuando se toca un instrumento de viento. El duo ha tenido parte en
+muchas piezas teatrales para voz hablada, cantada y para
+músicos-actores, y también han trabajado con escritores, actores y
+bailarines.
+
+# The “Duo Soufflé“ has performed at the contemporary music festival
+# “Wien Modern“, “Darmstädter Ferienkurse”, “neue musik st ruprecht”,
+# Alte Schmiede Vienna, Austrian Radio 1 (Ö1), and the Wiener
+# Musikverein.  In 2013 the Duo was accepted for the NASOM (The New
+# Austrian Sound of Music)-program of the Federal Ministry for European
+# and International Affairs.
+
+El /Duo Soufflé/ se ha presentado en el festival de música
+contemporánea /Wien Modern/, en los cursos de Darmstadt, en /neue
+musik st ruprecht/, en /Alte Schmiede Vienna/, en la Radio austíaca 1
+(Ö1) y en el /Wiener Musikverein/. En 2013 el duo fue aceptado para el
+programa NASOM (/The New Austrian Sound of Music/) del Ministerio
+Federal Para Asuntos Europeos e Internacionales.

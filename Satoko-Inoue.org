@@ -1,0 +1,85 @@
+#+TITLE:     Satoko Inoue
+#+AUTHOR:    Ezequiel Birman
+#+EMAIL:     stormwatch@espiga4.com.ar
+#+DATE:      2014-11-07
+#+DESCRIPTION: Breve biografía
+#+KEYWORDS: música, piano
+#+LANGUAGE:  es
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+OPTIONS:   email:t timestamp:t creator:t
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT:
+
+# Satoko Inoue (Pianist)
+
+Satoko Inoue (Pianista)
+
+# Pianist Satoko Inoue is renowned throughout Japan, Europe and in
+# United States as a leading interpreter of contemporary solo piano
+# music. She has premiered works by some of Japan's foremost composers
+# including Jo Kondo, Yori-aki Matsudaira, Yoritsune Matsudaira, and
+# Toshi Ichiyanagi. She is also known for performing works of other
+# contemporary composers such as Toru Takemitsu, John Cage, Morton
+# Feldman, Henry Cowell, Luciano Berio, Giacinto Scelsi, Luc Ferrari,
+# Doina Rotaru, and others.
+
+La pianista Satoko Inoue es célebre en Japón, Europa y Los Estados
+Unidos como solista destacada de música contemporánea para piano. Ha
+estrenado obras de algunos de los compositores principales de Japón
+incluyendo a Jo Kondo, Yori-aki Matsudaira, Yoritsune Matsudaira y
+Toshi Ichiyanagi. También es conocida por interpretar obras de otros
+compositores contemporáneos como Toru Takemitsu, John Cage, Morton
+Feldman, Henry Cowell, Luciano Berio, Giacinto Scelsi, Luc Ferrari,
+Doina Rotaru y otros.
+
+# Since 1991 every year, Ms. Inoue has been presenting the solo piano
+# series "Satoko Plays Japan" at major venues in that country. She has
+# performed over one hundred and fifty contemporary pieces in this
+# well-respected series. Before this she was the pianist with Musica
+# Practica Ensemble Tokyo, a leading Japanese ensemble which introduced
+# many important pieces of new music to Japan. She completed her
+# B.A. and M.A. degrees at Tokyo Gakugei University. Besides performing
+# in Japan, Satoko Inoue has invited by major European festivals
+# including Darmstadt, the International Experimental Music Festival in
+# Bourges, and had solo recitals, for example, MERIDIAN, Zilele SNR-SIMC
+# (ISCM) in Bucharest, Mersin International Music Festival, Festival"
+# l'Art pour l'Aar" in Bern, Ciclo de Conciertos de Música Contemporánea
+# in Buenos Aires. In addition, she had a lot of solo concerts in US,
+# Germany, France, Italy, Switzerland, Spain, Ireland, Turkey, Romania,
+# Egypt, and Argentina. She has recorded three solo CDs on HatHut
+# Records(Switzerland）and has also the CDs on the German label Edition
+# Hundertmark, Emec Discos(Spain), and ALM Records (Japan). She was
+# awarded “Keizo Saji Prize” for 2010 by The Suntory Foundation for Arts
+# with “Satoko Inoue Piano Recital #19 Morton Feldman ~Works for
+# Piano~”. Besides concertizing, Ms. Inoue is Associate Professor of
+# Kunitachi College of Music in Tokyo.
+
+# =Musica Practica= va sin acentos. =L'art pour L'Aar= no es errata.
+Cada año desde 1991, la Srta. Inoue ha venido presentando los ciclos
+de piano solo /Satoko Plays Japan/ en las principales salas de su
+país. Ha interpretado cerca de ciento cincuenta piezas conteporáneas
+en este ciclo que goza de una gran reputación. Antes fue pianista en
+el /Musica Practica Ensmeble Tokio/, un ensamble japonés destacado que
+presentó por primera vez muchas piezas importantes de nueva música en
+Japón. Completó sus estudios de grado y maestría en la Universidad
+Tokyo Gakugei. Además de tocar en Japón, Satoko Inoue ha sido invitada
+por los principales festivales europeos como el de Darmstadt, el
+/International Experimental Music Festival/ de Bourges y ha brindado
+recitales solistas en los festivales MERIDIAN, Zilele SNR-SIMC (ISCM)
+de Bucarest, en el Festival Internacional de Música Mersin, en el
+Festival /[[http://www.artpourlaar.ch/][l'Art pour l'Aar]]/ en Berna, en el Ciclo de Conciertos de
+Música Contemporánea de Buenos Aires, entre otros. También dió muchos
+conciertos solistas en los Estados Unidos, Alemania, Francia, Italia,
+Suiza, España, Irelanda, Turquía, Rumania, Egipto y Argentina. Grabó
+tres /CDs/ solistas para el sello HatHut Records (Suiza） además de
+los /CDs/ para el sello alemán /Edition Hundertmark/, Emec Discos
+(España) y ALM Records (Japón). Fue galardonada con el Premio Keizo
+Saji en 2010 por la Fundación Suntory Para Las Artes por el /Satoko
+Inoue Piano Recital 19º Morton Feldman Works for Piano/. Además de su
+labor como concertista, la Srta. Inoue es Profesora Adjunta en el
+Colegio de Música Kunitachi de Tokyo.

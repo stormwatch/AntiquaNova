@@ -1,0 +1,146 @@
+#+TITLE:     Adam Ørvad
+#+AUTHOR:    Ezequiel Birman
+#+EMAIL:     stormwatch@espiga4.com.ar
+#+DATE:      2013-02-13 mié
+#+DESCRIPTION: Breve biografía
+#+KEYWORDS: musica, acordeón
+#+LANGUAGE:  es
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+OPTIONS:   email:t timestamp:t creator:t
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT:
+
+# Adam Ørvad was born in 1976 and began playing the accordion at the
+# age of eight. He is the son of composer Timme Ørvad and singer and
+# composer Hanne Ørvad.
+
+Adam Ørvad nació en 1976 y comenzó a tocar el acordeón a los ocho años
+de edad. Es hijo del compositor Timme Ørvad y de la cantante y
+compositora Hanne Ørvad.
+
+# He studied from 1996 to 2005 at The Royal Danish Music Conservatory
+# with James Crabb and Geir Draugsvoll as teachers. He passed music
+# teacher exam in 2000 and diploma exam in 2002 – both with maximum
+# marks ensuing admission to the soloist class.
+
+Estudió entre 1996 y 2005 en el Real Conservatorio de Música de
+Dinamarca con James Crabb y Geir Draugsvoll como maestros. Aprobó el
+examen de maestro de música en 2000 y el examen para obtener su
+diploma en 2002, ambos con las máximas calificaciones permitiéndole la
+admisión a los cursos de solista.
+
+# In March 2005 he made his debut with one of the most comprehensive
+# programmes ever played on the instrument, consisting of Kalevi Aho’s
+# accordion sonata no. 1, first performances of Mogens Christensen and
+# Hanne Ørvad, transcriptions of music by Franck and Rameau as well as
+# the Scottish composer Gordon McPherson’s “Lame God”.
+
+En marzo de 2005 debutó con uno de los programas más abarcadores jamás
+tocados en el instrumento: La Sonata no. 1 para Acordeón de Kalevi Aho,
+Estrenos de Mogens Christensen y Hanne Ørvad, transcripciones de
+música de Franck y Rameau así como /Lame God/ del compositor escocés
+Gordon McPherson.
+
+# Adam Ørvad is attached to a wide array of ensembles -
+# incl. musikFabrik | Ensemble für Neue Musik, Köln, where he has been
+# a free member since 2002 and Ensemble Modern, Frankfurt. He har
+# performed as a soloist with a.o. Orchestre Filharmonique de Nice.
+
+Adam Ørvad colabora con varios ensambles, incluyendo al /Ensemble
+musikFabrik/, donde participa con miembro freelance desde 2002 y el
+/Ensemble Modern/ de Frankfurt. Fue solista de la Orquesta Filarmónica
+de Niza.
+
+# Festivals:
+
+# Festival de Radio France i Montpellier, Le SALON de la musique à la
+# Vilette - Paris, Internationale Ferienkurse für neue Musik
+# Darmstadt, MusikTriennale Köln, Huddersfield Contemporary Music
+# Festival, Ars Musica - Bruxelles, Musica - Strassbourg, Holland
+# Festival, Festival d'Avignon, Easter Festival of Contemporary
+# Chamber Music - Sofia, International Festival of Chamber Music -
+# Plovdiv, Festival de de la Música Contemporánea de la Habana - Cuba,
+# Festival Jazz Sous Les Pommiers - Coutances, Suså Festival, Wind &
+# Bellows - Frederikshavn, NattJazz - Bergen, Vendsyssel Festival,
+# Aalborg Opera Fesival, Ebelfestival, Horsens festival of Children's
+# Theatre, Lyngby festival of Children's Theatre
+
+Festivales:
+
+/Festival de Radio France i Montpellier; Le SALON de la musique à la
+Vilette, Paris; Internationale Ferienkurse für neue Musik
+Darmstadt, MusikTriennale Köln, Huddersfield Contemporary Music
+Festival; Ars Musica, Bruselas; Musica, Estrasburgo; Holland
+Festival; Festival d'Avignon; Easter Festival of Contemporary Chamber
+Music, Sofia; International Festival of Chamber Music, Plovdiv/;
+Festival de de la Música Contemporánea de la Habana, Cuba, /Festival
+Jazz Sous Les Pommiers - Coutances, Suså Festival, Wind & Bellows -
+Frederikshavn, NattJazz - Bergen, Vendsyssel Festival, Aalborg Opera
+Fesival, Ebelfestival, Horsens festival of Children's Theatre, Lyngby
+festival of Children's Theatre./
+
+# During 1992-99 Adam Ørvad won the first prize four times at The
+# Danish National Competition for Accordionists. In 1999 he was a
+# finalist in the international „Coupe Mondiale” for accordion
+# soloists, and in 2000 in „Arrasate Hiria” in Spain.
+
+Entre 1992 y 1999 Adam Ørvad ganó cuatro veces el primer premio del
+Concurso Nacional de Acordeonistas de Dinamarca. En 1999 fue finalista
+en la /Coupe Mondiale/ de solistas de acordeón y en 2000 lo fue en el
+concurso internacional de Arrasate, España (/Arrasate Hiria/).
+
+# He has performed in Denmark, Sweden, Norway, Finland, Germany, Great
+# Britain, Austria, Luxemburg, Belgium, Netherlands, France, Spain,
+# Portugal, Bulgaria, Serbia, Greece and Cuba as well as on radio and
+# TV - a.o. DR, WDR, NDR .
+
+Ha interpretado en Dinamarca, Suecia, Noruega, Finlandia, Alemania,
+Gran Bretaña, Austria, Luxemburgo, Bélgica, Holanda, Francia, España,
+Portugal, Bulgaria, Serbia, Grecia y Cuba así como en la radio y
+televisión estatales de ---entre otros--- /DR/ (/Danmarks Radio/,
+Dinamarca), /WDR/ (/Westdeutscher Rundfunk/, Alemania Occidental), y
+/NDR/ (/Norddeutscher Rundfunk/, Alemania del Norte).
+
+# The great commitment to expanding the repertoire of the accordion
+# results partly in numerous innovative arrangements and
+# transcriptions of music for the instrument, and partly in inspiring
+# new composers to write for the accordion.
+
+El gran compromiso con la expansión del repertorio del acordeón logra
+varios arreglos innovadores y transcripciones para el instrumento por
+un lado y por el otro inspira a los compositores nuevos a escribir
+para el acordeón.
+
+# Adam Ørvad has premiered music by:
+
+Adam Ørvad estrenó música de:
+
+Louis Aguirre, Oscar Bianchi, Mogens Christensen, Richard Dubugnon,
+Stefano Gervasoni, Edina Hadziselimovic, Johannes Kalitzke, Erik
+Moland, Finn Mortensen, Hans-Henrik Nordstrøm, Ivan Olsen, Enno Poppe,
+Stefan Pöntinen, Tomi Räisänen, Andys Skordis, Helle Solberg, Hanne
+Ørvad, Timme Ørvad.
+
+# Since childhood Adam Ørvad has played folk music from the Balkans,
+# Serbia, Romania and Bulgaria. He is well versed in the various
+# styles of this area; particularly the east-Serbian "Vlasko" he has
+# acquired as his own. Adam Ørvad has previously been educated by Lelo
+# Nika and Andrei Mihalache, and is incidentally fluent in Serbian and
+# Bulgarian language.
+
+Desde niño, Adam Ørvad ha interpretado música folclórica de los
+Balcanes, Serbia, Rumania y Bulgaria. Versado en los distintos estilos
+de ese area; particularmente hizo propio el /vlasko/ de Serbia
+oriental. Adam Ørvad aprendió con Lelo Nika y Andrei Mihalahe y habla
+serbio y búlgaro fluídamente.
+
+# Adam Ørvad also performs music from the Middle East, klezmer music,
+# celtic music and many other styles..
+
+Adam Ørvad también interpreta música del Medio Oriente, /klezmer/,
+celta y muchos otros estilos.

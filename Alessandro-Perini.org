@@ -1,0 +1,54 @@
+#+TITLE:     Alessandro Perini
+#+AUTHOR:    Ezequiel Birman
+#+EMAIL:     stormwatch@espiga4.com.ar
+#+DATE:      2014-11-27
+#+DESCRIPTION: Breve biografía
+#+KEYWORDS: música, compositor, electrónica
+#+LANGUAGE:  es
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+OPTIONS:   email:t timestamp:t creator:t
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT:
+
+Alessandro Perini nació en 1983 en Italia. Estudió composición con
+Luca Francesconi e Ivan Fedele entre otros, Música Electrónica y
+Ciencias de la Comunicación Musical en Italia y en Suecia.
+
+Su producción artística abarca desde música instrumental hasta
+trabajos audiovisuales y trabajos de luces con un enfoque particular
+entre el sonido y la percepción visual. Sus composiciones han sido
+ejecutadas en Italia y en el extranjero en festivales tales como
+/Biennale di Venezia/ (Italia), Festival Futura (Francia), /Open
+Spaces/ (Alemania), /Connect Festival/ (Suecia), /Procesas/
+(Lituania), /UNM 2012/ (Islandia), /Moscow Forum/ (Rusia) y /Tempus
+Fugit/ (Argentina) organizado por la Fundación Música AntiquaNova. En
+el verano de 2014 fue Compositor en Residencia de la /Fondazione
+Spinola Banna per L’Arte/ (Italia) y empezó una investigación sobre la
+vibración y el sonido táctil financiada por /Kulturbryggan/,
+incluyendo proyectos en Los Cursos de Verano de Darmstadt y una
+residencia en /Park in Progress/ (Bélgica). En el 2015 será Artista en
+Residencia de la /Fondazione Bartoli-Felter/ (Italia).
+
+Como artista de multimedios fundó en el 2004 /Gruppo Làbun/, un trio
+de investigación de multimedia galardonado con premios tales como el
+/Digital Arts Award/ (Tokio 2006) y desde 2010 ha estado colaborando
+con Fabio Monni como /gruppoGrupo/ un duo basado en Malmö (Suecia)
+recientemente galardonado en el /Fresh Minds Festival/ y con el /Marzo
+Rossi Prize/ en Italia.
+
+Sus videos e instalaciones han sido exhibidos en festivales alrededor
+del mundo y premiados en MagmArt, Premio Arte Novara, /Arrivano i
+Corti, Marsciano Arte Giovani, Profezie Presenti, La Città in Lore./
+Entre las exhibiciones de grupos más prestigiosos están /A.N.G.E.L.I e
+tracce d'infinito/ (Lugano Switzerland), /Gameplay/ (Omaha, USA),
+/Flow Interrupted/ (Chicago, USA), /La Colomba/ (Venice, Italy) y /Art
+Cycle/ (Newark, USA).
+
+El Mtro. Perini ha estado dando cursos de producción audiovisual para
+las artes en el Conservatorio de Como en Italia y de composición
+(curso de música electronica) en la Academia de Música de Malmö.

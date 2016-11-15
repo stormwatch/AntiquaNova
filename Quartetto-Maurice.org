@@ -1,0 +1,261 @@
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: c:nil creator:nil d:(not "LOGBOOK") date:t e:t email:nil
+#+OPTIONS: f:t inline:t num:nil p:nil pri:nil prop:nil stat:t tags:t
+#+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
+#+TITLE: Cuarteto Maurice
+#+DATE: <2016-09-19 lun>
+#+AUTHOR: Ezequiel Birman
+#+EMAIL: ebirman77@gmail.com
+#+LANGUAGE: es
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 24.5.1 (Org mode 8.3.4)
+
+#+DESCRIPTION: Breve biografía
+#+KEYWORDS: música, cuarteto, cuerdas
+
+Georgia Privitera, violín.
+
+Laura Bertolino, violín.
+
+Francesco Vernero, viola.
+
+Aline Privitera, violoncello.
+
+
+#+BEGIN_SRC translate :src it :dest es :exports none
+Vincitore del XXXV Premio della Critica Musicale "Franco Abbiati" 2015
+dedicato a Piero Farulli, il Quartetto Maurice è stato fondato nel
+2002, grazie all'ispirazione del Trio Debussy e di Giacomo Agazzini
+(Quartetto di Torino).
+#+END_SRC
+
+# One of the winners of "Franco Abbiati" Prize 2015, Quartetto Maurice
+# was founded in 2002 in Turin with the endorsement of the Trio Debussy
+# and Giacomo Agazzini (Turin Quartet).
+
+Ganadores del XXXV Premio de la Crítica Musical /Franco Abbiati/ 2015
+dedicado a Piero Farulli, el Cuarteto Maurice se fundó en el año 2002,
+gracias a la inspiración del Trío Debussy y de Giacomo Agazzini
+(Caurteto de Turín).
+
+
+# Il Quartetto Maurice studia e si diploma brillantemente nel 2009
+# presso il Corso Speciale di Quartetto della Scuola di Musica di
+# Fiesole sotto la guida di Andrea Nannoni, frequentando parallelamente
+# la prestigiosa Accademia del Quartetto seguiti dai più importanti
+# Maestri del panorama musicale cameristico: Hatto Beyerle (Quartetto
+# Alban Berg), György e Marta Kurtág, Andreas Keller (Quartetto Keller),
+# Peter Cropper (Quartetto Linsday), Piero Farulli (Quartetto Italiano),
+# V. Mendellssohn (Quartetto Enesco). Segue lezioni con Christophe
+# Giovaninetti (Quartetto Ysaye) per un anno presso il conservatorio di
+# Parigi. Approfondisce infine il repertorio contemporaneo con Roham de
+# Saram, Irvine Arditti, Lucas Fels e Graeme Jennings del Quartetto
+# Arditti, Francesco Dillon (Quartetto Prometeo), Franck Chevalier
+# (Quatuor Diotima), Josef Klusoň (Prazak Quartet), Helmut Lachenmann e
+# Philippe Manoury.
+
+
+# In 2009 it graduated at the Special Quartet Course of the Fiesole
+# School of Music (Florence, Italy) with Andrea Nannoni. During the
+# course the Maurice Quartet followed the prestigious ECMA Project and
+# studied with some of the world’s most important professors of
+# chamber music: Piero Farulli (Quartetto Italiano), Hatto Beyerle
+# (Alban Berg), Gyorgy and Marta Kurtag, Andreas Keller (Keller
+# Quartet), Peter Cropper (Linsday Quartet), Vladimir Mendellssohn
+# (Enesco Quartet), Andrea Nannoni, Milan Skampa (Smetana
+# Quartet). The Quartet also studied with Christophe Giovaninetti
+# (Ysaye Quartet/Elysèe Quartet) in Paris and attended a masterclass
+# with Josef Klusoň (Prazak Quartet).
+
+# Quartetto Maurice has specialised in contemporary music with Roham de
+# Saram and Irvine Arditti Philippe Manoury (Arditti Quartet), Francesco
+# Dillon (Prometeo Quartet) Helmut Lachenmann and Philippe Manoury.
+
+El cuarteto cursó estudios y se graduó con honores en 2009 del Curso
+Especial de Cuarteto de la Escuela de Música de Fiesole (Florencia)
+bajo la guía de Andrea Nannoni. Paralelamente frecuentó la prestigiosa
+Academia del Cuarteto con los profesores más importantes de música de
+cámara: Hatto Beyerle (Cuarteto Alban Berg), György y Marta Kurtág,
+Andreas Keller (Cuarteto Keller), Peter Cropper (Cuarteto Linsday),
+Piero Farulli (Cuarteto Italiano), Vladimir Mendellssohn (Cuarteto
+Enesco). También estudió con Christophe Giovaninetti (Cuarteto Ysaye,
+Cuarteto Elysèe) durante un año en el Conservatorio de París. Por
+último, exploró el repertorio contemporáneo con Roham de Saram, Irvine
+Arditti, Lucas Fels y Graeme Jennings, del Cuarteto Arditti, Francesco
+Dillon (Cuarteto Prometo), Franck Chevalier (Cuarteto Diotima), Josef
+Klusoň (Cuarteto Prazak), Helmut Lachenmann y Philippe Manoury.
+
+
+#+BEGIN_SRC translate :src it :dest es :exports none
+I quattro interpreti manifestano sin dall'inizio del loro percorso
+l’esigenza di porre in primo piano la musica contemporanea, fino a
+farla diventare l'essenza artistica del Quartetto.
+#+END_SRC
+
++Los cuatro intérpretes han manifiestado desde el principio de su camino la exigencia de poner la música contemporánea en primer plano de modo que ella sea su escencia artística.+
+
+#+BEGIN_SRC translate :src it :dest es :exports none
+  Il repertorio comprende musiche del Novecento storico fino ad arrivare
+  a György Ligeti, Iannis Xenakis, Helmut Lachenmann, Ivan Fedele,
+  Fausto Romitelli, Georg Friedrich Haas, Stefano Scodanibbio, Philiph
+  Glass, Matteo Franceschini, Marco Momi, Andrea Agostini, Valerio
+  Murat, Odd Sneeggen, Mayke Nas, Kristian Ireland... Alcuni compositori
+  hanno dedicato al Quartetto Maurice i loro nuovi lavori: Andrea
+  Portera, Luiz E. Casteloes, Ryan Carter e Silvia Borzelli e hanno
+  collaborato con il collettivo di compositori italiani "nuthing" (Eric
+  Maestri, Marco Momi, Andrea Agostini, Daniele Ghisi, Andrea Sarto,
+  Raffaele Grimaldi).
+#+END_SRC
+
+#+BEGIN_SRC translate :src en :dest es :exports none
+Their repertoire includes music by Gyorgy Ligeti, Helmut Lachenmann,
+Ivan Fedele, Fausto Romitelli, Georg Friedrich Haas, Stefano
+Scodanibbio, Philip Glass, Matteo Franceschini, Andrea Agostini,
+Valerio Murat, Kristian Ireland. They premiered music by Marco Momi
+and Ryan Carter (world premiere), Odd Sneeggen, Mayke Nas, Guido
+Baggiani (Italian premiere). Andrea Portera, Ryan Carter and Luiz
+E. Casteloes have dedicated new compositions to the Maurice Quartet.
+#+END_SRC
+
+# The Quartet cooperated with /nu/thing, a collective of Italian
+# composers (Eric Maestri, Andrea Sarto, Andrea Agostini, Raffaele
+# Grimaldi, Daniele Ghisi).
+
+Su repertorio abarca desde el /Novecento/ histórico hasta György
+Ligeti, Iannis Xenakis, Helmut Lachenmann, Ivan Fedele, Fausto
+Romitelli, Georg Friedrich Haas, Stefano Scodanibbio, Philiph Glass,
+Matteo Franceschini, Marco Momi, Andrea Agostini, Valerio Murat, Odd
+Sneeggen, Mayke Nas, Kristian Ireland entre otros. Algunos
+compositores han dedicado al Cuarteto Maurice sus nuevas obras: Andrea
+Portera, Luiz E.\nbsp Casteloes, Ryan Carter e Silvia Borzelli y el
+cuarteto ha colaborado con el colectivo de compositores italianos
+/nu/thing (Eric Maestri, Marco Momi, Andrea Agostini, Daniele Ghisi,
+Andrea Sarto y Raffaele Grimaldi). Han estrenaron música de Marco Momi
+y Ryan Carter (estreno mundial), Odd Sneeggen, Mayke Nas y Guido
+Baggiani (estreno italiano).
+
+#+BEGIN_SRC translate :src it :dest es :exports none
+Il Quartetto ha eseguito "Tensio" di Philippe Manoury, una delle
+composizioni più all'avanguardia nel campo della sperimentazione di
+nuove tecnologie musicali, presso il "Festival ManiFeste 2015"
+dell'IRCAM Centre Pompidou di Parigi, dopo una sessione di studio
+presso l' associazione "Pro Quartet" e la "Citè des Arts", con il
+prezioso aiuto di Franck Chevalier (Quatuor Diotima) e Gregoire
+Lorieux (IRCAM).
+#+END_SRC
+
+# The Quartet has performed "Tensio" by Philippe Manoury, one of the
+# most important experimental composition in new music, at Festival
+# ManiFeste 2015 of IRCAM in Paris, after a study session at
+# "Association Pro Quartet" and Citè des Arts, with the valuable help
+# of Franck Chevalier (Quatuor Diotima) and Gregoire Lorieux.
+
+El Cuarteto ha interpretado /Tensio/ de Philippe Manoury
++—una de las composiciones situadas más a la vanguardia en el campo de la experimentación con las nuevas tecnologías musicales—+,
+en el festival ManiFeste 2015 del IRCAM en París, luego de una sesión
+de estudio en la asociación Pro Quartet y la /Citè des Arts/, con la
+invaluable ayuda de Franck Chevalier (Cuarteto Diotima) y Gregoire
+Loireux (IRCAM).
+
+#+BEGIN_SRC translate :src it :dest es :exports none
+Il Quartetto si è esibito inoltre in concerti in tutta Italia e
+all'estero, tra i quali: Biennale di Venezia 2013, per la stagione
+“music@villaroma" di Firenze 2012 e 2013", a Strasburgo (Francia) per
+il festival "Minifest De Musique de Demain", a New York presso
+l'Italian Academy della Columbia University, a Tel Aviv per il
+Festival "Tzlil Meudcan", a Macerata per la "Rassegna di Nuova Musica",
+per il festival Playit di Firenze, per il festival "Nuova Musica" di
+Treviso, per il festival "Encontres de Compositores" di Mallorca, per
+"All frontiers" di Gradisca d'Isonzo dove ha collaborato con Mika
+Vainio (Pan Sonic), per l' "International Fajr Music Festival" di
+Teheran (Iran), a la Ferme de Villefavard (Francia), presso il Teatro
+Dal Verme di Milano,al Piccolo Regio di Torino, al Teatro Bibiena di
+Mantova, al "Festival dei Due Mondi" di Spoleto, al Circolo della
+Stampa di Torino, al Teatro Vittoria di Torino.
+#+END_SRC
+
+# Quartetto Maurice has performed in many important events and
+# festivals: Venice Biennale 2013, "Minifest II" in Strasbourg (France),
+# festival "Encontres de Compositores" in Mallorca (Spain), Festival
+# "Tzil Meudcan" in Tel Aviv, "Italian Academy" of Columbia University
+# in New York, "Rassegna Nuova Musica" in Macerata, festival "Playit"
+# and "Festival Villa Romana" in Florence, "Festival Nuova Musica" in
+# Treviso, "International music festival Fajr " in Teheran (Iran), "All
+# frontiers" in Gradisca d'Isonzo with Mika Vainio (Pan Sonic), in Dal
+# Verme Theater in Milan, “Festival dei Due Mondi” in Spoleto, Quirino
+# Teather in Rome, “Auditorium Sinopoli” in Fiesole, Bibiena Theater in
+# Mantova, Tortona Theater, "Gubbio Music Festival", "International
+# Festival" in Imola.
+
+El Cuarteto también ha realizado conciertos en toda Italia y en el
+extranjero: Bienal de Venecia de 2013, music@villaromana (Florencia,
+2012 y 2013), Minifest de Musique de Demain (Estrasburgo), Academia
+italiana de la Universidad de Columbia (Nueva York), Tzlil Meudcan
+(Tel Aviv), Rassegna di Nuova Musica (Macerata), Playit (Florencia),
+Nuova Musica (Treviso), Encontres de Compositores (Mallorca). All
+Frontiers (Gradisca d'Isonzo) donde colaboró ​​con Mika Vainio (Pan
+sonic), para el Fajr International Music Festival (Teherán), Ferme de
+Villefavard (Francia), Teatro Dal Verme (Milán), Piccolo Regio
+(Turín), Teatro Bibiena (Mantua), el Festival dei Due Mondi (Spoleto),
+Circolo della Stampa (Turín), Teatro Vittoria (Turín). Teatro de
+Tortona (Piamonte), Festival Musical de Gubbio (Umbría), Festival
+Internacional de Imola (Emilia-Romagna).
+
+#+BEGIN_SRC translate :src it :dest es :exports none
+# Il Quartetto è stato selezionato dall'associazione "Piero Farulli" per
+# il progetto "Le Dimore del Quartetto" e riceve sostegno dal "CIDIM",
+# comitato nazionale italiano musica, e dalla "De Sono Associazione per
+# la musica".
+#+END_SRC
+
+# The quartet recives support by CIDIM, comitato nazionale italiano
+# musica, and De Sono Associazione per la Musica.
+
+El cuarteto fue seleccionado por la Asociación Piero Farulli para el
+proyecto /Le Dimore del Quartetto/ y recibió el apoyo del Comité
+Nacional Italiano para la Música y de la Asociación para la Música /De
+Sono/.
+
+# Nella formazione di quintetto ha collaborato con i pianisti Alberto
+# Carnevale Ricci e Leonardo Zunica.
+
+# The Quartet has also performed in quintet formation with pianists
+# Alberto Carnevale Ricci and Leonardo Zunica.
+
+Como quinteto ha colaborado con los pianistas Alberto Carnevale Ricci
+y Leonardo Zunica.
+
+#+BEGIN_SRC translate :src it :dest es :exports none
+  Il Quartetto Maurice è anche direttore artistico di alcuni eventi
+  culturali: collabora con l'associazione "La Terra Galleggiante" nella
+  direzione artistica del festival di teatro musica danza "In
+  Prossimità", ha collaborato a Torino con la galleria d’arte
+  contemporanea "Cripta Settequattrosette" per il mini festival di
+  musica contemporanea “4", è stato promotore e direttore artistico
+  della "Transition Classic Orchestra" (orchestra d’archi di musica
+  contemporanea diretta da Carlo Boccadoro) e del festival di musica
+  pinerolese “Fahrenhote”.
+#+END_SRC
+
++El Cuarteto Maurice es también director artístico de varios eventos culturales: colabora con la asociación /La Terra Galleggiante/ en la dirección artística del festival de teatro, música y danza /In Prossimità/, ha colaborado en Turín con la galería de arte contemporáneo /Cripta Settequattrosette/ para el mini festival de música contemporánea «4», fue el promotor y director artístico de la Transition Classic Orchestra (orquesta de cuerdas de música contemporánea dirigida por Carlo Boccadoro) y del festival de música de Pinerolo /Fahrenhote/.+
+
+#+BEGIN_SRC translate :src it :dest es :exports none
+Nel 2016 il quartetto riceve una borsa di studio come migliore
+interprete all'interno della 48° edizione del corso estivo di musica
+contemporanea di Darmstadt. Il premio è stato assegnato dalla giuria
+del Kranichstein Music Prize composta da Joanna Bailie, Eva Zöllner e
+Thorbjørn Tønder Hansen.
+#+END_SRC
+
+# The independent jury of Kranichstein Music Prize within International
+# Summer Course for New Music Darmstadt 2016 comprising the composer
+# Joanna Bailie, the accordionist Eva Zöllner and the curator Thorbjørn
+# Tønder Hansen, awarded a fellowship for participation at the 2018
+# Darmstadt Summer Course to Quartetto Maurice for best interpratation.
+
+En 2016 el cuarteto recibe una beca como el mejor intérprete en la 48ª
+edición del curso de verano de Darmstadt de música contemporánea. El
+premio fue otorgado por el jurado del Premio de Música Kranichstein
+integrado por la compositora Joanna Bailie, la acordionista Eva
+Zöllner y el curador Thorbjørn Tønder Hansen.

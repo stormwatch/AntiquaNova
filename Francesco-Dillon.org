@@ -1,0 +1,149 @@
+#+TITLE:     Francesco Dillon
+#+AUTHOR:    Ezequiel Birman
+#+EMAIL:     stormwatch@espiga4.com.ar
+#+DATE:      2013-02-13 mié
+#+DESCRIPTION: Biografía breve
+#+KEYWORDS: música,cello
+#+LANGUAGE:  es
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+OPTIONS:   email:t timestamp:t creator:t
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT:
+
+#+BEGIN_SRC translate :src en :dest es :exports none
+  Francesco Dillon (b.Turin, 1973) already has a brilliant international
+  career to his credit, characterised by the originality and variety of
+  the repertoire that he has embraced. As a soloist he has performed on
+  such prestigious concert stages as the Konzerthaus in Vienna, the
+  Muziekgebouw in Amsterdam, the Berlin Philharmonie, the Herkulessaal
+  of Munich, the Laeiszhalle in Hamburg, the Jordan Hall in Boston and
+  the Colon Theatre of Buenos Aires, with such orchestras as the Italian
+  National Radio Orchestra (RAI), the Southwest Radio Symphony Orchestra
+  of Stuttgart, the Radio Symphony Orchestra of Vienna, the Orchestra of
+  the Colon Theatre, Ensemble Resonanz, Oulu Sinfonia Finland, and the
+  Tuscany Regional Orchestra (ORT). Most recently he made an acclaimed
+  debut with the Philharmonic Orchestra of La Scala, Milan, conducted by
+  Susanna Mallki.
+#+END_SRC
+
+Francesco Dillon (Turín, 1973) ya cuenta con una brillante carrera
+internacional en su haber, que se caracteriza por la originalidad y la
+variedad del repertorio que ha abrazado. Como solista ha actuado en
+escenarios tan prestigiosos como el Konzerthaus de Viena, el
+Muziekgebouw de Amsterdam, la Filarmónica de Berlín, la Herkulessaal
+de Munich, el Laeiszhalle de Hamburgo, el Salón Jordan en Boston y el
+Teatro Colón de Buenos Aires, con orquestas como la Orquesta de la
+RAI, la Orquesta Sinfónica de la SWR de Stuttgart, la Orquesta
+Sinfónica de la Radio de Viena, la Orquesta del Teatro Colón, Ensemble
+Resonanz, Oulu Sinfonia Finlandia, y la Orquesta regional de Toscana
+(ORT). Más recientemente tuvo un aclamado debut con la Filarmónica de
+La Scala de Milán, dirigida por Susanna Mallki.
+
+# Francesco Dillon ha studiato a Firenze con Andrea Nannoni,
+# perfezionandosi in seguito con A. Baldovino, M. Brunello e
+# D. Geringas, e seguendo masterclasses di M. Rostropovich,
+# A. Bijlsma, M. Perenyi. È stato allievo per la composizione di
+# S.Sciarrino. 
+
+# Francesco Dillon completed his studies with A.Nannoni in
+# Firenze. Other very influential teachers were D. Geringas,
+# M. Brunello and A. Baldovino and for the composition S. Sciarrino.
+
+Estudió con Andrea Nannoni, perfeccionandose luego con Amadeo
+Baldovino, Mario Brunello y David Geringas, atendiendo a las clases
+magistrales de Mstislav Rostropovich, Anner Bylsma y Miklós
+Perényi. Fue alumno de composición de Salvatore Sciarrino.
+
+# As a member of the internationally acclaimed group AlterEgo and as a
+# soloist, he is invited to play in all the major contemporary music
+# festivals. He regularly plays chamber music with partners such as
+# I.Arditti, G. Carmignola, P. Farulli, V. Hagen, A. Lonquich,
+# E. Pace, R. Schmidt, S. Scodanibbio. He won several competitions and
+# with the quartet prizes at Prague spring (1st prize 1998), ARD
+# Munich, Bordeaux. His performances are broadcasted by BBC, ARD,
+# Radio France, ORF, ABC, RAI, a.o.
+
+#+BEGIN_SRC translate :src en :dest es :exports none
+  In 1993 he was one of the founders of the Quartetto Prometeo, a
+  chamber group of international acclaim and winner of numerous prizes
+  (Prague Spring, ARD Munich, Bordeaux) and recently honoured with the
+  Leone d’Argento award of the Biennale Musica of Venice. Dillon is also
+  a stable member of the Alter Ego ensemble which is regularly invited
+  to the major contemporary music festivals around the world. His
+  passion for chamber music has led to performances with musicians such
+  as Irvine Arditti, Mario Brunello, Giuliano Carmignola, Piero Farulli,
+  David Geringas, Veronika Hagen, Alexander Lonquich, Enrico Pace,
+  Jean-Guihen Queyras.
+#+END_SRC
+
+En 1993 fundo con sus compañeros el Cuarteto Prometeo, un grupo de
+cámara reconocido internacionalmente y ganador de numerosos premios
+(Primavera de Praga, ARD de Munich, Burdeos) y, recientemente
+galardonado con el León de Plata en la Bienal de Música de
+Venecia. Dillon es también un miembro estable del conjunto Alter Ego
+que está invitado regularmente a los principales festivales de música
+contemporánea de todo el mundo. Su pasión por la música de cámara ha
+dado lugar a actuaciones con músicos como Irvine Arditti, Mario
+Brunello, Giuliano Carmignola, Piero Farulli, David Geringas, Veronika
+Hagen, Alexander Lonquich, Enrico Pace y Jean-Guihen Queyras.
+
+#+BEGIN_SRC translate :src en :dest es :exports none
+  The profound interest in contemporary music which he has always
+  cultivated has led to solid collaborations with the major composers of
+  our time: Gavin Bryars, Ivan Fedele, Luca Francesconi, Stefano
+  Gervasoni, Philip Glass, Vinko Globokar, Sofija Gubaidulina, Jonathan
+  Harvey, Toshio Hosokawa, Giya Kancheli, Alexander Knaifel, Helmut
+  Lachenmann, David Lang, Alvin Lucier, Arvo Pärt, Henri Pousseur, Steve
+  Reich, Fausto Romitelli, Kaija Saariaho, Salvatore Sciarrino and with
+  cult experimental musicians such as Matmos, and Pansonic, William
+  Basinsky and John Zorn.
+#+END_SRC
+
+El profundo interés por la música contemporánea que ha cultivado desde
+siempre, ha dado lugar a muchas colaboraciones con los principales
+compositores de nuestro tiempo: Gavin Bryars, Ivan Fedele, Luca
+Francesconi, Stefano Gervasoni, Philip Glass, Vinko Globokar, Sofija
+Gubaidulina, Jonathan Harvey, Toshio Hosokawa , Giya Kancheli,
+Alexander Knaifel, Helmut Lachenmann, David Lang, Alvin Lucier, Arvo
+Pärt, Henri Pousseur, Steve Reich, Fausto Romitelli, Kaija Saariaho,
+Salvatore Sciarrino y con músicos experimentales de culto como Matmos,
+Pansonic, William Basinsky y John Zorn.
+
+#+BEGIN_SRC translate :src en :dest es :exports none
+  Dillon's performances have been transmitted by such important
+  broadcasters as the BBC, RAI, ARD, Radio France, ORF, the Australian
+  Broadcasting Corporation and WDR. He has recorded for the ECM label,
+  as well as Kairos, Ricordi, Stradivarius, Die Schachtel and Touch. He
+  recently recorded for the first time, Variations by Salvatore
+  Sciarrino which received the Diapason d’0r prize, and Ballatta by
+  Giacinto Scelsi, both with the Italian National Radio Orchestra
+  (RAI). As a duo with the pianist Emanuele Torquati, he has brought out
+  three CDs of rare music of Schumann and the complete works for cello
+  by Franz Liszt for Brilliant Classics. Along with his concert activity
+  there have been teaching experiences in institutions such as the
+  School of Music of Fiesole, the Tchaikovsky Conservatory of Moscow,
+  the Pacific University in California, Untref-Buenos Aires, Manchester
+  University. From 2010 he has been artistic director of the season of
+  contemporary music Music@villaromana in Florence.
+#+END_SRC
+
+Las actuaciones de Dillon se han transmitido por radiodifusoras tan
+importantes como la BBC, la RAI, la ARD, Radio France, la ORF, la
+Australian Broadcasting Corporation y la WDR. Ha grabado para el sello
+ECM, así como Kairos, Ricordi, Stradivarius, Die Schachtel y
+Touch. Grabó por primera vez un disco con las /Variazioni/ de
+Salvatore Sciarrino que fue galardonado con el /Diapason d'Or/, y la
+/Ballata/ de Giacinto Scelsi, ambos registros con la orquesta de la
+RAI. A dúo con el pianista Emanuele Torquati grabó tres discos: un
+disco compacto doble de rarezas de Schumann y las obras completas de
+Franz Liszt para violonchelo para el sello Brilliant Classics. Junto a
+su actividad de conciertos fue docente en instituciones como la
+Escuela de Música de Fiesole, el Conservatorio Tchaikovsky de Moscú,
+la Universidad del Pacífico en California, la UNTREF y la Universidad
+de Manchester. Desde 2010 ha sido director artístico del ciclo de
+música contemporánea Music@Villaromana en Florencia.

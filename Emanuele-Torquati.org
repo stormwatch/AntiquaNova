@@ -1,0 +1,160 @@
+#+TITLE:     Emanuele Torquati
+#+AUTHOR:    Ezequiel Birman
+#+EMAIL:     stormwatch@espiga4.com.ar
+#+DATE:      2014-11-07
+#+DESCRIPTION: Breve biografía
+#+KEYWORDS: música, piano
+#+LANGUAGE:  es
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+OPTIONS:   email:t timestamp:t creator:t
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT:
+ 
+# “The best piano recitals, in keeping with the word “recital,” should
+# have a quasi‐literary dimension, where a performer offers a
+# discourse on music by the choice of works, something Mr. Torquati
+# did exceptionally well in his fascinating program. It conveyed not
+# just how Mr. Torquati plays the piano, but how he hears and thinks
+# about music. The entire program was filled with such striking
+# contrasts by this thoughtful musician.”  Anthony Tommasini, New York
+# Times
+
+#+BEGIN_QUOTE
+Los mejores recitales de piano, si nos atenemos a la palabra
+«recital», deberían tener una dimensión quasi-literaria, donde un
+intérprete ofrece un discurso sobre la música mediante la elección de
+las obras, algo que Torquati hizo excepcionalmente bien en su
+dscinante programa. Dio cuenta no sólo de cómo Torquati toca el piano,
+sino de cómo escucha y piensa acerca de la música. Todo el programa
+mostraba tales contrastes sorprendentes debidos a este músico
+atento.\\
+    -- Anthony Tommasini, New York Times
+#+END_QUOTE
+
+# “A vibrant pianist, excellent overall”
+# Boston Globe
+
+#+BEGIN_QUOTE
+Un pianista brillante, excelente en general.\\
+    -- Boston Globe
+#+END_QUOTE
+
+# “Italian pianist Emanuele Torquati was fascinating for his deep
+# submersion in the music and capacity to convey the works of very
+# different composers” Czech Music Quarterly
+
+#+BEGIN_QUOTE
+El pianista italiano Emanuele Torquati resultó fascinante por su
+inmersión profunda en la música y su capacidad para transmitir las
+obras de compositores muy diferentes.\\
+    -- Czech Music Quarterly
+#+END_QUOTE
+
+# Emanuele Torquati is rapidly gaining international recognition for
+# his poetic and passionate music making, communicative performances
+# and engaging programming.
+
+Emanuele Torquari está ganando rápidamente reconocimiento
+internacional gracias a su factura musical poética y apasionada, sus
+interpretaciones comunicativas y sus atractivos programas de
+concierto.
+
+# His flourishing career has taken him to some of Europe, Canada and
+# America’s most illustrious venues, in such diverse cities as Buenos
+# Aires, San Francisco, Banff, New York, Chicago, Vancouver, Boston,
+# Strasbourg, Paris, Lyon, Frankfurt, Berlin, Leipzig, Berlin, Prague,
+# Krakow, Munich, Graz, Ljubljana, Kiev and Oslo. His concerts have
+# been broadcasted by RAI, BBC Radio3, Deutschland Radiokultur, MDR
+# Kultur, Radio France, Swiss RSI, RTE Lyric and Euroradio.
+
+Su carrera floreciente lo ha llevado a parte de Europa, Canadá y los
+teatros más ilustres de América, en ciudades tan diversas como Buenos
+Aires, San Francisco, Banff, New York, Chicago, Vancouver, Boston,
+Strasbourg, Paris, Lyon, Frankfurt, Berlin, Leipzig, Berlin, Prague,
+Krakow, Munich, Graz, Ljubljana, Kiev and Oslo. Sus conciertos fueron
+transmitidos por la RAI, la BBC Radio 3, Deutschland Radiokultur, MDR
+Kultur, Radio France, Swiss RSI, RTE Lyric y Euroradio.
+
+# A notable performer of new music and an avid chamber musician, he
+# enjoys a diverse and varied career as a pianist. He was artist in
+# residence at The Banff Centre with the project “Voyage Messiaen” in
+# 2008 and in 2010 with “Intimate Sketches: Visions on Leoš Janáček”,
+# enriched by 4 new pieces commissioned for the occasion.
+
+Intérprete notable de nueva música y ávido músico de cámara, goza de
+una carrera diversa y variada como pianista. Fue artista en residencia
+en /The Banff Centre/ con el proyecto /Voyage Messiaen/ en 2008 y en
+2010 con /Intimate Sketches: Visions on Leoš Janáček/, además de 4
+nuevas piezas encargadas para la ocasión.
+
+# Recently he made his debut at Teatro Colòn with Orquesta Filarmonica
+# de Buenos Aires and he released his first Solo Album, “Promenade
+# sentimentale” for Brilliantclassics, devoted to the Complete Piano
+# music of Albert Roussel. This release has been followed by his third
+# Schumann CD with cellist Francesco Dillon, after those published in
+# 2010 (Schumann) and 2011 (Liszt).
+
+Recientemente debutó en el Teatro Colón con la Orquesta Filarmónica de
+Buenos Aures y lanzó su primer álbum solista /Promenade Sentimntale/
+para el sello /[[http://www.brilliantclassics.com/][Brilliant Classics]]/, dedicado a la música integral para
+piano de Albert Roussel. A este lanzamiento siguió su tercer CD
+dedicado a Schumann junto al chelista Francesco Dillon, tras aquellos
+producidos en 2010 (Schumann) y 2011 (Liszt).
+
+# Moreover, he has worked intensively with leading composers including
+# Sylvano Bussotti, Wolfgang Rihm, Kaija Saariaho, Beat Furrer,
+# Jonathan Harvey, Brett Dean, Magnus Lindberg, Peter Ablinger and he
+# has collaborated among others with musicians such as Isabel
+# Charisius, Matthias Pintscher, Michael Gielen, Marisol Montalvo,
+# Garth Knox, Susanne Linke, Inon Barnatan and Prometeo String
+# Quartet.
+
+Además, ha trabajado intensamente con compositores destacados
+incluyendo a Sylvano Bussotti, Wolfgang Rihm, Kaija Saariaho, Beat
+Furrer, Jonathan Harvey, Brett Dean, Magnus Lindberg, Peter Ablinger y
+ha colaborado entre otros con músicos como Isabel Charisius, Matthias
+Pintscher, Michael Gielen, Marisol Montalvo, Garth Knox, Susanne
+Linke, Inon Barnatan y el Cuarteto de Cuerdas Prometeo.
+
+# The recipient of several international awards, Torquati has been
+# supported by Institutions such as CEMAT, Accademia Musicale
+# Chigiana, DAAD Bonn, Ambassade de France en Italie,Universität für
+# Musik und Darstellende Kunst Graz, IEMA Frankfurt, The Banff Centre.
+
+Ganador de muchos premios internacionales, Torquati ha recibido el
+apoyo de instituciones como CEMAT, /Accademia Musicale Chigiana/, DAAD
+Bonn, /Ambassade de France en Italie/, /Universität für Musik und
+Darstellende Kunst/ Graz, IEMA Frankfurt, /The Banff Centre/.
+
+# He has been invited to give Masterclasses within several
+# Universities and Conservatories in Italy and abroad, a.o. for Longy
+# School, Boston University, University of La Plata (Argentina),
+# Trinity College Dublin.
+
+Fue invitado para dictar clases magistrales en muchas universidades y
+conservatorios en Italia y en el exterior; entre otras: Longy School,
+Boston University, Universidad de La Plata (Argentina) y el Trinity
+College Dublin.
+
+# Torquati was born in Milan in 1978.  His most influential teachers
+# were Giancarlo Cardini and Konstantin Bogino. He also worked closely
+# with Yvonne Loriod-Messiaen, Nicholas Hodges, Ian Pace, Michael
+# Wendeberg. He went on to specialize in Chamber Music first with
+# Franco Rossi, then he achieved a Master Degree at the International
+# Chamber Music Academy of the Trio di Trieste.
+
+Torquati nació en Milan en 1978. Sus profesores más influyentes fueron
+Giancarlo Cardini y Konstantin Bogino. También trabajó en estrecha
+colaboración con Yvonne Loriod-Messiaen, Nicholas Hodges, Ian Pace y
+Michael Wendeberg.
+
+# Since 2010, he’s the artistic director of music@villaromana for
+# German institution Villa Romana.
+
+Desde 2010 es el Director Artístico de music@villaromana para la
+institución alemana Villa Romana.
