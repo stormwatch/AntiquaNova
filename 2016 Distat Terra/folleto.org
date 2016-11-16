@@ -19,11 +19,6 @@
 # del número. 
 
 * CONCI ERTO V I E R N E S 09.12
-:PROPERTIES:
-fecha:<2016-11-12 sáb 22:00>
-lugar:Teatro El Galpón
-:END:
-
 #+BEGIN_VERSE
 CON
 CI ER
@@ -79,10 +74,7 @@ MÚSICA DE COMPOSITORES ITALIANOS PARA CUARTETO DE CUERDAS.
 
 
 * CONCI ERTO S ÁBAD O 10.12
-:PROPERTIES:
-fecha:[2016-12-10 sáb 22:00]
-lugar:Hotel Rucantú
-:END:
+
 #+BEGIN_VERSE
 22 hs.
 HOT EL RUC ANT Ú
