@@ -1,0 +1,24 @@
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK")
+#+OPTIONS: date:nil e:t email:nil f:t inline:t num:t p:nil pri:nil
+#+OPTIONS: prop:nil stat:t tags:t tasks:t tex:t timestamp:t title:t
+#+OPTIONS: toc:nil todo:t |:t
+#+TITLE: Ana Miñones
+#+SUBTITLE: Clarinete
+#+DATE: <2016-11-16 mié>
+#+AUTHOR:
+#+EMAIL: ebirman77@gmail.com
+#+LANGUAGE: es
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.1.1 (Org mode 9.0)
+
+Comenzó sus estudios con Jorge Álvarez y luego en el Conservatorio de
+Música de Bahía Blanca con Gustavo Kamerbeek.  Durante 2011 tomó
+clases con el Mtro. Carlos Céspedes. Fue integrante de la Joven
+Orquesta del Club Argentino, del Coro de Clarinetes Carmelo Azzolina,
+Banda Sinfónica de Bahía Blanca y diversas agrupaciones de cámara de
+música contemporánea, ejecutando y estrenando piezas de compositores
+contemporáneos para clarinete solo y para ensambles
+varios. Actualmente es profesora de clarinete en la Orquesta Escuela
+de Coronel Suárez.
