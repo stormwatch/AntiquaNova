@@ -235,7 +235,6 @@ contemporánea
 
 * CONCI ERTO D OM I N G O 11.12
 #+BEGIN_VERSE
-
 22 hs.
 T E AT RO MUNICIPAL
 DE L AMARQUE
@@ -243,42 +242,14 @@ P R O G RAMA:
 MÚSICA ANTIGUA Y
 CONTEMPORÁNEA PARA
 VIOLONCHELO SOLO
+
 I NT É R P R E T E S :
 FRANCESO DILLON (ITALIA)
+#+END_VERSE
 
-FRANCESCO DILLON (ITALIA)
-V I O LO N C H E LO
+#+INCLUDE: "../bios/Francesco-Dillon.org"
 
-Cuenta con una brillante carrera internacional, que se caracteriza por
-la originalidad y la variedad del repertorio que ha abrazado. Como
-solista ha actuado en escenarios tan prestigiosos como el Konzerthaus
-de Viena, el Muziekgebouw de Amsterdam, la Filarmónica de Berlín, la
-Herkulessaal de Munich, el Laeiszhalle de Hamburgo, el Salón Jordan en
-Boston y el Teatro Colón de Buenos Aires, con orquestas como la
-Orquesta de la RAI, la Orquesta Sinfónica de la SWR de Stuttgart, la
-Orquesta Sinfónica de la Radio de Viena, la Orquesta del Teatro Colón,
-Ensemble Resonanz, Oulu Sinfonia Finlandia, y la Orquesta Regional de
-Toscana (ORT) y la Filarmónica de La Scala de Milán, entre otras.
-
-Estudió con Andrea Nannoni, perfeccionandose luego con Amadeo
-Baldovino, Mario Brunello y David Geringas, atendiendo a las clases
-magistrales de Mstislav Rostropovich, Anner Bylsma y Miklós
-Perényi. Fue alumno de composición de Salvatore Sciarrino.
-
-En 1993 fundò el Cuarteto Prometeo, y es también un miembro estable
-del conjunto Alter Ego.  El profundo interés por la música
-contemporánea que ha cultivado desde siempre, ha dado lugar a muchas
-colaboraciones con los principales compositores de nuestro tiempo.
-
-Grabó un disco con las Variazioni de Salvatore Sciarrino con la
-orquesta de la RAI. A dúo con el pianista Emanuele Torquati grabó tres
-discos. Junto a su actividad de conciertos fue docente en
-instituciones como la Escuela de Música de Fiesole, el Conservatorio
-Tchaikovsky de Moscú, la Universidad del Pacífico en California, la
-UNTREF y la Universidad de Manchester.  Desde 2010 ha sido director
-artístico del ciclo de música contemporánea Music@Villaromana en
-Florenc
-
+#+BEGIN_VERSE
 mÚsica ANTIGUA Y
 CONTEMPORáNEA
 PARA VIOLONCHELO SOLO
@@ -311,6 +282,9 @@ VIOLÍN
 mÚsica BARROCA Y
 CONTEMPORáNEA
 PARA VIOLÍN Y VIOLONCHELO
+#+END_VERSE
+
+#+BEGIN_VERSE
 Johann Sebastian Bach (Alemania, 1685-1750)
 Dos movimientos de las 5 Invensiones
 Jean-Patrick Besingrand (Francia, 1985)
@@ -333,8 +307,6 @@ I. Allegro
 II. Très vif
 III. Lent
 IV. Vif, avec entrain
-
-4° CONCIERTO - PROGRAMA
 
 CON
 CI ER
@@ -369,7 +341,9 @@ ELÉCTRICAS
 I NT É R P R E T E S :
 ENSAMBLE NUNTEMPE
 (ARGENT INA)
+#+END_VERSE
 
+#+BEGIN_VERSE
 mÚsica MINIMALISTA
 PARA GUITARRAS ELÉCTRICAS
 Etham Braun (Estados Unidos, )
@@ -456,7 +430,9 @@ VIOLÍN
 
 TOMASZ SKWERES (POLONIA)
 V I O LO N C H E LO
+#+END_VERSE
 
+#+BEGIN_VERSE
 mÚsica DE JÓVENES
 COMPOSITORES
 Guillaume Dufay (Bélgica/Francia, 1397-1474)
@@ -538,7 +514,10 @@ V I O LO N C H E LO
 ANU N CI O
 EDGARDO VIZIOLI
 CONT RABA J O
+#+END_VERSE
 
+
+#+BEGIN_VERSE
 LACHRIMAE
 HOMENAJE AL COMPOSITOR
 ARGENTINO MARIANO ETKIN
@@ -611,14 +590,12 @@ JEFFREY MEANS (EEUU)
 ENSEMBLE ANTIQUANOVA
 (ARGENT INA / AUST RIA)
 
-Como quinteto ha colaborado con los
-pianistas Alberto Carnevale Ricci y Leonardo Zunica.
-
 QUARTETTO MAURICE
 Georgia Privitera, violín
 Laura Bertolino, violín
 Francesco Vernero, viola
 Aline Privitera, violoncello
+#+END_VERSE
 
 El Cuarteto Maurice es también director
 artístico de varios eventos culturales:
@@ -647,6 +624,10 @@ Vainio (Pan sonic), para el Fajr International Music Festival (Teherán), Ferme 
 (Francia), Teatro Dal Verme (Milán), Piccolo Regio (Turín), Teatro Bibiena (Mantua), el Festival
 dei Due Mondi (Spoleto), Circolo della Stampa (Turín), Teatro Vittoria (Turín).
 
+Como quinteto ha colaborado con los
+pianistas Alberto Carnevale Ricci y Leonardo Zunica.
+
+#+BEGIN_VERSE
 JEFFREY MEANS (EEUU)
 DIRECTOR
 
@@ -666,6 +647,8 @@ FA G OT
 
 MATÌAS MORELLI
 PERCUSIÒN
+#+END_VERSE
+
 Es Solista Principal de Percusión en la Orquesta Sinfónica de Bahía Blanca. Realizò
 estudios de música y percusión en el Instituto Nacional Superior de Arte en General
 Roca, el Instituto Universitario Nacional
@@ -679,7 +662,7 @@ desde la edición de un disco de música
 para niños hasta su participación en música de Cámara, el Rock, el Jazz y la Música
 Latinoamericana.
 
-
+#+BEGIN_VERSE
 YUI IWATA (JAPÓN)
 VIOLÍN
 
@@ -696,7 +679,9 @@ V I O LO N C H E LO
 ANU N CI O
 EDGARDO VIZIOLI
 CONT RABA J O
+#+END_VERSE
 
+#+BEGIN_VERSE
 ESTRENOS DE JÓVENES
 COMPOSITORES
 Y OBRAS PILARES
