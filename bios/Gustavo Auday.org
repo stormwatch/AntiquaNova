@@ -13,6 +13,11 @@
 #+EXCLUDE_TAGS: noexport
 #+CREATOR: Emacs 25.1.1 (Org mode 9.0)
 
+#+DESCRIPTION: Breve biografía
+#+KEYWORDS: música, contrabajo
+
+[[https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/400438_3139678541034_565083159_n.jpg?oh=6abf94d7ac776d40a9edf9a875633e3e&oe=58C6B0D0&__gda__=1485480984_03c9501a83d917aa3f7a5ffb3a652d11][foto]]
+
 Egresó del Conservatorio Nacional de Música “Carlos López Buchardo” en
 1992, donde estudió contrabajo con los maestros Enzo Raschelli de
 Ferraris, Carlos Vega, Antonio Pagano y Pastor Mora. Participó de los
