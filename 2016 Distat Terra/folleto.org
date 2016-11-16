@@ -15,7 +15,7 @@
 
 # Los números que ocupan la página entera son imágenes y por ende no
 # aparecen en la extracción de texto que hice del pdf. De ahí que el
-# título de cada concierto empieze con la palabra «Concierto» en lugar
+# título de cada concierto empieze con la palabra «concierto» en lugar
 # del número. 
 
 * CONCI ERTO V I E R N E S 09.12
@@ -24,21 +24,20 @@ fecha:<2016-11-12 sáb 22:00>
 lugar:Teatro El Galpón
 :END:
 
+#+BEGIN_VERSE
 CON
 CI ER
 TO
 V I E R N E S 09.12
 
-22 hs.\\
-T E AT RO “EL GALPÓN”\\
+22 hs.
+T E AT RO “EL GALPÓN”
+ITALIANOS PARA CUARTETO
+DE CUERDAS
 
-P R O G RAMA:\\
-MÚSICA DE COMPOSITORES\\
-ITALIANOS PARA CUARTETO\\
-DE CUERDAS\\
-
-I NT É R P R E T E S :\\
+I NT É R P R E T E S :
 QUARTETTO MAURICE (ITALIA)
+#+END_VERSE
 
 ** PROGRAMA:
 
@@ -79,15 +78,22 @@ MÚSICA DE COMPOSITORES ITALIANOS PARA CUARTETO DE CUERDAS.
 # desarrollo enorme. Carrera meteórica
 
 
-* CONCIERTO SÁBADO 10.12
+* CONCI ERTO S ÁBAD O 10.12
 :PROPERTIES:
 fecha:[2016-12-10 sáb 22:00]
 lugar:Hotel Rucantú
 :END:
-
-
-22 hs.\\
-HOTEL RUCANTÚ
+#+BEGIN_VERSE
+22 hs.
+HOT EL RUC ANT Ú
+P R O G RAMA:
+MÚSICA RESERVATA
+Y CONTEMPORÁNEA
+I NT É R P R E T E S :
+ENSEMBLE DE MÚSICOS
+DE BAHÍA BLANCA
+  CONCIERTO SÁBADO 10.12
+#+END_VERSE
 
 ** PROGRAMA:
 MÚSICA RESERVATA\\
@@ -226,18 +232,21 @@ contemporánea
 # reconocida en el free jazz en Suiza. Dialogo entre improv libre y
 # comoposición, influencias del jazz.
 
-* 3
-22 hs.\\
-T E AT RO MUNICIPAL\\
-DE L AMARQUE\\
-P R O G RAMA:\\
-MÚSICA ANTIGUA Y\\
-CONTEMPORÁNEA PARA\\
-VIOLONCHELO SOLO\\
-I NT É R P R E T E S :\\
+
+* CONCI ERTO D OM I N G O 11.12
+#+BEGIN_VERSE
+
+22 hs.
+T E AT RO MUNICIPAL
+DE L AMARQUE
+P R O G RAMA:
+MÚSICA ANTIGUA Y
+CONTEMPORÁNEA PARA
+VIOLONCHELO SOLO
+I NT É R P R E T E S :
 FRANCESO DILLON (ITALIA)
 
-RANCESCO DILLON (ITALIA)\\
+FRANCESCO DILLON (ITALIA)
 V I O LO N C H E LO
 
 Cuenta con una brillante carrera internacional, que se caracteriza por
@@ -270,13 +279,14 @@ UNTREF y la Universidad de Manchester.  Desde 2010 ha sido director
 artístico del ciclo de música contemporánea Music@Villaromana en
 Florenc
 
-mÚsica ANTIGUA Y\\
-CONTEMPORáNEA\\
-PARA VIOLONCHELO SOLO\\
-CON\\
-CI ER\\
-TO\\
+mÚsica ANTIGUA Y
+CONTEMPORáNEA
+PARA VIOLONCHELO SOLO
+CON
+CI ER
+TO
 DOM I NG O 11.12
+#+END_VERSE
 
 * CONCI ERTO LU N E S 12.12
 
