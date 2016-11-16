@@ -1,0 +1,99 @@
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK")
+#+OPTIONS: date:nil e:t email:nil f:t inline:t num:nil p:nil pri:nil
+#+OPTIONS: prop:nil stat:t tags:t tasks:t tex:t timestamp:t title:t
+#+OPTIONS: toc:nil todo:t |:t prop:nil
+#+TITLE: Michael Winter
+#+SUBTITLE: Compositor
+#+DATE: <2016-11-16 mié>
+#+AUTHOR:
+#+EMAIL: ebirman77@gmail.com
+#+LANGUAGE: es
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.1.1 (Org mode 9.0)
+
+#+DESCRIPTION: biografía
+#+KEYWORDS: música, compositor
+
+# org-mode no hace inline de la foto al exportar porque
+# org-html-image-rules especifica que debe terminar en una extensión
+# de archivo gráfico como ‘.jpg’
+
+http://www.unboundedpress.org/unboundedpress/images.files/564e9bade4b0ce38bd2f9b88/binary
+
+* Bio anterior
+Compositor, teórico musical y diseñador de software cuyo trabajo a
+menudo explora procesos simples.
+
+Es co-fundador y director de Wulf, una organización artística sin
+fines de lucro que ofrece música gratuita para el público de Los
+Ángeles.
+
+Michael Winter es un firme creyente en la creación musical como un
+proceso exploratorio, así como también cree en la libre circulación de
+información.
+
+* Bio nueva
+
+#+BEGIN_SRC translate :src en :dest es :exports none
+  My work often explores simple processes where dynamic systems,
+  situations, and settings are defined through minimal graphic- and
+  text-based scores that can be realized in a variety of ways. To me,
+  everything we experience is computable. Given this digital philosophy,
+  I acknowledge even my most open works as algorithmic; and, while not
+  always apparent on the surface of any given piece, the considerations
+  of computability and epistemology are integral to my practice. I often
+  reconcile epistemological limits with artistic practicality by
+  considering and addressing the limits of computation from a musical
+  and experiential vantage point and by collaborating with other
+  artists, mathematicians, and scientists in order to integrate objects,
+  ideas, and texts from various domains as structural elements in my
+  pieces.
+#+END_SRC
+
+#+BEGIN_SRC translate :src en :dest es :exports none
+  I have performed across the Americas and Europe at venues ranging in
+  size from small basements to large museums to outdoor public spaces
+  (some examples of more well known venues are REDCAT, Los Angeles; the
+  University of Lille, France; the Ostrava Festival of New Music, Czech
+  Republic; the CEAIT Festival, Los Angeles; the Museum of Contemporary
+  Art, Los Angeles; and Museo de Arte Contemporáneo de Santiago,
+  Chile). In 2008, I co-founded the wulf., a Los Angeles-based
+  organization dedicated to experimental performance and art. As a
+  laboratory and hub for exploring new ideas, the wulf. has become an
+  experiment in alternative communities and economies. Similarly, my
+  work subverts discriminatory conventions and hierarchies by exploring
+  alternative forms of presentation and interaction.
+#+END_SRC
+
+#+BEGIN_QUOTE
+Mi trabajo explora a menudo procesos simples donde los sistemas
+dinámicos, las situaciones, y los ajustes se definen con los
+resultados gráficos y basados ​​en el texto mínimos que se pueden
+realizar de una variedad de maneras. Para mí, todo lo que
+experimentamos es computable. Dada esta filosofía digital, reconozco
+incluso mis trabajos más abiertos como algorítmicos; Y aunque no
+siempre son evidentes en la superficie de una pieza dada, las
+consideraciones de computabilidad y epistemología son parte integral
+de mi práctica. A menudo concilio los límites epistemológicos con la
+practicidad artística considerando y abordando los límites de la
+computación desde un punto de vista musical y experiencial y
+colaborando con otros artistas, matemáticos y científicos para
+integrar objetos, ideas y textos de diversos dominios como elementos
+estructurales En mis piezas.
+
+Me he presentado a través de las Américas y Europa en lugares que van
+desde pequeños sótanos a grandes museos a espacios públicos al aire
+libre (algunos ejemplos de lugares más conocidos son REDCAT, Los
+Ángeles, la Universidad de Lille, Francia, Ostrava Festival of New
+Music , República Checa, el Festival CEAIT de Los Ángeles, el Museo de
+Arte Contemporáneo de Los Ángeles y el Museo de Arte Contemporáneo de
+Santiago. En 2008, cofundé /el wulf./, Una organización basada en Los
+Ángeles dedicada a performances experimentales y al arte. Como
+laboratorio y centro para explorar nuevas ideas, /el wulf./ Se ha
+convertido en un experimento en comunidades y economías
+alternativas. De manera similar, mi trabajo subvierte convenciones y
+jerarquías discriminatorias explorando formas alternativas de
+presentación e interacción. --Michael Winter
+#+END_QUOTE
