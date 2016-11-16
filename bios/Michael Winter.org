@@ -35,7 +35,9 @@ proceso exploratorio, así como también cree en la libre circulación de
 información.
 
 * Bio nueva
-
+:PROPERTIES:
+:fuente:http://www.unboundedpress.org
+:END:
 #+BEGIN_SRC translate :src en :dest es :exports none
   My work often explores simple processes where dynamic systems,
   situations, and settings are defined through minimal graphic- and
