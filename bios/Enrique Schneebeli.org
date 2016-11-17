@@ -17,7 +17,7 @@
 #+KEYWORDS: música, trombón
 
 * Foto
-http://www.trombonanza.com.ar/galeria_profesores/images/fullscreen/Enrique_Scheneebeli.jpg
+[[http://www.trombonanza.com.ar/galeria_profesores/images/fullscreen/Enrique_Scheneebeli.jpg]]
 
 * Bio
 # de http://www.trombonanza.com.ar/galeria_profesores/docs/Enrique_Schneebeli.pdf
