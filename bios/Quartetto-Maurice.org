@@ -14,10 +14,10 @@
 #+DESCRIPTION: Breve biografía
 #+KEYWORDS: música, cuarteto, cuerdas
 
-* Fotos
+* Foto
 [[http://www.quartettomaurice.com/sites/default/files/styles/large/public/10433840_1027529207286474_4442474488021959259_n_0.jpg]]
 
-[[http://www.quartettomaurice.com/sites/default/files/immagini/maurice_new.jpg]]
+# [[http://www.quartettomaurice.com/sites/default/files/immagini/maurice_new.jpg]]
 
 * Integrantes
 
@@ -26,11 +26,8 @@
   - Francesco Vernero :: viola.
   - Aline Privitera :: violoncello.
 
-* Agregado para la bio de Distat Terra 2016
-El Cuarteto Maurice ha desarrollado en relativamente poco tiempo una
-carrera meteórica.
+* Bio
 
-* Bio del sitio oficial
 #+BEGIN_SRC translate :src it :dest es :exports none
 Vincitore del XXXV Premio della Critica Musicale "Franco Abbiati" 2015
 dedicato a Piero Farulli, il Quartetto Maurice è stato fondato nel
@@ -42,6 +39,9 @@ dedicato a Piero Farulli, il Quartetto Maurice è stato fondato nel
 # was founded in 2002 in Turin with the endorsement of the Trio Debussy
 # and Giacomo Agazzini (Turin Quartet).
 
+El Cuarteto Maurice ha desarrollado en relativamente poco tiempo una
+carrera meteórica.
+# Lo que sigue está tomado de la web oficial
 Ganadores del XXXV Premio de la Crítica Musical /Franco Abbiati/ 2015
 dedicado a Piero Farulli, el Cuarteto Maurice se fundó en el año 2002,
 gracias al respaldo del Trío Debussy y de Giacomo Agazzini (Cuarteto
