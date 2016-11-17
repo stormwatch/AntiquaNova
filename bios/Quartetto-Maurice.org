@@ -14,14 +14,16 @@
 #+DESCRIPTION: Breve biografía
 #+KEYWORDS: música, cuarteto, cuerdas
 
-Georgia Privitera, violín.
+* Fotos
+http://www.quartettomaurice.com/sites/default/files/styles/large/public/10433840_1027529207286474_4442474488021959259_n_0.jpg
+http://www.quartettomaurice.com/sites/default/files/immagini/maurice_new.jpg
 
-Laura Bertolino, violín.
+* Integrantes
 
-Francesco Vernero, viola.
-
-Aline Privitera, violoncello.
-
+  - Georgia Privitera :: violín.
+  - Laura Bertolino :: violín.
+  - Francesco Vernero :: viola.
+  - Aline Privitera :: violoncello.
 
 #+BEGIN_SRC translate :src it :dest es :exports none
 Vincitore del XXXV Premio della Critica Musicale "Franco Abbiati" 2015
@@ -34,10 +36,12 @@ dedicato a Piero Farulli, il Quartetto Maurice è stato fondato nel
 # was founded in 2002 in Turin with the endorsement of the Trio Debussy
 # and Giacomo Agazzini (Turin Quartet).
 
+* Bio
+
 Ganadores del XXXV Premio de la Crítica Musical /Franco Abbiati/ 2015
 dedicado a Piero Farulli, el Cuarteto Maurice se fundó en el año 2002,
-gracias a la inspiración del Trío Debussy y de Giacomo Agazzini
-(Caurteto de Turín).
+gracias al respaldo del Trío Debussy y de Giacomo Agazzini (Cuarteto
+de Turín).
 
 
 # Il Quartetto Maurice studia e si diploma brillantemente nel 2009
