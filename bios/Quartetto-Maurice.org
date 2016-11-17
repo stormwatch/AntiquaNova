@@ -15,8 +15,9 @@
 #+KEYWORDS: música, cuarteto, cuerdas
 
 * Fotos
-http://www.quartettomaurice.com/sites/default/files/styles/large/public/10433840_1027529207286474_4442474488021959259_n_0.jpg
-http://www.quartettomaurice.com/sites/default/files/immagini/maurice_new.jpg
+[[http://www.quartettomaurice.com/sites/default/files/styles/large/public/10433840_1027529207286474_4442474488021959259_n_0.jpg]]
+
+[[http://www.quartettomaurice.com/sites/default/files/immagini/maurice_new.jpg]]
 
 * Integrantes
 
