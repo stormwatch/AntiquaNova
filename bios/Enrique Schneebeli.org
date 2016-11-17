@@ -1,0 +1,136 @@
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:nil
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK")
+#+OPTIONS: date:nil e:t email:nil f:t inline:t num:nil p:nil pri:nil
+#+OPTIONS: prop:nil stat:t tags:t tasks:t tex:t timestamp:t title:t
+#+OPTIONS: toc:nil todo:t |:t prop:nil
+#+TITLE: Enrique Schneebeli
+#+SUBTITLE: Trombón bajo
+#+DATE: <2016-11-16 mié>
+#+AUTHOR: Ezequiel Birman
+#+EMAIL: ebirman77@gmail.com
+#+LANGUAGE: es
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.1.1 (Org mode 9.0)
+
+#+DESCRIPTION: biografía
+#+KEYWORDS: música, trombón
+
+* Foto
+http://www.trombonanza.com.ar/galeria_profesores/images/fullscreen/Enrique_Scheneebeli.jpg
+
+* Bio
+# de http://www.trombonanza.com.ar/galeria_profesores/docs/Enrique_Schneebeli.pdf
+
+Nació en Buenos Aires en 1980. Comenzó sus estudios de trombón en el
+Posaunenchor Temperley, ensamble en el que actualmente se desempeña
+como director musical y con el cual ha participado de numerosas giras
+por distintos países de América y Europa. Cursó estudios en el
+Conservatorio Nacional de Música Carlos López Buchardo, egresando con
+el título de Profesor Nacional de Música con especialidad
+Trombón. Fueron sus profesores Gaspar Licciardone y Eduardo López. Fue
+becario del Fondo Nacional de las Artes, la Fundación Antorchas y la
+Fundación Teatro Colón. Completó su formación en Alemania, tomando
+clases con los profesores Olaf Ott (Trombón Solista de la Orquesta
+Filarmónica de Berlín) y Eckhard Treichel (Profesor de la
+Musikhochschule de Düsseldorf). Asimismo ha asistido a numerosos
+cursos y clases magistrales dictadas por prestigiosos trombonistas de
+reconocimiento internacional.
+
+Es ejecutante de trombón contrabajo barroco, instrumento con el cual
+ha realizado actuaciones junto a diversos grupos de música antigua
+(Promúsica de Rosario, Selva Vocal e Instrumental, etc.), destacándose
+en el 2001 el Ensamble Elyma (Ginebra, Suiza) a cargo del maestro
+Gabriel Garrido.
+
+Realiza habitualmente presentaciones de música contemporánea junto a
+diversos ensambles, participando frecuentemente del Ciclo Colón
+Contemporáneo y el Ciclo de Conciertos de Música Contemporánea del
+Teatro Gral. San Martín, en colaboración con el CEAMC, así como de
+diversos proyectos en el CETC (Teatro Colón), el TACEC (Teatro
+Argentino) y el Ciclo de Ópera Contemporánea de la Secretaría de
+Cultura de la Nación. Integró el grupo Ensambles XXI, con el cual
+realizó conciertos en la Sala Principal del Teatro Colón y el Centro
+de Experimentación del mismo y participó de numerosos conciertos de
+primeras audiciones en la Universidad Católica Argentina. Fue invitado
+por Equipo de Trabajo para la interpretación de la obra teatro-musical
+Manchas en el Silencio, actuando en el 3er Festival Internacional de
+Danza y Teatro de Lima (Perú).
+
+Ha actuado como solista junto a las Orquestas Sinfónicas de Córdoba,
+Rosario y Santa Fe, la Orquesta de Cámara de Campinas (Brasil), la
+Orquesta Sinfónica de la Universidad de Tucumán, la Orquesta de Cámara
+de Morón, la Orquesta Sinfónica Juvenil Libertador San Martín, la
+Banda Sinfónica Carlos Gómez (Brasil), la Banda Sinfónica de la
+Facultad de Filosofía y Letras de la Universidad de Buenos Aires, la
+Banda del Conservatorio Alberto Ginastera y el Posaunenchor
+Temperley. Realizó primeras audiciones en Argentina de importantes
+obras del repertorio solista, destacándose entre otras el Concierto
+para trombón bajo y orquesta de Frank. H. Siekmann y Symphony Nº 34 de
+Alan Hovhaness. En recitales con piano ha ofrecido el estreno
+argentino de numerosas obras del repertorio.
+
+# Es miembro fundador del cuarteto Viento Sur Trombones, ensamble con el
+# cual se presenta habitualmente en escenarios de todo Argentina,
+# destacándose numerosas actuaciones como solistas junto a diversas
+# orquestas argentinas, ofreciendo primeras audiciones de las
+# principales obras del repertorio para esta formación, tales como:
+# Concertino para cuarteto de trombones y orquesta (Jan Koetsier), A
+# Portrait (Dennis Armitage / George Gershwin), Concierto para tres
+# trombones, cuerdas y percusión (Derek Bourgeois), Concerto Grosso
+# (Arcady Dubensky), And the greatest of this is… (Irvin Wagner), así
+# como estrenos de nuevas obras para cuarteto de trombones y orquesta.
+# Con este ensamble realiza frecuentemente giras por Estados Unidos,
+# habiendo ofrecido recitales y clases magistrales en numerosas
+# universidades de los estados de Oklahoma, Texas, Utah, Florida,
+# Pennsylvania, Virginia, New Jersey y New York, además de presentarse
+# en importantes festivales internacionales: International Trombone
+# Festival (Salt Lake City, Utah 2008 / Austin, Texas 2010), Eastern
+# Trombone Workshop (Fort Meyer, Virginia) Big 12 Trombone Conference
+# (Lubbock, Texas) y Oklahoma Trombone Festival (Norman, Oklahoma).
+
+# En el ámbito de la comedia musical, ha participado en La bella y la
+# bestia (1999), Mi bella dama (2000/2001), El hombre de la mancha
+# (2005), Eva – el gran musical argentino (2008/2009), El jóven
+# Frankestein (2009), Otello (2009), Las mil y una noches (2010),
+# La bella y la bestia (2010), Drácula (2011) La Novicia Rebelde
+# (2011), "Dorian Gray - El retrato" (2013) y "Los locos Addams" (2013),
+# colaborando con directores como Gerardo Gardelín, Alberto Favero y
+# Ángel Mahler, entre otros.
+
+# Ha dictado cursos en el Conservatorio Municipal de Música de la ciudad
+# de Buenos Aires Manuel de Falla, en la Universidad de Rosario y en
+# el Conservatorio Felix T. Garzón (Córdoba), además de integrar el
+# staff de profesores del Programa de Bandas Infanto-juveniles (de la
+# Nación Argentina) y del Programa de Orquestas Infantiles y Juveniles
+# de la Ciudad de Buenos Aires. En 2007 y 2011 fue convocado para
+# integrar el staff de profesores del Curso Internacional de eufonio,
+# trombón y tuba, realizado en el Conservatorio Nacional de Música de
+# Perú (Lima), y en 2009 y 2010 para el Festival de Música de Campinas
+# (Brasil). En 2012 ha participado como profesor en el Encuentro
+# Nacional de Trombonistas (Brasil) y en el IV Encuentro Internacional
+# de Metales de Tatui (Brasil). Desde 2001 se desempeña como profesor y
+# co-organizador del encuentro internacional Trombonanza. Dicta clases
+# en forma particular, recibiendo alumnos de distintos puntos de
+# Sudamérica, muchos de los cuales ocupan hoy cargos en importantes
+# orquestas. Es creador y organizador del proyecto Trombones en Gira,
+# ensamble de 12 trombones y 2 tubas que recorre Argentina ofreciendo
+# conciertos difundiendo la música para esta formación.
+
+# Sus arreglos y composiciones para ensamble de bronces y ensamble de
+# trombones, han sido interpretados por numerosos grupos de Argentina y
+# del exterior, destacándose Junge Deutsche Blecbläsersolisten
+# (Alemania) bajo la dirección del maestro Walter Hilgers, y University
+# of Texas at Austin Trombone Ensamble (EEUU), bajo la dirección del
+# maestro Nathaniel Brickens.
+
+Actualmente se desempeña como Trombón bajo (y Trombón contrabajo) en
+la Orquesta Estable del Teatro Colón, cargo que ha ocupado
+anteriormente en la Orquesta Filarmónica de Buenos Aires (2004 a
+2007), la Orquesta Sinfónica Nacional Argentina (2002 y 2003) y la
+Orquesta Estable del Teatro Argentino de La Plata (1999 a
+2003).
+# Colabora habitualmente con estos organismos cuando requieren un
+# substituto o ejecutante extra, así como junto a la Orquesta Nacional
+# de Música Argentina Juan de Dios Filiberto y muchas otras agrupaciones
+# sinfónicas y de cámara.
