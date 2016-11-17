@@ -1,20 +1,31 @@
-#+TITLE:     Francesco Dillon
-#+AUTHOR:    Ezequiel Birman
-#+EMAIL:     stormwatch@espiga4.com.ar
-#+DATE:      2013-02-13 mié
-#+DESCRIPTION: Biografía breve
-#+KEYWORDS: música,cello
-#+LANGUAGE:  es
-#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
-#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
-#+OPTIONS:   email:t timestamp:t creator:t
-#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
-#+EXPORT_SELECT_TAGS: export
-#+EXPORT_EXCLUDE_TAGS: noexport
-#+LINK_UP:   
-#+LINK_HOME: 
-#+XSLT:
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK")
+#+OPTIONS: date:nil e:t email:nil f:t inline:t num:t p:nil pri:nil
+#+OPTIONS: prop:nil stat:t tags:t tasks:t tex:t timestamp:t title:t
+#+OPTIONS: toc:nil todo:t |:t prop:nil
+#+TITLE: Francesco Dillon
+#+SUBTITLE: Contrabajo
+#+DATE: <2016-11-17 jue>
+#+AUTHOR:
+#+EMAIL: ebirman77@gmail.com
+#+LANGUAGE: es
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.1.1 (Org mode 9.0)
 
+#+DESCRIPTION: Breve biografía
+#+KEYWORDS: música, violoncello
+
+* Foto
+# Creo que esta es la foto usada acutualmente en el folleto de Distat
+# Terra 2016 pero en blanco y negro.
+
+[[http://francescodillon.com/images/FD/1.jpg]]
+
+# Esta otra me gusta un poco más [[http://francescodillon.com/images/FD/3.jpg]]
+
+
+* Bio
 #+BEGIN_SRC translate :src en :dest es :exports none
   Francesco Dillon (b.Turin, 1973) already has a brilliant international
   career to his credit, characterised by the originality and variety of
