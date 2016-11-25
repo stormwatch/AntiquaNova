@@ -13,10 +13,14 @@
 #+LANGUAGE: es
 #+SELECT_TAGS: export
 
-# Los números que ocupan la página entera son imágenes y por ende no
-# aparecen en la extracción de texto que hice del pdf. De ahí que el
-# título de cada concierto empieze con la palabra «concierto» en lugar
-# del número. 
+Los números que ocupan la página entera en la versión para imprimir
+son imágenes y por ende no aparecen en la extracción de texto que hice
+del pdf. De ahí que el título de cada concierto empieze con la palabra
+«concierto» en lugar del número.
+
+Traté de preservar en la medida de lo posible un formato similar al
+del folleto con los mismos saltos de línea, uso de mayúsculas y otros
+detalles. Ignoré los footers y numeración de página.
 
 * CONCI ERTO V I E R N E S 09.12
 #+BEGIN_VERSE
@@ -85,66 +89,35 @@ I NT É R P R E T E S :
 ENSEMBLE DE MÚSICOS
 DE BAHÍA BLANCA
   CONCIERTO SÁBADO 10.12
+
+PROGRAMA:
+MÚSICA RESERVATA
+Y CONTEMPORANEA
+
+INTÉRPRETES:
+ENSEMBLE DE MÚSICOS
+DE BAHÍA BLANCA
 #+END_VERSE
 
-** PROGRAMA:
-MÚSICA RESERVATA\\
-Y CONTEMPORÁNEA
+#+INCLUDE: "../bios/Ensamble de Músicos de Bahía Blanca.org::*Integrantes" :only-contents t
 
-** INTÉRPRETES:
-ENSEMBLE DE MÚSICOS\\
-DE BAHÍA BLANCA
-
-#+INCLUDE: "../bios/Ensamble de Músicos de Bahía Blanca.org"
-
-ANA MIÑONES\\
-CLARINETE
-
-Comenzó sus estudios con Jorge Álvarez y luego en el Conservatorio de
-Música de Bahía Blanca con Gustavo Kamerbeek.  Durante 2011 tomó
-clases con el Mtro.  Carlos Céspedes.  Fue integrante de la Joven
-Orquesta del Club Argentino, del Coro de Clarinetes Carmelo Azzolina,
-Banda Sinfónica de Bahía Blanca y diversas agrupaciones de cámara de
-música contemporánea, ejecutando y estrenando piezas de compositores
-contemporáneos para clarinete solo y para ensambles
-varios. Actualmente es profesora de clarinete en la Orquesta Escuela
-de Coronel Suárez.
-
-
-ALFREDO DAVIES\\
+*** Alfredo Davies
 TENOR
 
-Nació en la ciudad de Buenos Aires el 14 de abril de 1966. Estudió
-técnica vocal con los maestros Adriana Bensusan, Armando Livani, Laura
-Cáceres, Alfredo Miranda y repertorio con el mtro. César Tello. Fué
-solista en el estreno orquestal de “La epopeya de Malvinas”, obra de
-Rubén Lasdica, en Bahía Blanca. Cantó en las óperas “Lucía di
-Lammermour, “La flauta mágica” y “Anna Bolena”. Interpretó oratorios
-de A. Vivaldi, W. Mozart, J. S. Bach, L.  Janacek, A. Dvorak. Desde el
-año 2005 se desempeña en la fila de tenores primeros del Coro Estable
-de Bahía Blanca.
+#+INCLUDE: "../bios/Alfredo Davies.org::*Bio"
 
-GUSTAVO KAMERBEEK\\
+*** Ana Miñones
+CLARINETE
+
+#+INCLUDE: "../bios/Ana Miñones.org::*Bio"
+
+*** GUSTAVO KAMERBEEK
 CLARINETE BAJO
 
+#+INCLUDE: "../bios/Gustavo Kamerbeek.org::*Bio"
 
-ROCIO MIGUELES\\
+*** ROCIO MIGUELES
 SAXO
-
-Saxofonista, profesora y productora nacida en Bahía Blanca, graduada en el Conservatorio Provincial de Música de esa
-ciudad. María Noel Luzardo (Argentina),
-Arno Bornkamp (Holanda), Claude Delangle (Francia), entre otros, fueron algunos
-de los maestros que han aportado a su
-formación técnica e interpretativa. Junto a
-la Orquesta Sinfónica de Bahía Blanca ha
-interpretado varios conciertos. Es profesora de la cátedra “Saxofón” en el CePEAC
-N°1 de Punta Alta y el Conservatorio de
-Música de Bahía Blanca, donde también
-coordina el Ensamble de Saxos integrado
-por alumnos. Es titular de la productora R
-Producciones Culturales, especializada en
-gestión de eventos vinculados a la música académica, como lo es actualmente el
-ciclo “Música de Cámara 2016, 3ra Temporada”.
 
 MATÌAS MORELLI\\
 PERCUSIÒN
@@ -177,13 +150,15 @@ varias giras por Ucrania, Italia, España, Holanda e Inglaterra.
 GUSTAVO AUDAY
 CONTRABAJO
 
+
+** 
 MÚsica\\
 reservata y\\
 contemporánea
 
   - Orlando di Lasso (Bélgica, 1532-1594) :: Carmina Chromatico, quæ
        audis modulata tenore (del Prophetiae Sybillarum)\\
-  transcripción para ensamble (J.M. Serrano)
+       transcripción para ensamble (J.M. Serrano)
   - Anna Korsun (Ucrania, 1986) :: Nighttime Tales (2013)\\
   para voz (tenor), clarinete, trompeta, percusión y contrabajo
   - Nicola Vicentino (Italia, 1511 - 1575 o 1576) :: L’aura che ’l
@@ -197,6 +172,27 @@ contemporánea
   para contrabajo y percusión
 
 ** TODO Comentario
+#+BEGIN_QUOTE
+  El punto del arte es, precisamente, hacer claro y accesible lo que
+  podría ser poco claro e inaccesible bajo la forma de argumentos.
+#+END_QUOTE
+
+
+El 2 de junio de 1551 ante la audiencia del coro papal y dos jueces,
+Vincentio Lusitano y Nicola Vicentino debatieron acerca de la
+pertinencia de la teoría de los modos griegos antiguos en relación con
+la práctica y teoría contemporánea. Sabemos que los jueces, también
+compositores, dieron por ganador a Lusitano y 
+
+Vicentino, Willaert, De Rore
+
+Justificar (otra palabra) la música progresiva 
+
+conciliar la música del pasado con la actual. Concilio de Trento
+
+Ferrara se constituyó en el centro de la música secular de avanzada.
+
+Su influencia en Luzzazco Luzzaschi y en Carlo Gesualdo. 
 
 # Música Reservata particular renacentista conección con la ciudad de
 # Ferrara, estilo primero vocal y luego compositivo. Ferrara capital de
@@ -222,7 +218,60 @@ contemporánea
 
 # Se repite la obra de Max Keller. Ante todo imprivisador. Fugra
 # reconocida en el free jazz en Suiza. Dialogo entre improv libre y
+# comoposición, influencia
+
+# Lusitano no era de Ferrara, conectado con la música italiana. Debate
+# internacional donde intervino el Papa. Debate Lucitano y Vicentino
+# sobre el futuro de la música. Cromatismo vs Diatonismo modal o Modos
+# griegos (no es música modal así nomás).
+
+# Vicentino libro sobre la practica instrumental.
+
+# Perini. Se compelemta con la musica de dos jovenes
+# compositores. Estrenos y encargos de la fman.
+
+# Se repite la obra de Max Keller. Ante todo imprivisador. Fugra
+# reconocida en el free jazz en Suiza. Dialogo entre improv libre y
 # comoposición, influencias del jazz.
+
+# Hablar sobre los músicos de Bahía Blanca. Bahía Actual, vienen al
+# festival por segunda vez. Con un programa especial.
+
+
+#+BEGIN_QUOTE
+Most errors consist only in our not rightly applying names to
+things. For when someone says that the lines which are drawn from the
+center of a circle to its circumference are unequal, he surely
+understands (then at least) by a circle something different from what
+mathematicians understand. Similarly, when men err in calculating they
+have certain numbers in their mind and different ones on the paper. So
+if you consider what they have in mind, they really do not err, though
+they seem to err because we think they have in their mind the numbers
+which are on the paper. If this were not so, we would not believe that
+they were erring, just as I did not believe that he was erring whom I
+recently heard cry out that his courtyard had flown into his
+neighbor's hen, because what he had in mind seemed sufficiently clear
+to me.
+
+And most controversies have arisen from this, that men do not rightly
+explain their own mind, or interpret the mind of the other man
+badly. For really, when they contradict one another most vehemently,
+they either have the same thoughts, or they are thinking of different
+things, so that what they think are errors and absurdities in the
+other are not. --Baruch Spinoza, Ethics
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+LADY BRACKNELL
+
+This noise is extremely unpleasant. It sounds as if he was having an
+argument. I dislike arguments of any kind. They are always vulgar, and
+often convincing. --Oscar Wilde
+#+END_QUOTE
+
+*** función de la música.
+
+*** hasta qué punto estaba inmersa la música en la experiencia 
 
 
 * CONCIERTO DOMINGO 11.12
