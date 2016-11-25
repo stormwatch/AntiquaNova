@@ -15,6 +15,7 @@
 #+LINK_HOME: 
 #+XSLT:
 
+* Bio
 Alessandro Perini nació en 1983 en Italia. Estudió composición con
 Luca Francesconi e Ivan Fedele entre otros, Música Electrónica y
 Ciencias de la Comunicación Musical en Italia y en Suecia.

@@ -14,7 +14,7 @@
 #+LINK_UP:   
 #+LINK_HOME: 
 #+XSLT:
-
+* Bio
 # Tomasz Skweres (born 1984) is a Polish composer and cellist who has
 # been living in Vienna since 1997. He studied composition with Detlev
 # Müller-Siemens and Chaya Czernowin as well as cello with Valentin

@@ -18,6 +18,7 @@
 # Adam Ørvad was born in 1976 and began playing the accordion at the
 # age of eight. He is the son of composer Timme Ørvad and singer and
 # composer Hanne Ørvad.
+* Bio
 
 Adam Ørvad nació en 1976 y comenzó a tocar el acordeón a los ocho años
 de edad. Es hijo del compositor Timme Ørvad y de la cantante y

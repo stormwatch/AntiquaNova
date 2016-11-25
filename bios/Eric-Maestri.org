@@ -13,10 +13,10 @@
 
 #+DESCRIPTION: Breve biografía
 #+KEYWORDS: música, compositor
-
+* Foto
 [[http://www.ericmaestri.eu/wp-content/uploads/2013/05/MG_9340-1200x1800.jpg]]
 
-
+* Bio
 #+BEGIN_SRC translate :src it :dest es :exports none
   Eric Maestri (1980) è un compositore italiano. Attualmente vive e
   lavora in Francia ma non ritiene, musicalmente, che esistano

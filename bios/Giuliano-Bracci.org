@@ -13,9 +13,10 @@
 
 #+DESCRIPTION: Breve biografía
 #+KEYWORDS: música, compositor
-
+* Foto
 [[http://giulianobracci.com/wp-content/uploads/2012/01/mg_1954.jpg]]
 
+* Bio
 Giuliano Bracci (Roma, 1980) estudió composición con Rosario
 Mirigliano en el Conservatorio de Florencia, Italia, donde se graduó
 con honores en 2010. Participó de clases magistrales de composición

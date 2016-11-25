@@ -15,10 +15,8 @@
 #+LINK_HOME: 
 #+XSLT:
 
-# Satoko Inoue (Pianist)
 
-Satoko Inoue (Pianista)
-
+* Bio
 # Pianist Satoko Inoue is renowned throughout Japan, Europe and in
 # United States as a leading interpreter of contemporary solo piano
 # music. She has premiered works by some of Japan's foremost composers

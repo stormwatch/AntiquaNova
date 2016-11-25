@@ -19,7 +19,7 @@
 # org-mode no hace inline de la foto al exportar porque
 # org-html-image-rules especifica que debe terminar en una extensión
 # de archivo gráfico como ‘.jpg’
-
+* Foto
 http://www.unboundedpress.org/unboundedpress/images.files/564e9bade4b0ce38bd2f9b88/binary
 
 * Bio anterior

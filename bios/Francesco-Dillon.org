@@ -16,6 +16,9 @@
 #+DESCRIPTION: Breve biografía
 #+KEYWORDS: música, violoncello
 
+* Información
+
+
 * Foto
 # Creo que esta es la foto usada acutualmente en el folleto de Distat
 # Terra 2016 pero en blanco y negro.
@@ -24,8 +27,9 @@
 
 # Esta otra me gusta un poco más [[http://francescodillon.com/images/FD/3.jpg]]
 
-
 * Bio
+# De la web oficial
+
 #+BEGIN_SRC translate :src en :dest es :exports none
   Francesco Dillon (b.Turin, 1973) already has a brilliant international
   career to his credit, characterised by the originality and variety of

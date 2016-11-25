@@ -23,17 +23,17 @@
 # about music. The entire program was filled with such striking
 # contrasts by this thoughtful musician.”  Anthony Tommasini, New York
 # Times
+* Recortes de prensa
 
 #+BEGIN_QUOTE
 Los mejores recitales de piano, si nos atenemos a la palabra
 «recital», deberían tener una dimensión quasi-literaria, donde un
 intérprete ofrece un discurso sobre la música mediante la elección de
 las obras, algo que Torquati hizo excepcionalmente bien en su
-dscinante programa. Dio cuenta no sólo de cómo Torquati toca el piano,
-sino de cómo escucha y piensa acerca de la música. Todo el programa
-mostraba tales contrastes sorprendentes debidos a este músico
-atento.\\
-    -- Anthony Tommasini, New York Times
+fascinante programa. Dio cuenta no sólo de cómo Torquati toca el
+piano, sino de cómo escucha y piensa acerca de la música. Todo el
+programa mostraba tales contrastes sorprendentes debidos a este músico
+atento. -- Anthony Tommasini, New York Times
 #+END_QUOTE
 
 # “A vibrant pianist, excellent overall”
@@ -55,12 +55,13 @@ obras de compositores muy diferentes.\\
     -- Czech Music Quarterly
 #+END_QUOTE
 
+* Bio
 # Emanuele Torquati is rapidly gaining international recognition for
 # his poetic and passionate music making, communicative performances
 # and engaging programming.
 
 Emanuele Torquari está ganando rápidamente reconocimiento
-internacional gracias a su factura musical poética y apasionada, sus
+internacional gracias a su actividad musical poética y apasionada, sus
 interpretaciones comunicativas y sus atractivos programas de
 concierto.
 
@@ -100,7 +101,7 @@ nuevas piezas encargadas para la ocasión.
 # 2010 (Schumann) and 2011 (Liszt).
 
 Recientemente debutó en el Teatro Colón con la Orquesta Filarmónica de
-Buenos Aures y lanzó su primer álbum solista /Promenade Sentimntale/
+Buenos Aures y lanzó su primer álbum solista /Promenade Sentimentale/
 para el sello /[[http://www.brilliantclassics.com/][Brilliant Classics]]/, dedicado a la música integral para
 piano de Albert Roussel. A este lanzamiento siguió su tercer CD
 dedicado a Schumann junto al chelista Francesco Dillon, tras aquellos
@@ -156,5 +157,4 @@ Michael Wendeberg.
 # Since 2010, he’s the artistic director of music@villaromana for
 # German institution Villa Romana.
 
-Desde 2010 es el Director Artístico de music@villaromana para la
-institución alemana Villa Romana.
+Desde 2010 es el Director Artístico del festival music@villaromana

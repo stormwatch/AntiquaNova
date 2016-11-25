@@ -14,7 +14,7 @@
 #+LINK_UP:   
 #+LINK_HOME: 
 #+XSLT:
-
+* Bio
 # Theresia Schmidinger grew up in  Tyrol/Austria and is currently living
 # as a freelance musician in Vienna.
 

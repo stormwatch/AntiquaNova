@@ -1,0 +1,28 @@
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK")
+#+OPTIONS: date:nil e:t email:nil f:t inline:t num:nil p:nil pri:nil
+#+OPTIONS: prop:nil stat:t tags:t tasks:t tex:t timestamp:t title:t
+#+OPTIONS: toc:nil todo:t |:t prop:nil
+#+TITLE: Alfredo Davies
+#+SUBTITLE: Tenor
+#+DATE: <2016-11-16 mié>
+#+AUTHOR: Ezequiel Birman
+#+EMAIL: ebirman77@gmail.com
+#+LANGUAGE: es
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.1.1 (Org mode 9.0)
+
+#+DESCRIPTION: biografía
+#+KEYWORDS: música, tenor
+
+* Bio
+Nació en la ciudad de Buenos Aires el 14 de abril de 1966. Estudió
+técnica vocal con los maestros Adriana Bensusan, Armando Livani, Laura
+Cáceres, Alfredo Miranda y repertorio con el mtro. César Tello. Fué
+solista en el estreno orquestal de “La epopeya de Malvinas”, obra de
+Rubén Lasdica, en Bahía Blanca. Cantó en las óperas “Lucía di
+Lammermour, “La flauta mágica” y “Anna Bolena”. Interpretó oratorios
+de A. Vivaldi, W. Mozart, J. S. Bach, L.  Janacek, A. Dvorak. Desde el
+año 2005 se desempeña en la fila de tenores primeros del Coro Estable
+de Bahía Blanca.
