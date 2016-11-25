@@ -15,19 +15,23 @@
 #+KEYWORDS: música, ensamble
 
 * Integrantes
-  - Alfredo Davies (Argentina) :: tenor
+  - [[file:Alfredo Davies.org][Alfredo Davies]] (Argentina) :: tenor
   - [[file:Ana Miñones.org][Ana Miñones]] (Argentina) :: clarinete
-  - Gustavo Kamerbeek (Argentina) :: clarinete bajo
-  - Rocío Migueles (Argentina) :: saxo
-  - Oleg Shkolyar (Argentina/Ucrania) :: trompeta
-  - Matías Morelli (Argentina) :: percusión
-  - Gustavo Auday (Argentina) :: contrabajo
+  - [[file:Gustavo%20Kamerbeek.org][Gustavo Kamerbeek]] (Argentina) :: clarinete bajo
+  - [[file:Rocío Migueles.org][Rocío Migueles]] (Argentina) :: saxo
+  - [[file:Oleg Shkolyar.org][Oleg Shkolyar]] (Argentina/Ucrania) :: trompeta
+  - [[file:Matías Morelli.org][Matías Morelli]] (Argentina) :: percusión
+  - [[file:Gustavo Auday.org][Gustavo Auday]] (Argentina) :: contrabajo
 
-# José: Hablar sobre los músicos de Bahía Blanca. Bahía Actual, vienen
+# José: Hablar sobreos músicos de Bahía Blanca. Bahía Actual, vienen
 # al festival por segunda vez. Con un programa especial.
+
 
 * Texto sugerido por Matías Morelli
 
+Para incluir como comentario en el folleto pero no como parte de la bio.  
+
+#+BEGIN_QUOTE
 La escena de la música contemporánea en la ciudad de Bahía Blanca
 orbita alrededor del festival Bahía (in) Sonora dedicado a la música
 electro acústica y el festival Bahía Actual dedicado a la música de
@@ -39,3 +43,4 @@ instrumentistas y compositores que interactúan en diversos ensambles
 ad-hoc nutriendo dichos festivales. Tal es el caso de los músicos que
 integran este ensamble bahiense que por segunda vez visita Choele
 Choel.
+#+END_QUOTE
