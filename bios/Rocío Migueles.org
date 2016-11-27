@@ -1,0 +1,34 @@
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK")
+#+OPTIONS: date:nil e:t email:nil f:t inline:t num:nil p:nil pri:nil
+#+OPTIONS: prop:nil stat:t tags:t tasks:t tex:t timestamp:t title:t
+#+OPTIONS: toc:nil todo:t |:t prop:nil
+#+TITLE: Rocío Migueles
+#+SUBTITLE: Clarinete Bajo
+#+DATE: <2016-11-16 mié>
+#+AUTHOR:
+#+EMAIL: ebirman77@gmail.com
+#+LANGUAGE: es
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.1.1 (Org mode 9.0)
+
+#+DESCRIPTION: biografía
+#+KEYWORDS: música, compositor
+
+* Foto
+[[https://scontent-gru2-1.xx.fbcdn.net/v/t1.0-9/12572978_10208743999742294_974975170287270234_n.jpg?oh=10515a2991dec970965019a0f126f773&oe=58C4C492]]
+
+* Bio
+Saxofonista, profesora y productora nacida en Bahía Blanca, graduada
+en el Conservatorio Provincial de Música de esa ciudad. María Noel
+Luzardo (Argentina), Arno Bornkamp (Holanda), Claude Delangle
+(Francia), entre otros, fueron algunos de los maestros que han
+aportado a su formación técnica e interpretativa. Junto a la Orquesta
+Sinfónica de Bahía Blanca ha interpretado varios conciertos. Es
+profeso ra de la cátedra “Saxofón” en el CePEAC N°1 de Punta Alta y el
+Conservatorio de Música de Bahía Blanca, donde también coordina el
+Ensamble de Saxos integrado por alumnos. Es titular de la productora R
+Producciones Culturales, especializada en gestión de eventos
+vinculados a la música académica, como lo es actualmente el ciclo
+“Música de Cámara 2016, 3ra Temporada”.

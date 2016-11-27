@@ -17,8 +17,6 @@
 #+KEYWORDS: música, violoncello
 
 * Información
-
-
 * Foto
 # Creo que esta es la foto usada acutualmente en el folleto de Distat
 # Terra 2016 pero en blanco y negro.

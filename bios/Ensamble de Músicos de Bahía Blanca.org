@@ -14,6 +14,8 @@
 #+DESCRIPTION: Breve biografía
 #+KEYWORDS: música, ensamble
 
+* Foto
+
 * Integrantes
   - [[file:Alfredo Davies.org][Alfredo Davies]] (Argentina) :: tenor
   - [[file:Ana Miñones.org][Ana Miñones]] (Argentina) :: clarinete

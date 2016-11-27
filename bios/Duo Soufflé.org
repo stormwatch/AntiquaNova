@@ -15,6 +15,8 @@
 #+LINK_HOME: 
 #+XSLT:
 
+* Foto
+
 # “Duo Soufflé“ was founded in 2005 and is consisting of Doris Nicoletti
 # (flutes) and Theresia Schmidinger (clarinets). The two musicians have
 # commissioned numerous compositions and works including cooperations

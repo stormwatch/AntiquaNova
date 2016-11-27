@@ -14,6 +14,9 @@
 #+LINK_UP:   
 #+LINK_HOME: 
 #+XSLT:
+
+* Foto
+* Recortes de prensa
  
 # “The best piano recitals, in keeping with the word “recital,” should
 # have a quasi‐literary dimension, where a performer offers a
@@ -23,7 +26,6 @@
 # about music. The entire program was filled with such striking
 # contrasts by this thoughtful musician.”  Anthony Tommasini, New York
 # Times
-* Recortes de prensa
 
 #+BEGIN_QUOTE
 Los mejores recitales de piano, si nos atenemos a la palabra

@@ -15,6 +15,7 @@
 #+LINK_HOME: 
 #+XSLT:
 
+* Foto
 
 * Bio
 # Pianist Satoko Inoue is renowned throughout Japan, Europe and in

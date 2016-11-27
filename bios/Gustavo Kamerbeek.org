@@ -16,6 +16,9 @@
 #+DESCRIPTION: biografía
 #+KEYWORDS: música, compositor
 
+* Foto
+[[https://scontent-gru2-1.xx.fbcdn.net/v/t1.0-9/12572978_10208743999742294_974975170287270234_n.jpg?oh=10515a2991dec970965019a0f126f773&oe=58C4C492]]
+
 * Bio
 Egresado del Conservatorio de Música de Bahía Blanca como profesor de
 Clarinete continuó sus estudios instrumentales con los Maestros

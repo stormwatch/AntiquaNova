@@ -22,31 +22,31 @@ Traté de preservar en la medida de lo posible un formato similar al
 del folleto con los mismos saltos de línea, uso de mayúsculas y otros
 detalles. Ignoré los footers y numeración de página.
 
-* CONCI ERTO V I E R N E S 09.12
+* CONCIERTO VIERNES 09.12
 #+BEGIN_VERSE
 CON
-CI ER
+CIER
 TO
-V I E R N E S 09.12
+VIERNES 09.12
 
 22 hs.
-T E AT RO “EL GALPÓN”
+TEATRO “EL GALPÓN”
 ITALIANOS PARA CUARTETO
 DE CUERDAS
 
-I NT É R P R E T E S :
+INTÉRPRETES :
 QUARTETTO MAURICE (ITALIA)
 #+END_VERSE
 
 ** PROGRAMA:
 
-MÚSICA DE COMPOSITORES ITALIANOS PARA CUARTETO DE CUERDAS.
-
-INTÉRPRETES:
-
+MÚSICA DE COMPOSITORES ITALIANOS PARA CUARTETO DE CUERDAS.\\
+INTÉRPRETES:\\
 QUARTETTO MAURICE (ITALIA)
 
-#+INCLUDE: "../bios/Quartetto-Maurice.org"
+#+INCLUDE: "../bios/Quartetto Maurice.org::*Foto" :only-contents t
+#+INCLUDE: "../bios/Quartetto Maurice.org::*Integrantes" :only-contents t
+#+INCLUDE: "../bios/Quartetto Maurice.org::*Bio" :only-contents t
 
 MÚSICA DE COMPOSITORES ITALIANOS PARA CUARTETO DE CUERDAS.
 
@@ -77,18 +77,18 @@ MÚSICA DE COMPOSITORES ITALIANOS PARA CUARTETO DE CUERDAS.
 # desarrollo enorme. Carrera meteórica
 
 
-* CONCI ERTO S ÁBAD O 10.12
+* CONCIERTO SÁBADO 10.12
 
 #+BEGIN_VERSE
 22 hs.
-HOT EL RUC ANT Ú
-P R O G RAMA:
+HOTEL RUCANTÚ
+PROGRAMA:
 MÚSICA RESERVATA
 Y CONTEMPORÁNEA
-I NT É R P R E T E S :
+INTÉRPRETES :
 ENSEMBLE DE MÚSICOS
 DE BAHÍA BLANCA
-  CONCIERTO SÁBADO 10.12
+CONCIERTO SÁBADO 10.12
 
 PROGRAMA:
 MÚSICA RESERVATA
@@ -101,55 +101,41 @@ DE BAHÍA BLANCA
 
 #+INCLUDE: "../bios/Ensamble de Músicos de Bahía Blanca.org::*Integrantes" :only-contents t
 
-*** Alfredo Davies
+*** ALFREDO DAVIES
 TENOR
 
-#+INCLUDE: "../bios/Alfredo Davies.org::*Bio"
+#+INCLUDE: "../bios/Alfredo Davies.org::*Bio" :only-contents t
 
-*** Ana Miñones
+*** ANA MIÑONES
 CLARINETE
 
-#+INCLUDE: "../bios/Ana Miñones.org::*Bio"
+#+INCLUDE: "../bios/Ana Miñones.org::*Bio" :only-contents t
 
 *** GUSTAVO KAMERBEEK
 CLARINETE BAJO
 
-#+INCLUDE: "../bios/Gustavo Kamerbeek.org::*Bio"
+#+INCLUDE: "../bios/Gustavo Kamerbeek.org::*Bio" :only-contents t
 
-*** ROCIO MIGUELES
+*** ROCÍO MIGUELES
 SAXO
 
-MATÌAS MORELLI\\
+#+INCLUDE: "../bios/Rocío Migueles.org::*Bio" :only-contents t
+
+
+*** MATÍAS MORELLI\\
 PERCUSIÒN
 
-Es Solista Principal de Percusión en la Orquesta Sinfónica de Bahía
-Blanca. Realizò estudios de música y percusión en el Instituto
-Nacional Superior de Arte en General Roca, el Instituto Universitario
-Nacional de las Artes y la Universidad de Lanùs en Buenos Aires y
-Berklee College of Music en Boston. Formó parte de numerosas Orquestas
-Sinfónicas Juveniles y Profesionales del país y se ha presentado en
-diversos y reconocidos escenarios.  Su actividad artística abarca una
-interminable lista de proyectos independientes; desde la edición de un
-disco de música para niños hasta su participación en música de Cámara,
-el Rock, el Jazz y la Música Latinoamericana.
+#+INCLUDE: "../bios/Matías Morelli.org::*Bio" :only-contents t
 
-OLEG SHKOLYAR\\
+*** OLEG SHKOLYAR\\
 TROMPETA
 
-Trompetista argentino nacido en Ucrania.  Inició sus estudios
-musicales en la escuela de Música de la ciudad e Zhmerinka,
-Ucrania. Desde el año 2000 es Solista Adjunto de trompeta de la
-Orquesta Sinfónica Provincial de Bahía Blanca y ha sido contratado en
-diversas oportunidades como Solista Adjunto en la Orquesta Filarmónica
-de Buenos Aires Teatro Colón.  En el año 1999 fue convocado por la
-Fundación Cultural de la Patagonia donde se desempeñó como profesor de
-trompeta y solista. Integró la Orquesta del Teatro Nacional de la
-Opera y Ballet de Chisinau (Moldova) como Solista Adjunto y realizò
-varias giras por Ucrania, Italia, España, Holanda e Inglaterra.
+#+INCLUDE: "../bios/Oleg Shkolyar.org::*Bio" :only-contents t
 
-GUSTAVO AUDAY
+*** GUSTAVO AUDAY
 CONTRABAJO
 
+#+INCLUDE: "../bios/Gustavo Auday.org::*Bio" :only-contents t
 
 ** 
 MÚsica\\
@@ -171,108 +157,72 @@ contemporánea
   - Max E. Keller (1947, Suiza) :: Dialoguefelder (2000)\\
   para contrabajo y percusión
 
-** TODO Comentario
-#+BEGIN_QUOTE
-  El punto del arte es, precisamente, hacer claro y accesible lo que
-  podría ser poco claro e inaccesible bajo la forma de argumentos.
-#+END_QUOTE
+** 
+Tras un concierto privado en 1551 en Roma, Vincente Lusitano y Nicola
+Vicentino trabaron una discusión relativa a la pertinencia de un
+aspecto de la teoría musical griega. Lusitano afirmaba que la música
+contemporánea estaba escrita en el /genus/ diatónico (similar a
+nuestro actual concepto de tetracordio). Vicentino sostenía en cambio
+que estaba representada como una mezcla de los /genera/ diatónico,
+cromático y enarmónico. La disputa se intensificó a tal punto que los
+participantes sellaron una apuesta de dos /scudi/ y acordaron un
+debate formal que se desarrolló ante la audiencia del coro papal y del
+Papa Julio III durante varias instancias orales y escritas. Los
+jueces, —también compositores y miembros del coro papal— favorecieron
+la posición tradicional de Lusitano. No obstante Vicentino continuó
+desarrollando sus ideas además de inventar un archicembalo y un
+archiórgano —que dividen la octava en treinta y una teclas en lugar de
+doce— capaces de ejecutar instrumentalmente su música enarmónica donde
+por ejemplo fa♯ no equivale a sol♭.
 
+Un debate de estas características, impensable aquí y ahora, da cuenta
+del lugar central que la sociedad renacentista otorgaba a la música de
+arte. Ferrara en particular se convirtió en la capital de la música
+cromática y experimental. Patrocinó y atrajo a varios de los
+compositores de vanguardia de la época: Josquin Desprez, Adriaen
+Willaert, Vicentino mismo, sus contemporaneos Orlando di Lasso y
+Cipriano de Rore, y los continuadores del estilo, Luzzazco Luzzaschi y
+Carlo Gesualdo.
 
-El 2 de junio de 1551 ante la audiencia del coro papal y dos jueces,
-Vincentio Lusitano y Nicola Vicentino debatieron acerca de la
-pertinencia de la teoría de los modos griegos antiguos en relación con
-la práctica y teoría contemporánea. Sabemos que los jueces, también
-compositores, dieron por ganador a Lusitano y 
+La pregunta por el futuro de la música suele reformularse —entre
+compositores— como la pregunta por su presente: Tal vez Vicentino
+pretendía legitimar su propia música de avanzada, extremadamente
+cromática, microtonal, de modulaciones continuas poco previsibles,
+recurriendo a la autoridad del pasado. La convicción de estar
+restituyendo la tradición griega y de lograr una mayor adecuación al
+texto cantado recuerda al programa posterior de la /Camerata
+Florentina/, crucial en el surgimiento de la ópera hacia fines del
+siglo XVI. El estilo fue llamado /musica reservata/. Vicentino
+adjudica su invención a su maestro Adriaen Willaert pero no podemos
+soslayar la influencia del /Ars Subtilior/ (que pudo escucharse en un
+memorable concierto programado por la Fundación Música AntiquaNova en
+2014). Fue practicado por algunos de sus contemporáneos y continuado
+por compositores de la siguiente generación.
 
-Vicentino, Willaert, De Rore
+Ningún compositor de la época despreció el recurso del
+cromatismo. Prueba de ello son la obra de Lusitano incluída en el
+presente concierto y la introducción a las Profecías Sibilinas de
+Orlando Di Lasso donde la música del futuro, es decir, la música
+cromática se asocia al mensaje profético, conciliando pasado, presente
+y futuro.
 
-Justificar (otra palabra) la música progresiva 
+El programa se complementa con la música de dos jóvenes
+compositores. Ambos encargos de la Fundación Música AnqtiquaNova y la
+obra de Max Keller, figura reconocida del free jazz en Suiza, en una
+obra que se presenta como un diálogo entre la improvisación libre y la
+composición.
 
-conciliar la música del pasado con la actual. Concilio de Trento
-
-Ferrara se constituyó en el centro de la música secular de avanzada.
-
-Su influencia en Luzzazco Luzzaschi y en Carlo Gesualdo. 
-
-# Música Reservata particular renacentista conección con la ciudad de
-# Ferrara, estilo primero vocal y luego compositivo. Ferrara capital de
-# la experimentación cromática. Casos emblemáticos como el de Vicentino,
-# cromatismo a nivel microtonal. Orlando Di Lasso Carmina Chromatica.
-
-# Influencia en el Ars Subtilior. Este programa es una continuación del
-# de 2014. Encontrar cosas nuevas en la música del pasado. Obras nuevas
-# y aspectos nuevos en música del pasado.
-
-# No está en programa, falta Moro Lasso de Gesauldo, si bien no es MR es una
-# clara influencia.
-
-# Lusitano no era de Ferrara, conectado con la música italiana. Debate
-# internacional donde intervino el Papa. Debate Lucitano y Vicentino
-# sobre el futuro de la música. Cromatismo vs Diatonismo modal o Modos
-# griegos (no es música modal así nomás).
-
-# Vicentino libro sobre la practica instrumental.
-
-# Perini. Se compelemta con la musica de dos jovenes
-# compositores. Estrenos y encargos de la fman.
-
-# Se repite la obra de Max Keller. Ante todo imprivisador. Fugra
-# reconocida en el free jazz en Suiza. Dialogo entre improv libre y
-# comoposición, influencia
-
-# Lusitano no era de Ferrara, conectado con la música italiana. Debate
-# internacional donde intervino el Papa. Debate Lucitano y Vicentino
-# sobre el futuro de la música. Cromatismo vs Diatonismo modal o Modos
-# griegos (no es música modal así nomás).
-
-# Vicentino libro sobre la practica instrumental.
-
-# Perini. Se compelemta con la musica de dos jovenes
-# compositores. Estrenos y encargos de la fman.
-
-# Se repite la obra de Max Keller. Ante todo imprivisador. Fugra
-# reconocida en el free jazz en Suiza. Dialogo entre improv libre y
-# comoposición, influencias del jazz.
-
-# Hablar sobre los músicos de Bahía Blanca. Bahía Actual, vienen al
-# festival por segunda vez. Con un programa especial.
-
-
-#+BEGIN_QUOTE
-Most errors consist only in our not rightly applying names to
-things. For when someone says that the lines which are drawn from the
-center of a circle to its circumference are unequal, he surely
-understands (then at least) by a circle something different from what
-mathematicians understand. Similarly, when men err in calculating they
-have certain numbers in their mind and different ones on the paper. So
-if you consider what they have in mind, they really do not err, though
-they seem to err because we think they have in their mind the numbers
-which are on the paper. If this were not so, we would not believe that
-they were erring, just as I did not believe that he was erring whom I
-recently heard cry out that his courtyard had flown into his
-neighbor's hen, because what he had in mind seemed sufficiently clear
-to me.
-
-And most controversies have arisen from this, that men do not rightly
-explain their own mind, or interpret the mind of the other man
-badly. For really, when they contradict one another most vehemently,
-they either have the same thoughts, or they are thinking of different
-things, so that what they think are errors and absurdities in the
-other are not. --Baruch Spinoza, Ethics
-#+END_QUOTE
-
-#+BEGIN_QUOTE
-LADY BRACKNELL
-
-This noise is extremely unpleasant. It sounds as if he was having an
-argument. I dislike arguments of any kind. They are always vulgar, and
-often convincing. --Oscar Wilde
-#+END_QUOTE
-
-*** función de la música.
-
-*** hasta qué punto estaba inmersa la música en la experiencia 
-
+La escena de la música contemporánea en la ciudad de Bahía Blanca
+orbita alrededor del festival Bahía (in) Sonora dedicado a la música
+electro acústica y el festival Bahía Actual dedicado a la música de
+cámara. Cabe mencionar la intensa actividad de compositores como
+Gabriel Di Cicco, Leandro Ariel Mantinian, Ricardo de Armas y Gastón
+Ares.  A su vez, el conservatorio Provincial y la Orquesta Sinfónica
+Provincial de Bahía Blanca generan un tránsito contante de
+instrumentistas y compositores que interactúan en diversos ensambles
+ad-hoc nutriendo dichos festivales. Tal es el caso de los músicos que
+integran este ensamble bahiense que por segunda vez visita Choele
+Choel.
 
 * CONCIERTO DOMINGO 11.12
 #+BEGIN_VERSE
@@ -288,7 +238,7 @@ INTÉRPRETES:
 FRANCESO DILLON (ITALIA)
 #+END_VERSE
 
-#+INCLUDE: "../bios/Francesco-Dillon.org"
+#+INCLUDE: "../bios/Francesco Dillon.org::*Bio" :only-contents t
 
 #+BEGIN_VERSE
 MÚSICA ANTIGUA Y
@@ -304,55 +254,54 @@ DOMINGO 11.12
 
 #+BEGIN_VERSE
 22 hs.
-HOT EL RUC ANT Ú
-P R O G RAMA:
+HOTEL RUCANTÚ
+PROGRAMA:
 MÚSICA BARROCA Y
 CONTEMPORÁNEA PARA VIOLÍN
 Y VIOLONCHELO
-I NT É R P R E T E S :
+INTÉRPRETES:
 DÚO IWATA - SKWERES
 YUI IWATA (JAPÓN)
 TOMASZ SKWERES (POLONIA)
 
 TOMASZ SKWERES (POLONIA)
-V I O LO N C H E LO
+VIOLONCHELO
+#+END_VERSE
+#+INCLUDE: "../bios/Tomasz Skweres.org::*Foto" :only-contents t
+#+INCLUDE: "../bios/Tomasz Skweres.org::*Bio" :only-contents t
 
-YUI IWATA (JAPÓN)
+YUI IWATA (JAPÓN)\\
 VIOLÍN
+#+INCLUDE: "../bios/Yui Iwata.org::*Foto" :only-contents 
+#+INCLUDE: "../bios/Yui Iwata.org::*Bio" :only-contents t
 
-mÚsica BARROCA Y
-CONTEMPORáNEA
+#+BEGIN_VERSE
+MÚSICA BARROCA Y
+CONTEMPORÁNEA
 PARA VIOLÍN Y VIOLONCHELO
 #+END_VERSE
 
-#+BEGIN_VERSE
-Johann Sebastian Bach (Alemania, 1685-1750)
-Dos movimientos de las 5 Invensiones
-Jean-Patrick Besingrand (Francia, 1985)
-Une fleur- en sa saison
-para violonchelo solo
-Johann Sebastian Bach (Alemania, 1685-1750)
-Zarabanda de la Partita No. 2 en Re menor, BWV 1004
-para violín solo
-Johann Sebastian Bach (Alemania, 1685-1750)
-Zarabanda from 2. Suite for Cello solo (3 min)
-para violín solo
-Roberto Azaretto (Argentina, 1975)
-Obra nueva. Encargo del Festival Distat Terra.
-Para violín y violonchelo
-Johann Sebastian Bach (Alemania, 1685-1750)
-Varios movimientos de las 15 Invenciones
-- pa usa Maurice Ravel (Francia, 1875-1937)
-Sonata para violín y violonchelo (1920-22)
-I. Allegro
-II. Très vif
-III. Lent
-IV. Vif, avec entrain
+  - Johann Sebastian Bach (Alemania, 1685-1750) :: Dos movimientos de las 5 Invensiones
+  - Jean-Patrick Besingrand (Francia, 1985) :: Une fleur en sa saison para violonchelo solo
+  - Johann Sebastian Bach (Alemania, 1685-1750) :: Zarabanda de la
+       Partita No. 2 en Re menor, BWV 1004 para violín solo
+  - Johann Sebastian Bach (Alemania, 1685-1750) :: Zarabanda
+       from 2. Suite for Cello solo (3 min) para violín solo
+  - Roberto Azaretto (Argentina, 1975) :: Obra nueva. Encargo del
+       Festival Distat Terra. Para violín y violonchelo
+  - Johann Sebastian Bach (Alemania, 1685-1750) :: Varios movimientos de las 15 Invenciones
+  - Maurice Ravel (Francia, 1875-1937) :: Sonata para violín y
+       violonchelo (1920-22).
+    - I :: Allegro.
+    - II :: Très vif.
+    - III :: Lent.
+    - IV :: Vif, avec entrain.
 
+#+BEGIN_VERSE
 CON
-CI ER
+CIER
 TO
-L U NES 12 .12
+LUNES 12.12
 #+END_VERSE
 
 ** TODO Comentario
@@ -371,41 +320,31 @@ L U NES 12 .12
 # Segunda parte. Si va el duo de Ravel, o un duo de Kodaly.
 
 
-* CONCI ERTO MIE R COLE S 14.12
+* CONCIERTO MIERCOLES 14.12
 #+BEGIN_VERSE
 22 hs.
-T E AT RO “EL GALPÓN”
-P R O G RAMA:
+TEATRO “EL GALPÓN”
+PROGRAMA:
 MÚSICA MINIMALISTA
 PARA CUATRO GUITARRAS
 ELÉCTRICAS
-I NT É R P R E T E S :
+INTÉRPRETES :
 ENSAMBLE NUNTEMPE
-(ARGENT INA)
-#+END_VERSE
+(ARGENTINA)
 
-#+BEGIN_VERSE
-mÚsica MINIMALISTA
+MÚSICA MINIMALISTA
 PARA GUITARRAS ELÉCTRICAS
-Etham Braun (Estados Unidos, )
-Discipline
-para cuatro guitarras eléctricas
-Sebastián Bauer (Argentina, )
-Urana (2015). Estreno.
-Michael Winter (Estados Unidos)
-chorale and finely tuned resonators (2013)
-para cuatro guitarras eléctricas
-David Lang (Estados Unidos, 1957)
-Warmth (2006)
-para cuatro guitarras eléctricas
-Francisco del Pino (Argentina, 1980)
-Obra nueva
-para 4 guitarras eléctricas
+#+END_VERSE
+  - Etham Braun (Estados Unidos) :: Discipline para cuatro guitarras eléctricas.
+  - Sebastián Bauer (Argentina) :: Urana (2015). Estreno.
+  - Michael Winter (Estados Unidos) :: Chorale and Finely Tuned Resonators (2013) para cuatro guitarras eléctricas.
+  - David Lang (Estados Unidos, 1957) :: Warmth (2006) para cuatro guitarras eléctricas.
+  - Francisco del Pino (Argentina, 1980) :: Obra nueva para 4 guitarras eléctricas.
 
 CON
-CI ER
+CIER
 TO
-M I ÉRC OL ES 14 .12
+MIÉRCOLES 14.12
 #+END_VERSE
 
 ** TODO Comentario
@@ -421,92 +360,101 @@ M I ÉRC OL ES 14 .12
 # winter experimental algoritmica
 
 
-* CONCI ERTO J U E V E S 15.12
+* CONCIERTO JUEVES 15.12
 #+BEGIN_VERSE
 22 hs.
-T E AT RO MUNICIPAL
-DE L AMARQUE
-P R O G RAMA:
+TEATRO MUNICIPAL
+DE LAMARQUE
+PROGRAMA:
 MÚSICA DE JÓVENES
 COMPOSITORES
-I NT É R P R E T E S :
+INTÉRPRETES:
 ENSEMBLE ANTIQUANOVA
-(ARGENT INA / AUST RIA)
+(ARGENTINA / AUSTRIA)
 
 ENSEMBLE
 ANTIQUANOVA
-María del Rosario Castillo, flautas
-Griselda Giannini, clarinetes
-Edgardo Vizioli, contrabajo
-Mariano Ceballos, violín
-Yui Iwata, violín
-Daniel Oliver Moser, viola
-Tomasz Skweres, violonchelo
-
-GRISELDA GIANINI
-(ARGENT INA)
-CL ARINE T E
-
-MARÍA DEL ROSARIO
-CASTILLO (ARGENT INA)
-F L A U TA S
-
-EDGARDO VIZIOLI
-(ARGENT INA)
-CONT RABA J O
-
-MARIANO CEBALLOS
-(ARGENT INA)
-
-DANIEL OLIVER MOSER
-(AUST RIA)
-
-VIOLÍN
-
-VIOL A
-
-YUI IWATA (JAPÓN)
-VIOLÍN
-
-
-TOMASZ SKWERES (POLONIA)
-V I O LO N C H E LO
 #+END_VERSE
+  - María del Rosario Castillo :: flautas
+  - Griselda Giannini :: clarinetes
+  - Mariano Ceballos :: violín
+  - Yui Iwata :: violín
+  - Daniel Oliver Moser :: viola
+  - Tomasz Skweres :: violonchelo
+  - Edgardo Vizioli :: contrabajo
 
-#+BEGIN_VERSE
-mÚsica DE JÓVENES
+MARÍA DEL ROSARIO\\
+CASTILLO (ARGENTINA)\\
+FLAUTAS
+
+#+INCLUDE: "../bios/María del Rosario Castillo.org::*Foto" :only-contents t
+#+INCLUDE: "../bios/María del Rosario Castillo.org::*Bio" :only-contents t
+
+
+GRISELDA GIANNINI\\
+(ARGENTINA)\\
+CLARINETE
+
+#+INCLUDE: "../bios/Griselda Giannini.org::*Foto" :only-contents t
+#+INCLUDE: "../bios/Griselda Giannini.org::*Bio" :only-contents t
+
+MARIANO CEBALLOS\\
+(ARGENTINA)\\
+VIOLÍN
+
+#+INCLUDE: "../bios/Mariano Ceballos.org::*Foto" :only-contents t
+#+INCLUDE: "../bios/Mariano Ceballos.org::*Bio" :only-contents t
+
+YUI IWATA\\
+(JAPÓN)\\
+VIOLÍN
+
+#+INCLUDE: "../bios/Yui Iwata.org::*Bio" :only-contents t
+
+DANIEL OLIVER MOSER\\
+(AUSTRIA)\\
+VIOLA
+
+#+INCLUDE: "../bios/Daniel Oliver Moser.org::*Bio" :only-contents t
+
+TOMASZ SKWERES (POLONIA)\\
+VIOLONCHELO
+
+#+INCLUDE: "../bios/Tomasz Skweres.org::*Bio" :only-contents t
+
+EDGARDO VIZIOLI\\
+(ARGENTINA)\\
+CONTRABAJO
+
+#+INCLUDE: "../bios/Edgardo Vizioli.org::*Bio" :only-contents t
+
+MÚSICA DE JÓVENES\\
 COMPOSITORES
-Guillaume Dufay (Bélgica/Francia, 1397-1474)
-Adieu ces bons vins de Lannoys
-para flauta bajo, clarinete bajo y contrabajo
-María Cecilia Villanueva (Argentina, 1964)
-Retrato del pasado (2002)
-para cuarteto de cuerdas
-Adam de la Halle (Francia, 1240-1287)
-Je muir, je muir
-para flauta bajo, clarinete bajo y contrabajo
-Helmut Lachenmann (Alemania, 1935)
-Dal niente (Interieur III) (1970)
-para clarinete solo
-Johann Sebastian Bach (Alemania, 1685-1750)
-Canon 1 a 2 (La ofrenda musical, 1747)
-para flauta contralto, clarinete y contrabajo
-Tomasz Skweres (Polonia, 1984)
-Elusive Thoughts (2014 rev. 2016)
-para violín, viola y violonchelo
-Daniel Oliver Moser (Austria, 1982)
-Obra nueva. Estreno argentino.
-para cuarteto de cuerdas
-Hiroki Tsurumoto (Japón/Canada)
-Obra nueva. Estreno.
 
-CON
-CI ER
-TO
-JU EVES 15.12
-#+END_VERSE
+  - Guillaume Dufay (Bélgica/Francia, 1397-1474) :: Adieu ces bons
+       vins de Lannoys para flauta bajo, clarinete bajo y contrabajo.
+  - María Cecilia Villanueva (Argentina, 1964) :: Retrato del pasado
+       (2002) para cuarteto de cuerdas.
+  - Adam de la Halle (Francia, 1240-1287) :: Je muir, je muir para flauta bajo, clarinete bajo y contrabajo.
+  - Helmut Lachenmann (Alemania, 1935) :: Dal niente (Interieur III)
+       (1970) para clarinete solo
+  - Johann Sebastian Bach (Alemania, 1685-1750) :: Canon 1 a 2 (La
+       ofrenda musical, 1747) para flauta contralto, clarinete y contrabajo
+  - Tomasz Skweres (Polonia, 1984) :: Elusive Thoughts (2014
+       rev. 2016) para violín, viola y violonchelo
+  - Daniel Oliver Moser (Austria, 1982) :: Obra nueva. Estreno
+       argentino para cuarteto de cuerdas
+  - Hiroki Tsurumoto (Japón/Canada) :: Obra nueva. Estreno.
+
+CON\\
+CIER\\
+TO\\
+JUEVES 15.12
 
 ** TODO Comentario
+
+# Este concierto es la primera presentación del Ensamble AntiquaNova a
+# instancias de la fundación.
 
 # Presentación del Ensameble Antiqua Nova de la fman con musicos que
 # trabajan activamente con la fundacion hace cuatro años en su gran
@@ -519,79 +467,47 @@ JU EVES 15.12
 # repertorio.
 
 
-* CONCI ERTO V I E R N E S 16.12
+* CONCIERTO VIERNES 16.12
 #+BEGIN_VERSE
 22 hs.
-HOT EL RUC ANT Ú
-LACHRIMAE:
+HOTEL RUCANTÚ
+LACHRIMÆ:
 HOMENAJE AL COMPOSITOR
 ARGENTINO MARIANO ETKIN
-I NT É R P R E T E S :
+INTÉRPRETES:
 ENSEMBLE ANTIQUANOVA
-(ARGENT INA / AUST RIA)
+(ARGENTINA / AUSTRIA)
 
-ENSEMBLE
+ENSAMBLE
 ANTIQUANOVA
-
-YUI IWATA (JAPÓN)
-VIOLÍN
-
-Mariano Ceballos, violín
-Yui Iwata, violín
-Daniel Oliver Moser, viola
-Tomasz Skweres, violonchelo
-Edgardo Vizioli, contrabajo
-
-MARIANO CEBALLOS
-VIOLÍN
-
-DANIEL OLIVER MOSER
-(AUST RIA)
-VIOL A
-
-TOMASZ SKWERES (POLONIA)
-V I O LO N C H E LO
-
-ANU N CI O
-EDGARDO VIZIOLI
-CONT RABA J O
 #+END_VERSE
 
+  - Mariano Ceballos :: violín
+  - Yui Iwata :: violín
+  - Daniel Oliver Moser :: viola
+  - Tomasz Skweres :: violonchelo
+  - Edgardo Vizioli :: contrabajo
 
-#+BEGIN_VERSE
-LACHRIMAE
-HOMENAJE AL COMPOSITOR
-ARGENTINO MARIANO ETKIN
-John Dowland (Inglaterra, 1563-1626)
-Lachrimae Antiquae (1604)
-para quinteto de cuerdas
-Mariano Etkin (Argentina,1943-2016)
-Recondita armonía (1987)
-para viola, violonchelo y contrabajo
-John Dowland (Inglaterra, 1563-1626)
-Lachrimae Antiquae Novae (1604)
-para quinteto de cuerdas
-Mariano Etkin (Argentina,1943-2016)
-Estáticamóvil II (1966)
-para violín, viola y violonchelo
-John Dowland (Inglaterra, 1563-1626)
-Lachrimae tristes (1604)
-para quinteto de cuerdas
-Mariano Etkin (Argentina,1943-2016)
-Lamento por James Avery (2009)
-para dos violines, violonchelo y contrabajo
-John Dowland (Inglaterra, 1563-1626)
-Lachrimae verae (1604)
-para quinteto de cuerdas
-Mariano Etkin (Argentina,1943-2016)
-Sueños olvidados (2014). Encargo del Festival Distat Terra
-para violín, viola y violonchelo
+LACHRIMÆ\\
+HOMENAJE AL COMPOSITOR\\
+ARGENTINO MARIANO ETKIN\\
 
-CON
-CI ER
-TO
-VI ERNES 16.12
-#+END_VERSE
+  - John Dowland (Inglaterra, 1563-1626) :: Lachrimæ Antiquae (1604) para quinteto de cuerdas.
+  - Mariano Etkin (Argentina, 1943-2016) :: Recondita armonía (1987) para viola, violonchelo y contrabajo.
+  - John Dowland (Inglaterra, 1563-1626) :: Lachrimæ Antiquæ Novæ
+       (1604) para quinteto de cuerdas.
+  - Mariano Etkin (Argentina,1943-2016) :: Estáticamóvil II (1966) para violín, viola y violonchelo.
+  - John Dowland (Inglaterra, 1563-1626) :: Lachrimæ tristes (1604) para quinteto de cuerdas.
+  - Mariano Etkin (Argentina,1943-2016) :: Lamento por James Avery
+       (2009) para dos violines, violonchelo y contrabajo.
+  - John Dowland (Inglaterra, 1563-1626) :: Lachrimæ veræ (1604) para quinteto de cuerdas.
+  - Mariano Etkin (Argentina,1943-2016) :: Sueños olvidados
+       (2014). Encargo del Festival Distat Terra para violín, viola y violonchelo.
+
+CON\\
+CIER\\
+TO\\
+VIERNES 16.12
 
 ** TODO Comentario
 
@@ -618,92 +534,53 @@ VI ERNES 16.12
 # Se interpreta por musicos del sabado Ensamble 
 
 
-* CONCI ERTO S ÁBAD O 17.12
+* CONCIERTO SÁBADO 17.12
 #+BEGIN_VERSE
 22 hs.
-T E AT RO “EL GALPÓN”
-P R O G RAMA:
+TEATRO “EL GALPÓN”
+PROGRAMA:
 ESTRENOS DE JÓVENES
-COMPOSITORES Y OBRAS PILARES
-I NT É R P R E T E S :
+COMPOSITORES Y OBRAS DE REPERTORIO
+INTÉRPRETES:
 QUARTETTO MAURICE (ITALIA)
 JEFFREY MEANS (EEUU)
 ENSEMBLE ANTIQUANOVA
-(ARGENT INA / AUST RIA)
+(ARGENTINA / AUSTRIA)
 
 QUARTETTO MAURICE
-Georgia Privitera, violín
-Laura Bertolino, violín
-Francesco Vernero, viola
-Aline Privitera, violoncello
-#+END_VERSE
+  - Georgia Privitera :: violín.
+  - Laura Bertolino :: violín.
+  - Francesco Vernero :: viola.
+  - Aline Privitera :: violoncello.
 
-El Cuarteto Maurice es también director
-artístico de varios eventos culturales:
-colabora con la asociación La Terra Galleggiante en la dirección artística del
-festival de teatro, música y danza In
-Prossimità, ha colaborado en Turín con
-la galería de arte contemporáneo Cripta
-Settequattrosette para el mini festival de
-música contemporánea «4», fue el promotor y director artístico de la Transition
-Classic Orchestra (orquesta de cuerdas
-de música contemporánea dirigida por
-Carlo Boccadoro) y del festival de música
-de Pinerolo Fahrenhote.
-
-El cuarteto se fundó en el año 2002, gracias a la inspiración del Trío Debussy y de Giacomo
-Agazzini. Cursó estudios y se graduó con honores en 2009 del Curso Especial de Cuarteto
-de la Escuela de Música de Fiesole (Florencia). También estudió con Christophe Giovaninetti
-durante un año en el Conservatorio de París.
-Su repertorio abarca desde el Novecento histórico hasta György Ligeti, Iannis Xenakis, Helmut
-Lachenmann, Ivan Fedele, Fausto Romitelli, Georg Friedrich Haas, Stefano Scodanibbio, Philiph Glass, Matteo Franceschini, Marco Momi, Andrea Agostini, Valerio Murat, Odd Sneeggen,
-Mayke Nas, Kristian Ireland entre otros. Algunos compositores han dedicado al Cuarteto Maurice sus nuevas obras.
-El Cuarteto también ha realizado conciertos en toda Italia y en el extranjero: Bienal de Venecia
-de 2013, music@villaromana (Florencia, 2012 y 2013), Minifest de Musique de Demain (Estrasburgo), Academia italiana de la Universidad de Columbia (Nueva York), Tzlil Meudcan (Tel
-Aviv), Rassegna di Nuova Musica (Macerata), Playit (Florencia), Nuova Musica (Treviso), Encontres de Compositores (Mallorca). All Frontiers (Gradisca d’Isonzo) donde colaboró con Mika
-Vainio (Pan sonic), para el Fajr International Music Festival (Teherán), Ferme de Villefavard
-(Francia), Teatro Dal Verme (Milán), Piccolo Regio (Turín), Teatro Bibiena (Mantua), el Festival
-dei Due Mondi (Spoleto), Circolo della Stampa (Turín), Teatro Vittoria (Turín).
-
-Como quinteto ha colaborado con los
-pianistas Alberto Carnevale Ricci y Leonardo Zunica.
-
-#+BEGIN_VERSE
-JEFFREY MEANS (EEUU)
+JEFFREY MEANS (EEUU)\\
 DIRECTOR
 
-GRISELDA GIANINI
-CL ARINE T E
+#+INCLUDE: "../bios/Jeffrey Means.org::*Foto" :only-contents t
+#+INCLUDE: "../bios/Jeffrey Means.org::*Bio" :only-contents t
 
-HEINI SCHNEBELLI
-T ROMBÓN
-(??)
+GRISELDA GIANNINI\\
+CLARINETE
 
-MARÍA DEL ROSARIO
-CASTILLO
-F L A U TA S
+ENRIQUE SCHNEBELLI\\
+TROMBÓN
 
-EDUARDO RODRÍGUEZ
-FA G OT
+#+INCLUDE: "../bios/Enqrique Schneebeli.org::*Foto" :only-contents t
+#+INCLUDE: "../bios/Enrique Schneebeli.org::*Bio" :only-contents t
 
-MATÌAS MORELLI
-PERCUSIÒN
-#+END_VERSE
+MARÍA DEL ROSARIO\\
+CASTILLO\\
+FLAUTAS
 
-Es Solista Principal de Percusión en la Orquesta Sinfónica de Bahía Blanca. Realizò
-estudios de música y percusión en el Instituto Nacional Superior de Arte en General
-Roca, el Instituto Universitario Nacional
-de las Artes y la Universidad de Lanùs en
-Buenos Aires y Berklee College of Music
-en Boston. Formó parte de numerosas
-Orquestas Sinfónicas Juveniles y Profesionales del país y se ha presentado en
-diversos y reconocidos escenarios.
-Su actividad artística abarca una interminable lista de proyectos independientes;
-desde la edición de un disco de música
-para niños hasta su participación en música de Cámara, el Rock, el Jazz y la Música
-Latinoamericana.
+EDUARDO RODRÍGUEZ\\
+FAGOT
+#+INCLUDE: "../bios/Eduardo Rodríguez.org::*Foto" :only-contents t
+#+INCLUDE: "../bios/Eduardo Rodríguez.org::*Bio" :only-contents t
 
 #+BEGIN_VERSE
+MATÌAS MORELLI
+PERCUSIÒN
+
 YUI IWATA (JAPÓN)
 VIOLÍN
 
@@ -711,48 +588,29 @@ MARIANO CEBALLOS
 VIOLÍN
 
 DANIEL OLIVER MOSER
-(AUST RIA)
-VIOL A
+(AUSTRIA)
+VIOLA
 
 TOMASZ SKWERES (POLONIA)
-V I O LO N C H E LO
+VIOLONCHELO
 
-ANU N CI O
 EDGARDO VIZIOLI
-CONT RABA J O
-#+END_VERSE
+CONTRABAJO
 
-#+BEGIN_VERSE
 ESTRENOS DE JÓVENES
 COMPOSITORES
-Y OBRAS PILARES
-Antonela Copertari (Argentina)
-obra nueva para cuarteto de cuerdas
-Pierre Boulez (Francia)
-Derive (1984)
-para flauta, clarinete, percusión, piano, violín y violonchelo
-Luis Miguel Delgado Grande (Colombia)
-obra nueva para cuarteto de cuerdas
-Salvatore Sciarrino (Italia, )
-Il tempo con il obelisco ()
-para ???
-Pablo A. Rago (Argentina)
-obra nueva para cuarteto de cuerdas
--p a usaRafaele Maria Andrade (Brasil)
-obra nueva
-para cuarteto de cuerdas
-Gérard Grisey (Francia, )
-Periodes (1975)
-para flauta, clarinete, trombón, violín, viola, violonchelo y contrabajo
-Roberto Azaretto (Argentina)
-obra nueva
-para cuarteto de cuerdas
-Tristan Murail (Francia)
-Ethers (1978)
-para flauta, trombón, violín, viola, violonchelo y contrabajo
-Shiuan Chang (Taiwan)
-obra nueva
-para cuarteto de cuerdas
+Y OBRAS DE REPERTORIO
+#+END_VERSE
+  - Antonela Copertari (Argentina) :: obra nueva para cuarteto de cuerdas.
+  - Pierre Boulez (Francia) :: Derive (1984) para flauta, clarinete, percusión, piano, violín y violonchelo
+  - Luis Miguel Delgado Grande (Colombia) :: obra nueva para cuarteto de cuerdas.
+  - Salvatore Sciarrino (Italia) :: Il tempo con il obelisco.
+  - Pablo A. Rago (Argentina) :: Obra nueva para cuarteto de cuerdas.
+  - Rafaele Maria Andrade (Brasil) :: obra nueva para cuarteto de cuerdas.
+  - Gérard Grisey (Francia, ) :: Periodes (1975) para flauta, clarinete, trombón, violín, viola, violonchelo y contrabajo.
+  - Roberto Azaretto (Argentina) :: obra nueva para cuarteto de cuerdas.
+  - Tristan Murail (Francia) :: Ethers (1978) para flauta, trombón, violín, viola, violonchelo y contrabajo.
+  - Shiuan Chang (Taiwan) :: obra nueva para cuarteto de cuerdas.
 #+END_VERSE
 
 ** TODO Comentario

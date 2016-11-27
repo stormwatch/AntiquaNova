@@ -1,0 +1,30 @@
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: c:nil creator:nil d:(not "LOGBOOK") date:t e:t email:nil
+#+OPTIONS: f:t inline:t num:nil p:nil pri:nil prop:nil stat:t tags:t
+#+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
+#+TITLE: Matías Morelli
+#+DATE: <2016-11-25 vie>
+#+AUTHOR: Ezequiel Birman
+#+EMAIL: ebirman77@gmail.com
+#+LANGUAGE: es
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 24.5.1 (Org mode 8.3.4)
+
+#+DESCRIPTION: biografía, contacto
+#+KEYWORDS: música, percusión
+* Foto
+
+
+* Bio
+
+Es Solista Principal de Percusión en la Orquesta Sinfónica de Bahía
+Blanca. Realizó estudios de música y percusión en el Instituto
+Nacional Superior de Arte en General Roca, el Instituto Universitario
+Nacional de las Artes y la Universidad de Lanús en Buenos Aires y
+Berklee College of Music en Boston. Formó parte de numerosas Orquestas
+Sinfónicas Juveniles y Profesionales del país y se ha presentado en
+diversos y reconocidos escenarios.  Su actividad artística abarca una
+interminable lista de proyectos independientes; desde la edición de un
+disco de música para niños hasta su participación en música de Cámara,
+el Rock, el Jazz y la Música Latinoamericana.

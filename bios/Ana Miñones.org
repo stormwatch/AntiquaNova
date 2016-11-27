@@ -13,6 +13,7 @@
 #+EXCLUDE_TAGS: noexport
 #+CREATOR: Emacs 25.1.1 (Org mode 9.0)
 
+* Foto
 * Bio
 Comenzó sus estudios con Jorge Álvarez y luego en el Conservatorio de
 Música de Bahía Blanca con Gustavo Kamerbeek.  Durante 2011 tomó

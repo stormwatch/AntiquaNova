@@ -15,6 +15,8 @@
 #+LINK_HOME: 
 #+XSLT:
 
+* Foto
+
 * Bio
 Alessandro Perini nació en 1983 en Italia. Estudió composición con
 Luca Francesconi e Ivan Fedele entre otros, Música Electrónica y
@@ -46,9 +48,8 @@ Sus videos e instalaciones han sido exhibidos en festivales alrededor
 del mundo y premiados en MagmArt, Premio Arte Novara, /Arrivano i
 Corti, Marsciano Arte Giovani, Profezie Presenti, La Città in Lore./
 Entre las exhibiciones de grupos más prestigiosos están /A.N.G.E.L.I e
-tracce d'infinito/ (Lugano Switzerland), /Gameplay/ (Omaha, USA),
-/Flow Interrupted/ (Chicago, USA), /La Colomba/ (Venice, Italy) y /Art
-Cycle/ (Newark, USA).
+tracce d'infinito/ (Lugano), /Gameplay/ (Omaha), /Flow Interrupted/
+(Chicago), /La Colomba/ (Venecia) y /Art Cycle/ (Newark).
 
 El Mtro. Perini ha estado dando cursos de producción audiovisual para
 las artes en el Conservatorio de Como en Italia y de composición

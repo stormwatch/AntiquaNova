@@ -15,6 +15,7 @@
 #+LINK_HOME: 
 #+XSLT:
 
+* Foto
 
 # Doris Nicoletti was born in Graz/Austria in 1983 and began her
 # musical education at the Graz conservatory. After completing her
