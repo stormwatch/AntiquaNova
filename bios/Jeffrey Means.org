@@ -18,6 +18,11 @@
 * Foto
 [[https://static.wixstatic.com/media/f81cc3_bb4d9cb59eeec265a7bd4ae36886fc6f.jpg/v1/fill/w_270,h_408,al_c,q_90,usm_0.66_1.00_0.01/f81cc3_bb4d9cb59eeec265a7bd4ae36886fc6f.jpg]]
 
+* Texto previo para Distat Terra 2016
+Profesor y director invitado de nuestro "Primer Taller Internacional
+para Jóvenes Directores AntiquaNova 2016". Que será llevado a cabo
+durante el Festival Distat Terra 2016.
+
 * Bio
 # de la web oficial 2016
 #+BEGIN_SRC translate :src en :dest es :exports none
