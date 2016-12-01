@@ -1,0 +1,41 @@
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK")
+#+OPTIONS: date:t e:t email:nil f:t inline:t num:nil p:nil pri:nil
+#+OPTIONS: prop:nil stat:t tags:t tasks:t tex:t timestamp:t title:t
+#+OPTIONS: toc:nil todo:t |:t
+#+TITLE: Nuntempe Ensamble
+#+SUBTITLE: Cuarteto de Guitarras
+#+DATE: <2016-12-01>
+#+AUTHOR:
+#+EMAIL: ebirman77@gmail.com
+#+LANGUAGE: es
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.1.1 (Org mode 9.0)
+
+#+DESCRIPTION: Información y biografía
+#+KEYWORDS: música, guitarra, cuarteto
+
+* Integrantes
+  - [[file:Pablo Boltshauser.org][Pablo Boltshauser]] :: guitarra eléctrica
+  - [[file:Andrés Vaccarelli.org][Andrés Vaccarelli]] :: guitarra eléctrica
+  - [[file:Ariel Elijovich.org][Ariel Elijovich]] :: guitarra eléctrica
+  - [[file:Manuel Moreno.org][Manuel Moreno]] :: guitarra eléctrica
+
+* Bio
+Nuntempe Ensamble es un cuarteto de guitarras formado en el año 2008,
+dedicado a la investigación, interpretación y difusión de la música
+contemporánea. Toma su nombre de la palabra “nuntempe”, que en
+esperanto significa “ahora”.
+
+Desde sus comienzos el cuarteto ha realizado investigaciones sobre el
+repertorio actual y contemporáneo original para la formación y sus
+variantes en solo, dúos y tríos. Un repertorio ecléctico compuesto por
+estéticas disímiles que van desde la música de inspiración popular
+hasta los lenguajes más vanguardistas, teniendo como hilo conductor la
+guitarra.
+
+El cuarteto propone un abordaje de la música de los siglos XX y XXI
+desde la complejidad de la diversidad cultural, el pluralismo musical
+y la propia concepción de las posibilidades tímbricas, expresivas y
+técnicas del instrumento.
