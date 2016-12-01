@@ -17,6 +17,7 @@
 * Foto
 
 * Bio
+** Composición
 # Tomasz Skweres (born 1984) is a Polish composer and cellist who has
 # been living in Vienna since 1997. He studied composition with Detlev
 # Müller-Siemens and Chaya Czernowin as well as cello with Valentin
@@ -108,6 +109,7 @@ Gaugl, Joanna Sachryn.
 # in Verona, Gradus ad Parnassum in Vienna and residence competition of
 # the University of Music and Performing Arts in Vienna).
 
+** Violoncello
 Como chelista, desde 2012 es solista de la Orquesta Filarmónica de
 Regensburg en Alemania, desde 2009 es miembro de la /RSO Wien/
 (Orquesta Sinfónica de la Radio de Viena) y un intérprete activo en el
@@ -116,3 +118,4 @@ Cuarteto Hibiki es becario de la Fundación Herbert von Karajan y fue
 premiado en concursos de música de cámara (Gaetano Zinetti en Verona,
 /Gradus ad Parnassum/ en Viena y en el concurso para residentes de la
 Universidad de Música y Artes Escénicas de Viena).
+
