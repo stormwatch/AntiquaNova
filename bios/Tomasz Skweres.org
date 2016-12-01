@@ -17,7 +17,7 @@
 * Foto
 
 * Bio
-** Composición
+** Común
 # Tomasz Skweres (born 1984) is a Polish composer and cellist who has
 # been living in Vienna since 1997. He studied composition with Detlev
 # Müller-Siemens and Chaya Czernowin as well as cello with Valentin
@@ -53,6 +53,7 @@ Escénicas de Viena.
 # Dürr Foundation and the Czibulka Foundation and Austrian Ministry of
 # Culture.
 
+** Composición
 Las obras de Tomasz Skweres han sido interpretadas en el Festival Wien
 Modern, Bienal de Berna, Festival Klangspuren, Festival
 Komponistenmarathon (Wiener Konzerthaus), Festival /Das Kleine
