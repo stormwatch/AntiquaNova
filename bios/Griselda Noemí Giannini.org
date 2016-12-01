@@ -1,0 +1,49 @@
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK")
+#+OPTIONS: date:t e:t email:nil f:t inline:t num:nil p:nil pri:nil
+#+OPTIONS: prop:nil stat:t tags:t tasks:t tex:t timestamp:t title:t
+#+OPTIONS: toc:nil todo:t |:t
+#+TITLE: Griselda Noemí Giannini
+#+SUBTITLE: Clarinete
+#+DATE: <2016-12-01>
+#+AUTHOR:
+#+EMAIL: ebirman77@gmail.com
+#+LANGUAGE: es
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.1.1 (Org mode 9.0)
+
+#+DESCRIPTION: Información y biografía
+#+KEYWORDS: música, clarinete
+
+* Bio
+Licenciada en Artes Musicales con especialidad en Clarinete se
+perfeccionó con los maestros Céspedes, Rossi y Vanoosthuyse, cursando
+con este último en el Departamento de Música, Arte Dramático y
+Educación de la Escuela Superior de Ciencias y Bellas Artes,
+Lemmensinstituut (Lueven, Bélgica). En música de cámara se perfeccionó
+con los maestros Mora y Cosachov. Integró la Orquesta Académica del
+Teatro Colón, Orquesta Juvenil de las Américas (Bostón), Coro de
+Clarinetes dirigido por Mtro. Bohíques (Bélgica y Alemania) y la
+Orquesta Académica Bruckner (Munich-Alemania). Formó parte de la
+Orquesta Sinfónica Baires realizando giras al interior del país. En
+música de cámara integra Argentmúsica para la divulgación de la música
+Argentina y el Ensamble de Vientos Pampa estrenando obras de
+compositores argentinos. Como docente fue asistente de clarinete en
+las provincias de Santa Cruz, La Pampa, Chaco, Santa Fe y Bs. As en el
+programa del Proyecto de Orquestas Juveniles e Infantiles que realiza
+la Secretaria de Cultura de la Noción y formó parte del cuerpo
+académico del programa de formación en composición /Escuchar Componer/
+en el Camping Musical Bariloche bajo la dirección del Maestro Etkin
+donde estrenó numerosas obras de compositores latinoamericanos. Es
+ayudante de la cátedra de clarinete en el I.U.N.A. y profesora de las
+cátedras de clarinete en el Instituto Superior de Música José Hernádez
+de Vicente López y Conservatorio Superior de Música Manuel de
+Falla. Desde el 2006 participa de las temporadas de la Orquesta
+Estable del Teatro Colón, Buenos Aires Lírica, Juventus Lyrica,
+Orquesta Sinfónica Provincial de Rosario, Orquesta Sinfónica Nacional
+y Orquesta Nacional de Música Juan de Dios Filiberto. Es integrante de
+la Orquesta de la Radio y Televisión Publica. Desde 2010 participa del
+Ciclo de Conciertos de Música Contemporánea de Teatro General San
+Martín, del Centro de Experimentación del Teatro Colón, Colón
+Contemporáneo y Fundación Música AntiquaNova.

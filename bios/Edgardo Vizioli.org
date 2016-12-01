@@ -1,0 +1,40 @@
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK")
+#+OPTIONS: date:t e:t email:nil f:t inline:t num:nil p:nil pri:nil
+#+OPTIONS: prop:nil stat:t tags:t tasks:t tex:t timestamp:t title:t
+#+OPTIONS: toc:nil todo:t |:t
+#+TITLE: Edgardo Vizioli
+#+SUBTITLE: Contrabajo
+#+DATE: <2016-12-01>
+#+AUTHOR:
+#+EMAIL: ebirman77@gmail.com
+#+LANGUAGE: es
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.1.1 (Org mode 9.0)
+
+#+DESCRIPTION: Información y biografía
+#+KEYWORDS: música, contrabajo
+
+* Bio
+Realizó sus estudios musicales y de contrabajo con el Maestro Enzo
+Raschelli de Ferraris, en el Conservatorio Nacional López Bouchardo
+donde se recibió como profesor. Participó en los cursos de
+Perfeccionamiento dictados por los contrabajistas James Rapport
+(Viena), Milton Masciadri (EEUU) y Mark Morton (EEUU). Formó parte de
+la Orquesta Juvenil Franco Argentina, Orquesta Juvenil de Radio
+Nacional, Orquesta Sinfónica de San Isidro, la Orquesta Estable del
+Teatro Colón y diversas agrupaciones de cámara.  También en el ámbito
+de la música de cámara interpretó las principales obras para su
+instrumento, en salas como Astor Piazzolla del Teatro Argentino de la
+Plata.  Desde 1996 a 2000 se desempeñó como músico de la Orquesta
+Sinfónica de Bahía Blanca cargo que obtuvo por concurso abierto. Con
+dicha orquesta participó en el Festival Internacional de Orquestas
+realizado en la ciudad de Fermo, Italia.  En el año 2000 ingresó por
+concurso público a la Orquesta Estable del Teatro Argentino de La
+Plata, donde se desempeña desde el 2003 como solista adjunto de
+contrabajo. Desde 2008 integra la Orquesta de Cámara Municipal de La
+Plata como solista. Ha estrenado numerosas obras de compositores
+argentinos actuales. Desempeña una intensa labor docente en los
+conservatorios Manuel de Falla de Buenos Aires y Gilardo Gilardi de La
+Plata.

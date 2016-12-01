@@ -1,0 +1,46 @@
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK")
+#+OPTIONS: date:t e:t email:nil f:t inline:t num:nil p:nil pri:nil
+#+OPTIONS: prop:nil stat:t tags:t tasks:t tex:t timestamp:t title:t
+#+OPTIONS: toc:nil todo:t |:t
+#+TITLE: Mariano Ceballos
+#+SUBTITLE: Violín
+#+DATE: <2016-12-01>
+#+AUTHOR:
+#+EMAIL: ebirman77@gmail.com
+#+LANGUAGE: es
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.1.1 (Org mode 9.0)
+
+#+DESCRIPTION: Información y biografía
+#+KEYWORDS: música, violín
+
+* Bio
+Violinista considerado por la crítica especializada como destacado
+intérprete y nivel artístico de excelencia; consagrado a la
+interpretación, investigación, difusión y educación de la música
+clásica contemporánea.
+
+Su actividad musical lo ha llevado a figu rar en los centros
+artísticos, orquestas y festivales musicales más relevantes del mundo,
+integrando como único músico de Sudamérica el prestigioso Ensemble
+Intercontemporain de París, dirigido y fundado por el maestro de
+renombre internacional Pierre Boulez.
+
+Destacan en su labor diversos premios y distinciones; entre ellos: 1°
+premio Concurso Mozarteum, Bienal Juvenil Shell, Joven Sobresaliente
+del Año 2010 de Argentina, beca International Menuhin Music Academy de
+Suiza y Fullbright Association de Estados Unidos.
+
+Ha realizado más de 50 estrenos y primeras audiciones en
+Latinoamérica, Asia y Europa con obras de los principales compositores
+del siglo XX y XXI, llevando a cabo recitales y conciertos que ejecuta
+regularmente junto a destacados solistas internacionales.
+
+Violín solista del “Lucerne Festival Ensemble”, agrupación
+internacional con la cual efectuó conciertos en Londres, New York,
+Zurich, Lucerne y Beijing; realizando grabaciones, programas
+pedagógicos y documentales fílmicos de su actividad a través de
+distintos medios del mundo: Accentus Music (Suiza), EuroArts y ARTE
+(Alemania), Japan Foundation TV (Japón) y Radio France (Francia).
