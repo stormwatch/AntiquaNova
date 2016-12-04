@@ -16,4 +16,26 @@
 #+DESCRIPTION: Información y biografía
 #+KEYWORDS: música, flauta
 
-* TODO Bio
+* Bio
+Egresó en el año 2011 en la Universidad Nacional de Lanús con el
+título de Licenciada en Música con orientación en orquesta. Realizó la
+Tecnicatura de Flauta Traversa en el Conservatorio Provincial de
+Música de Morón Alberto Ginastera, en la cátedra del Profesor Eduardo
+Sepp, egresando en el año 2009. Sus maestros de flauta fueron Jorge de
+la Vega, Patricia Da Dalt, y Martín Auza en piccolo. Realizó
+masterclases con Mathias Ziegler, Celso Woltzenlogel, Nicole Esposito,
+James Lyman, Michel Bellavance y Horacio Parravicini. Integró la
+Orquesta del Conservatorio de Morón Alberto Ginastera, la Orquesta
+Estudiantil de la Ciudad de Buenos Aires, la Banda Sinfónica de la
+Facultad de Filosofía y Letras y la Orquesta de Cámara de la Radio La
+Tribu. Participó del concierto sobre la música para flauta de Marta
+Lambertini, y actuó como solista en la obra El imperio de la luz junto
+a la Orquesta de Cámara de la UNLa. En 2013 fue invitada a participar
+del ciclo de conciertos de música contemporánea Tempus Fugit y del
+ciclo Ars Nova realizado en Choele Choel. Actualmente cursa la
+Diplomatura Superior de Música Contemporánea del Conservatorio
+Superior de Música Manuel de Falla, en la cátedra de Interpretación a
+cargo de Patricia Da Dalt, y se perfecciona en instrumento con la
+flautista María Cecilia Muñoz. Desde el 2010 hasta la fecha, integra
+como primera flauta la Orquesta de Cámara de la Universidad Nacional
+de Lanús y desde el 2013 participa del ensamble Voxes Contemporánea.
