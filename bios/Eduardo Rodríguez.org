@@ -16,6 +16,10 @@
 #+DESCRIPTION: Información y biografía
 #+KEYWORDS: música, fagot
 
+* Foto
+# la única foto usable que encontré en facebook
+[[https://scontent-gru2-1.xx.fbcdn.net/t31.0-8/s960x960/1149763_10201782948161244_900054725_o.jpg]]
+
 * Bio
 Egresó del Conservatorio Gilardo Gilardi, donde tuvo como maestro a
 Pedro Chiambaretta. Cursó ocho años con el maestro Alberto Merenzon, y
