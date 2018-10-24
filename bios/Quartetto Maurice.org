@@ -28,7 +28,7 @@
 
 * Bio
 
-#+BEGIN_SRC translate :src it :dest es :exports none
+#+BEGIN_SRC translate :src it :dest es 
 Vincitore del XXXV Premio della Critica Musicale "Franco Abbiati" 2015
 dedicato a Piero Farulli, il Quartetto Maurice è stato fondato nel
 2002, grazie all'ispirazione del Trio Debussy e di Giacomo Agazzini
@@ -95,7 +95,7 @@ Dillon (Cuarteto Prometo), Franck Chevalier (Cuarteto Diotima), Josef
 Klusoň (Cuarteto Prazak), Helmut Lachenmann y Philippe Manoury.
 
 
-#+BEGIN_SRC translate :src it :dest es :exports none
+#+BEGIN_SRC translate :src it :dest es 
 I quattro interpreti manifestano sin dall'inizio del loro percorso
 l’esigenza di porre in primo piano la musica contemporanea, fino a
 farla diventare l'essenza artistica del Quartetto.
@@ -103,7 +103,7 @@ farla diventare l'essenza artistica del Quartetto.
 
 +Los cuatro intérpretes han manifiestado desde el principio de su camino la exigencia de poner la música contemporánea en primer plano de modo que ella sea su escencia artística.+
 
-#+BEGIN_SRC translate :src it :dest es :exports none
+#+BEGIN_SRC translate :src it :dest es 
   Il repertorio comprende musiche del Novecento storico fino ad arrivare
   a György Ligeti, Iannis Xenakis, Helmut Lachenmann, Ivan Fedele,
   Fausto Romitelli, Georg Friedrich Haas, Stefano Scodanibbio, Philiph
@@ -116,7 +116,7 @@ farla diventare l'essenza artistica del Quartetto.
   Raffaele Grimaldi).
 #+END_SRC
 
-#+BEGIN_SRC translate :src en :dest es :exports none
+#+BEGIN_SRC translate :src en :dest es 
 Their repertoire includes music by Gyorgy Ligeti, Helmut Lachenmann,
 Ivan Fedele, Fausto Romitelli, Georg Friedrich Haas, Stefano
 Scodanibbio, Philip Glass, Matteo Franceschini, Andrea Agostini,
@@ -143,7 +143,7 @@ Andrea Sarto y Raffaele Grimaldi). Han estrenaron música de Marco Momi
 y Ryan Carter (estreno mundial), Odd Sneeggen, Mayke Nas y Guido
 Baggiani (estreno italiano).
 
-#+BEGIN_SRC translate :src it :dest es :exports none
+#+BEGIN_SRC translate :src it :dest es 
 Il Quartetto ha eseguito "Tensio" di Philippe Manoury, una delle
 composizioni più all'avanguardia nel campo della sperimentazione di
 nuove tecnologie musicali, presso il "Festival ManiFeste 2015"
@@ -166,7 +166,7 @@ de estudio en la asociación Pro Quartet y la /Citè des Arts/, con la
 invaluable ayuda de Franck Chevalier (Cuarteto Diotima) y Gregoire
 Loireux (IRCAM).
 
-#+BEGIN_SRC translate :src it :dest es :exports none
+#+BEGIN_SRC translate :src it :dest es 
 Il Quartetto si è esibito inoltre in concerti in tutta Italia e
 all'estero, tra i quali: Biennale di Venezia 2013, per la stagione
 “music@villaroma" di Firenze 2012 e 2013", a Strasburgo (Francia) per
@@ -210,7 +210,7 @@ Circolo della Stampa (Turín), Teatro Vittoria (Turín). Teatro de
 Tortona (Piamonte), Festival Musical de Gubbio (Umbría), Festival
 Internacional de Imola (Emilia-Romagna).
 
-#+BEGIN_SRC translate :src it :dest es :exports none
+#+BEGIN_SRC translate :src it :dest es 
 # Il Quartetto è stato selezionato dall'associazione "Piero Farulli" per
 # il progetto "Le Dimore del Quartetto" e riceve sostegno dal "CIDIM",
 # comitato nazionale italiano musica, e dalla "De Sono Associazione per
@@ -234,7 +234,7 @@ Sono/.
 Como quinteto ha colaborado con los pianistas Alberto Carnevale Ricci
 y Leonardo Zunica.
 
-#+BEGIN_SRC translate :src it :dest es :exports none
+#+BEGIN_SRC translate :src it :dest es 
   Il Quartetto Maurice è anche direttore artistico di alcuni eventi
   culturali: collabora con l'associazione "La Terra Galleggiante" nella
   direzione artistica del festival di teatro musica danza "In
@@ -248,7 +248,7 @@ y Leonardo Zunica.
 
 +El Cuarteto Maurice es también director artístico de varios eventos culturales: colabora con la asociación /La Terra Galleggiante/ en la dirección artística del festival de teatro, música y danza /In Prossimità/, ha colaborado en Turín con la galería de arte contemporáneo /Cripta Settequattrosette/ para el mini festival de música contemporánea «4», fue el promotor y director artístico de la Transition Classic Orchestra (orquesta de cuerdas de música contemporánea dirigida por Carlo Boccadoro) y del festival de música de Pinerolo /Fahrenhote/.+
 
-#+BEGIN_SRC translate :src it :dest es :exports none
+#+BEGIN_SRC translate :src it :dest es 
 Nel 2016 il quartetto riceve una borsa di studio come migliore
 interprete all'interno della 48° edizione del corso estivo di musica
 contemporanea di Darmstadt. Il premio è stato assegnato dalla giuria
@@ -269,10 +269,11 @@ integrado por la compositora Joanna Bailie, la acordionista Eva
 Zöllner y el curador Thorbjørn Tønder Hansen.
 
 
-* Texto del Maurice enviado a Jallinsky para Distat Terra 2018
+* Texto del Maurice para Distat Terra 2018
+# Original en inglés
 MAURICE QUARTET
 ** en
-#+BEGIN_SRC translate :src en :dest es :exports none
+#+BEGIN_SRC translate :src en :dest es
 Since its formation in 2002, a constant and tireless research on sound has been
 the trait that has best distinguished the Quartetto Maurice. After an in-depth
 investigation of the traditional classical repertoire, which has guaranteed a
@@ -315,7 +316,6 @@ Stipendium Preis at the 48th Ferienkurse fur Neue Musik in Darmstadt in 2016.
 #+END_SRC
 
 ** es
-#+results:
 Desde su creación en 2002, una investigación constante e infatigable sobre el
 sonido ha sido el rasgo que mejor ha caracterizado al Cuarteto Maurice. Después
 de una investigación en profundidad del repertorio clásico tradicional,
