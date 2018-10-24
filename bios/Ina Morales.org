@@ -15,7 +15,7 @@
 #+DESCRIPTION: biografía
 #+KEYWORDS: teatro
 
-# Texto enviado por Sofía Jallinsky para traducir
+# Texto original en español 
 * CV Abreviado
 ** es
 Ina Morales es directora, actriz y docente. Desde el año 2012 se dedica a la
