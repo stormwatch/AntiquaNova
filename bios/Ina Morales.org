@@ -18,7 +18,6 @@
 # Texto enviado por Sofía Jallinsky para traducir
 * CV Abreviado
 ** es
-#+BEGIN_SRC translate :src es :dest en :exports none
 Ina Morales es directora, actriz y docente. Desde el año 2012 se dedica a la
 investigación y creación de poéticas escénicas con objetos y materiales.
 Egresada de la Especialización en Teatro de Objetos, Interactividad y Nuevos
@@ -32,9 +31,7 @@ seleccionada para participar del festival Fiesta Provincial de Teatro C.A.B.A
 2017 organizado por I.N.T. Fue becaría del Instituto Nacional del Teatro. Ha
 realizado funciones en diferentes teatros de Capital Federal, Bahía Blanca, Río
 Negro y Neuquén.
-#+END_SRC
 ** en
-#+results:
 Ina Morales is a theatre director, actor and teacher. Since 2012 she has delved
 into the research and creation of scenic poetry with objects and materials. Mrs.
 Morales did earn a degree in Theater of Objects, Interactivity and New Media
