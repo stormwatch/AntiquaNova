@@ -268,4 +268,84 @@ premio fue otorgado por el jurado del Premio de Música Kranichstein
 integrado por la compositora Joanna Bailie, la acordionista Eva
 Zöllner y el curador Thorbjørn Tønder Hansen.
 
-* Agregado para Distat Terra 2016
+
+* Texto del Maurice enviado a Jallinsky para Distat Terra 2018
+MAURICE QUARTET
+** en
+#+BEGIN_SRC translate :src en :dest es :exports none
+Since its formation in 2002, a constant and tireless research on sound has been
+the trait that has best distinguished the Quartetto Maurice. After an in-depth
+investigation of the traditional classical repertoire, which has guaranteed a
+meticulous approach to the score and an extreme attention to the performance’s
+details, the Quartet showed the need to place the music of 20th and 21th
+centuries at the heart of its repertoire, exploring a great variety of
+contemporary languages.
+ 
+The 4+1 project – where «4» stands for the string quartet and «1» is for
+electronics – highlights the will of the Quartetto to consider electronics as
+the full fifth member of the group, and to emphasize its «cameristic» aspect,
+capturing the suggestions offered by electronics, giving it a new relevance in
+the acoustic environment, and finally creating a flow of innovations in sound
+that resonates one with each other.
+ 
+Over the years, the Quartetto Maurice carried out an intensive training in the
+contemporary music repertoire, together with the greatest performers and
+composers of the international scene. It is active in promoting new music
+through commissions to young composers, keeping an open mind on the complex
+contemporary music panorama.
+ 
+Regularly invited to perform at the most important festivals and concert seasons
+across Europe, North and South America, the Quartetto performed at the Venice
+Biennale, at the Società del Quartetto di Milano, at the «November Music»
+festival in the Netherlands, at the «Italian Academy» of the Columbia University
+(New York), at «ManiFeste» in Paris, at the «Nuova Musica» festival in Macerata
+and at the «Open Music» festival in Graz.
+ 
+The Quartetto received the support of several institutions such as De Sono –
+Associazione per la Musica (Turin), Freunde und Förderer des Internationalen
+Musikinstituts (Darmstadt), ProQuartet Association (Paris), CIDIM (Comitato
+Nazionale Italiano Musica). It has been selected to partecipated in the workshop
+for quartet+electronic in the framework of the Ulysses-Journeys during
+"ManiFeste 2017", supported by IRCAM. The Quartet is participating to the
+project "Le dimore del quartetto", in collaboration with ADSI.
+ 
+The Quartetto won the 35th Italian Music Critics Award «Franco Abbiati»
+dedicated to the memory of Piero Farulli in 2015 and the Kranichsteiner
+Stipendium Preis at the 48th Ferienkurse fur Neue Musik in Darmstadt in 2016.
+#+END_SRC
+
+** es
+#+results:
+Desde su creación en 2002, una investigación constante e infatigable sobre el
+sonido ha sido el rasgo que mejor ha caracterizado al Cuarteto Maurice. Después
+de una investigación en profundidad del repertorio clásico tradicional,
+grantizando un enfoque meticuloso de la partitura y una atención extrema a los
+detalles de la interpretación, el Cuarteto mostró la necesidad de colocar la
+música de los siglos 20 y 21 en el corazón de su repertorio, explorando una gran
+variedad de estilos contemporáneos. El proyecto 4 + 1, en donde «4» significa el
+cuarteto de cuerdas y «1» la electrónica, destaca la voluntad del Cuarteto de
+considerar a la electrónica como el quinto miembro completo del grupo y
+enfatizar su aspecto «camerístico». Tomando en cuenta las sugerencias ofrecidas
+por la electrónica, dándole una nueva relevancia en el entorno acústico y
+finalmente creando un flujo de innovaciones en el sonido que resuenan entre sí.
+A lo largo de los años, el Quartetto Maurice realizó un entrenamiento intensivo
+en el repertorio de música contemporánea junto con los mejores intérpretes y
+compositores de la escena internacional. Promueve actívamente la música nueva a
+través de comisiones para jóvenes compositores, manteniendo una mente abierta en
+el complejo panorama de la música contemporánea. Invitado regularmente para
+actuar en los festivales y temporadas de conciertos más importantes de Europa,
+América del Norte y del Sur, el Cuarteto se presentó en la Bienal de Venecia, en
+la /Società del Quartetto di Milano/, en el festival /November Music/ de los
+Países Bajos, en la /Italian Academy/ de la Universidad de Columbia (Nueva
+York), en /ManiFeste/ en París, en el festival /Nuova Musica/ en Macerata y en
+el festival /Open Music/ de Graz. El Cuarteto recibió el apoyo de varias
+instituciones como /De Sono — Associazione per la Musica/ (Turín), /Freunde und
+Förderer des Internationalen Musikinstituts/ (Darmstadt), /ProQuartet
+Association/ (París), CIDIM /(Comitato Nazionale Italiano Musica)/. Ha sido
+seleccionado para participar en el taller para cuarteto + electrónica en el
+marco de /Ulysses-Journeys/ durante /ManiFeste/ 2017 apoyado por el IRCAM. El
+Cuarteto participa en el proyecto /Le dimore del quartetto/, en colaboración con
+ADSI. El Cuarteto ganó el 35º Premio de la Crítica de la Música Italiana
+Franco Abbiati dedicado a la memoria de Piero Farulli en 2015 y el
+/Kranichsteiner Stipendium Preis/ en la 48ª /Ferienkurse fur Neue Musik/ en
+Darmstadt en 2016.
