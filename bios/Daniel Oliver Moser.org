@@ -51,7 +51,7 @@ Paliano, Roma y ganador de la beca Hilde Zach de la ciudad de
 Innsbruck.
 * Bio
 # extraída de http://www.danielolivermoser.com/biographie.html
-#+BEGIN_SRC translate :src de :dest es :eports none
+#+BEGIN_SRC translate :src de :dest es
 Daniel Oliver Moser studierte Komposition bei Alfred Stingl am
 Kärntner Landeskonservatorium und anschließend bei Wolfgang Liebhart
 und Christian Minkowitsch an der Konservatorium Wien Privatuniversität
@@ -63,7 +63,7 @@ Conservatorio Estatal de Carintia y luego a Wolfgang Liebhart y
 Christian Minkowitsch en el Conservatorio de Viena y en el Mozarteum
 de Salzburgo con Tristan Murail.
 
-#+BEGIN_SRC translate :src de :dest es :exports none
+#+BEGIN_SRC translate :src de :dest es
 Teilnahme an Meisterkursen unter anderem mit Philippe Leroux, Joshua
 Fineberg.  Kompositionsaufträge und Aufführungen international durch
 namhafte Solisten und Ensembles (Ensemble XX. Jahrhundert, AsianArts
@@ -79,7 +79,7 @@ Ensemble Berlin, Fundación Musica AntiquaNova, Trio Unidas, Ensemble
 Zeitfluss, Ensemble Reconsil, TENM, Guardini Stiftung Berlin, Ensemble
 Platypus, Ensemble Klingekunst y Acies-Quartett).
 
-#+BEGIN_SRC translate :src de :dest es :exports none
+#+BEGIN_SRC translate :src de :dest es
 Aufführungen in Österreich (u.a. Musikverein und Konzerthaus Wien),
 sowie bei internationalen Konzerten und Festivals (u.a. MDR
 Musiksommer, ISCM World New Music Days, Forum Wallis, Musikbiennale
