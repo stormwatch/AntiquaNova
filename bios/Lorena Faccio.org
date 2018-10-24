@@ -15,35 +15,34 @@
 #+DESCRIPTION: biografía
 #+KEYWORDS: plástica
 
-# Texto enviado por Sofía Jallinsky para traducir
-* en
+* Vita brevis 
+
 :PROPERTIES:
 :Nacionalidad: Argentina
 :Ciudad: Buenos Aires
 :Fecha: 1974
 :END:
 
-#+BEGIN_SRC translate :src es :dest en :eports none
-  Egresa de la Escuela Nacional de Bellas Artes Prilidiano Pueyrredón como
-  Profesora Nacional de Escultura y Pintura. Asiste al Workshop de Iluminación
-  Fotográfica con Gustavo Demaría. Cursa el Taller de Video Analógico con Javier
-  Plano. Realiza entrenamiento en Danza Contemporánea con Fabiana Capriotti.
-  Asiste al Taller sobre pensamiento Queer, dictado por Moira Pérez, Dra. en
-  filosofía (UBA). Estudia Fotografía Estenopeica en el Museo Fotográfico Simik.
-  Cursa el Taller de Video, coordinado por Gustavo Galuppo, Hernán Khourian y
-  Andrés Denegri en el Espacio Fundación Telefónica. Participa del taller sobre
-  Redacción de Statement, dictado por Kekena Corvalán. Asiste al taller teórico
-  práctico sobre Arte, Ciencia y Tecnología, a cargo de Mariano Sardón y Rodrigo
-  Alonso en el Espacio Fundación Telefónica. Cursa el Taller de Fotografía con
-  Gabriel Valansi. Forma parte del taller de Fotografía y Revelado con Eduardo
-  Gil. Expone en Buenos Aires, Caracas, París, Niza, Bergamo, Verona, Milán,
-  Bologna, Nápoles, Caserta, Brescia, Bari y Lecce. Sus obras forman parte de
-  varias colecciones privadas y públicas en Argentina, Italia, Hungría y Francia.
-  Vive y trabaja en Buenos Aires.
-#+END_SRC 
-
-#+results:
+# Texto original español.
 * es
+Egresa de la Escuela Nacional de Bellas Artes Prilidiano Pueyrredón como
+Profesora Nacional de Escultura y Pintura. Asiste al Workshop de Iluminación
+Fotográfica con Gustavo Demaría. Cursa el Taller de Video Analógico con Javier
+Plano. Realiza entrenamiento en Danza Contemporánea con Fabiana Capriotti.
+Asiste al Taller sobre pensamiento Queer, dictado por Moira Pérez, Dra. en
+filosofía (UBA). Estudia Fotografía Estenopeica en el Museo Fotográfico Simik.
+Cursa el Taller de Video, coordinado por Gustavo Galuppo, Hernán Khourian y
+Andrés Denegri en el Espacio Fundación Telefónica. Participa del taller sobre
+Redacción de Statement, dictado por Kekena Corvalán. Asiste al taller teórico
+práctico sobre Arte, Ciencia y Tecnología, a cargo de Mariano Sardón y Rodrigo
+Alonso en el Espacio Fundación Telefónica. Cursa el Taller de Fotografía con
+Gabriel Valansi. Forma parte del taller de Fotografía y Revelado con Eduardo
+Gil. Expone en Buenos Aires, Caracas, París, Niza, Bergamo, Verona, Milán,
+Bologna, Nápoles, Caserta, Brescia, Bari y Lecce. Sus obras forman parte de
+varias colecciones privadas y públicas en Argentina, Italia, Hungría y Francia.
+Vive y trabaja en Buenos Aires.
+
+* en
 Lorena Faccio graduated from the National School of Fine Arts Prilidiano
 Pueyrredón with the degree of /Profesora Nacional de Escultura y Pintura/.
 Then Attended a photographic lighting workshop under Gustavo Demaría, and an
