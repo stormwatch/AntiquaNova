@@ -15,6 +15,7 @@
 #+DESCRIPTION: biografía
 #+KEYWORDS: teatro
 
+# Texto enviado por Sofía Jallinsky para traducir
 * CV Abreviado
 ** es
 #+BEGIN_SRC translate :src es :dest en :exports none
