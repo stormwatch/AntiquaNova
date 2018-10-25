@@ -1,0 +1,274 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:t stat:t tags:t
+#+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
+#+TITLE: María Zegna
+#+SUBTITLE: Bailarina
+#+DATE: <2018-10-25 jue>
+#+AUTHOR: Ezequiel Birman
+#+EMAIL: ebirman77@gmail.com
+#+LANGUAGE: es,en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.14)
+
+#+DESCRIPTION: biografía
+#+KEYWORDS: plástica
+
+
+* Vita Brevis 
+
+:PROPERTIES:
+:Nacionalidad: Argentina
+:Ciudad: Buenos Aires
+:Fecha: 1975
+:END:
+
+El [2018-10-24 mié] recibí de SJ los textos escritos por Zegna y las traducciones que siguen.
+
+** Biografía
+*** es                                                             :original:
+María Zegna nace en 1975 en Buenos Aires, donde reside y trabaja como
+coreógrafa, bailarina, educadora en danza contemporánea, diseñadora de perfumes
+naturales.
+
+Mientras está fuera de Buenos Aires escribe poemovs (poemas visuales-sonoros y
+de movimientos).
+
+Inició sus estudios de danza a los tres años de edad. Estudió humanidades y
+obtiene una licenciatura en la Universidad de Buenos Aires. En la misma
+universidad estudió Artes Combinadas (Cine, Teatro y Danza), y realizó cursos de
+Dirección de Puesta en Escena en el Centro Cultural Ricardo Rojas. Realizó un
+posgrado en Técnicas Corporales Terapéuticas en la Universidad del Salvador.
+
+Desde 1998 trabaja en performances multisensoriales con tecnología, vídeo,
+sabores y aromas, destacándose: MoT 2012, ToM 2012, OmT 2014, MoS 2015, la Cena
+Emocional 2015, Performance Transmodal  2016 , el Perfume de la Danza 2016,
+Videos Perfumados 2017 y Compañeros de vida 2017.
+
+Desde el año 2000 elabora su propio lenguaje al que llama Danza Nueva
+Emocionalidad- un sistema de movimientos estructurados en series (alas, olas,
+minotauros, caminatas, derrumbes, existencias detenidas, gir a dos, crossovers,
+etc.), una estética centrada en la desarticulación, la asimetría y la rotación
+interna y una temporalidad derivada de la respiración y de la topología ósea. El
+concepto medular de este lenguaje, que emerge como una epifanía al sobrevivir al
+atentado terrorista de Londres en 2005, es la r̶e̶p̶r̶e̶ sentación: anular la
+maquinaria yoica del performer para dejar en evidencia la emocionalidad del
+movimiento.
+
+Sus performances como solista se han llevado a cabo en: CETC (Centro
+Experimental del Teatro Colón), ICA (Institute of Contemporary Arts) de Londres,
+Museo Kunsthalle (Düsseldorf), Earport en Duisburg (Alemania), Reid Hall
+(Paris), Casa del Bicentenario, Centro Cultural Recoleta, CheLA, Tecnópolis,
+Santa Cecilia´s Hall de Edimburgo, Rythmikorjaamo de Finlandia, Centro Cultural
+San Martín, Fundación Osde, MAR (Museo de arte contemporáneo de Mar del Plata),
+Espacio multiarte Sigen (Sindicatura General de la Nación), La Casa de la
+Cultura de la Ciudad de Buenos Aires, Galería Arte x Arte, Galería Wussmann, la
+Sala de exposiciones de la Universidad Torcuato Di Tella- Artes; ECUNHI; Museo
+José Hernández; MUNTREF; Galería ARCIMBOLDO, Salón dorado de la Alianza Francesa
+(2017), CASo- Centro de arte sonoro (2017) y en intervenciones urbanas en: las
+escalinatas de la Facultad de Derecho de la UBA, en el Obelisco Porteño, la
+terraza del edificio histórico Cassará, el Patio de los Naranjos del Centro
+Cultural Recoleta, la Isla de Archivo Vivo,  los jardines de la Dirección Gral.
+de Museos y en el Río Negro de Choele Choel y en el metro Kungsträdgården de la
+ciudad de Estocolmo (2017).
+
+Participa en los siguientes festivales: Discovering Latin-America 2006; Cultura
+y Media 2009; Bienal de Arte de la Fundación Areatec 2010; Fase 3; MIVA
+-Festival de video-danza de la Amazonia; V Mostra Internacional De Videodança De
+São Carlos/Sao Paulo; II Festival de Música por la Memoria y la Noche de los
+Museos 2012, 2013 y 2017; Festival joven de video de Tecnópolis 2012; 3er
+Festival de Cine hecho con Cámara de Fotos (SCDFIII) 2012; Kumuru Festival
+(Finlandia) 2012; Mestizo Art Festival (MAF); Festival MARFICI 2013; Bienal de
+Arte Joven de Buenos Aires; Mestizo Arts Festival (MAF) 2013; Sensibus Art
+Festival (Finlandia) 2014 y La nuit des sens croisés (Paris) 2016. Y
+recientemente en el ciclo “Fronteras suspendidas I y II” en el MAR  y en el
+ciclo anual de performance de la Galería ARCIMBOLDO y en el Festival de música
+antigua y contemporánea Distat Terra a finales de 2016 y “Acción de cierre” en
+el Teatro Cervantes, 2017.
+
+Presenta su catálogo de movimientos en una conferencia en la EHESS (Universidad
+de París VIII), en mayo de 2016 y en unas performance/conferencias en el Museo
+MAR de Mar del Plata (2016 y 2017) y en el Centro Cultural de Choele Choel,
+Patagonia Argentina, en diciembre 2016.
+
+Sus perfumes son utilizados en la conferencia de Bruno Mesz y Sebastián Tedesco
+sobre Traducciones transmodales en torno a la exposición “Salida de los obreros
+del museo Malba” de Alexander Apóstol, Malba 2017.
+
+En marzo de 2018, presenta en Barcelona la intervención transmodal interactiva
+“huelo huelo, que ves?”, junto a Sebastián Tedesco en el marco del encuentro
+internacional “Brain and wine” organizado por la Fundación elBulli. Y
+próximamente presenta los perfumes para la instalación transmodal de Bruno Mesz:
+“Scriabin TransEmocional” para NUJAS (nuevos jardines Servente en el Congreso de
+musicología organizado por el Conservatorio Gilardo Gilardi, La Plata.
+
+En mayo de 2018 coreografía y danza su catálogo de movimientos, para la campaña
+AW18 de fotografía y video de la diseñadora argentina Jessica Kessel, en el
+Teatro General San Martín.
+
+En octubre 2018 realiza el tour “Senses, scenes and sciences” en Finlandia y
+Noruega.
+
+Desde el año 2000 ha trabajado como docente para la ONU y para las extensiones
+culturales de las Facultades de Psicología, Filosofía y Letras y Derecho
+dependientes de la Universidad de Buenos Aires. Ha dictado seminarios en el
+Instituto Cervantes con sede en Londres. Ha coordinado el área corporal de la
+fundación Recreo y ha dictado workshops sobre performance en Mar del Plata,
+Londres, Mallorca y Madrid. Y recientemente dicta el seminario sobre “pequeño
+objeto de deseo (cuerpo como objeto y objetos para el cuerpo como dispositivo en
+la performance)” en la carrera de Diseño Conceptual de la Untref.
+
+*** en
+She was born in 1975 in Buenos Aires, where she lives and works as a
+choreographer, dancer, educator in contemporary dance and designer of natural
+perfums.
+
+When she was out of Buenos Aires she writes poemovs (visual-sound and movement
+poems).
+
+She started her dance studies at the age of three. She studied humanities and
+obtain a bachelor’s degree in the University of Buenos Aires. In the same
+university she studied Combined Arts (Film, Theater and Dance) and participate
+of workshops of Direction of Staging at the Ricardo Rojas Cultural Center. She
+also completed a postgraduate in Therapeutic Body Techniques at the University
+of Salvador.
+
+Since 1998 she works on multisensorial performances with technology, video,
+flavours and aromas, standing out: MoT 2012, ToM 2012, OmT 2014, MoS 2015, la
+Cena Emocional 2015, Performance Transmodal  2016 , el Perfume de la Danza 2016,
+Videos Perfumados 2017 y Compañeros de vida 2017.
+
+Since 2000 she has elaborated her own language which she calls Danza Nueva
+Emocionalidad – a system of structured movements in series (wings, waves,
+minotaurs, walks, landslides, collapse, detained existence, turning two,
+crossovers, etc.) an aesthetic centered on disarticulation, asymmetry and
+internal rotation, and a temporality derived from breathing and bone topology.
+The core concept of this language, which emerges as an epiphany when surviving
+the terrorist attack in London 2005, is the r̶e̶p̶r̶e̶ sentation: cancel the ego
+machinery of the performer to reveal the emotionality of the movement.
+
+Her solo performances have taken place at: CETC (Centro Experimental del Teatro
+Colón), ICA (Institute of Contemporary Arts) de Londres, Museo Kunsthalle
+(Düsseldorf), Earport en Duisburg (Alemania), Reid Hall (Paris), Casa del
+Bicentenario, Centro Cultural Recoleta, CheLA, Tecnópolis, Santa Cecilia´s Hall
+de Edimburgo, Rythmikorjaamo de Finlandia, Centro Cultural San Martín, Fundación
+Osde, MAR (Museo de arte contemporáneo de Mar del Plata), Espacio multiarte
+Sigen (Sindicatura General de la Nación), La Casa de la Cultura de la Ciudad de
+Buenos Aires, Galería Arte x Arte, Galería Wussmann, la Sala de exposiciones de
+la Universidad Torcuato Di Tella- Artes; ECUNHI; Museo José Hernández; MUNTREF;
+Galería ARCIMBOLDO, Salón dorado de la Alianza Francesa (2017), CASo- Centro de
+arte sonoro (2017) and in urban interventions in: the staircase of the Facultad
+de Derecho de la UBA, in the porteño Obelisk, the terrace of the historical
+building Cassará, the courtyard of Oranges of Centro Cultural Recoleta, la Isla
+de Archivo Vivo, the gards of the General Direction of Museums and on the Negro
+River of Choele Choel and the metro Kungsträdgården of the city of Stockholm
+(2017).
+
+She participates on the following festivals: Discovering Latin-America 2006;
+Cultura y Media 2009; Bienal de Arte de la Fundación Areatec 2010; Fase 3; MIVA
+-Festival de video-danza de la Amazonia; V Mostra Internacional De Videodança De
+São Carlos/Sao Paulo; II Festival de Música por la Memoria and la Noche de los
+Museos 2012, 2013 y 2017; Festival joven de video de Tecnópolis 2012; 3er
+Festival de Cine hecho con Cámara de Fotos (SCDFIII) 2012; Kumuru Festival
+(Finlandia) 2012; Mestizo Art Festival (MAF); Festival MARFICI 2013; Bienal de
+Arte Joven de Buenos Aires; Mestizo Arts Festival (MAF) 2013; Sensibus Art
+Festival (Finlandia) 2014 y La nuit des sens croisés (Paris) 2016. And recently
+in the cycle "Fronteras suspendidas I y II" in the MAR and in the annual
+performance cycle of the ARCIMBOLDO Gallery and in the Festival of ancient and
+contemporary Distat Terra music at the end of 2016 and "Closing action" in the
+Theater Cervantes, 2017
+
+She presents its catalog of movements in a conference at the EHESS (University
+of Paris VIII), in May 2016 and in a performance / conferences at the MAR Museum
+in Mar del Plata (2016 and 2017) and at the Choele Choel Cultural Center,
+Patagonia Argentina, in December 2016. Their perfumes are used in the conference
+by Bruno Mesz and Sebastián Tedesco on Transmodal Translations on the exhibition
+Salida de los obreros del museo Malba by Alexander Apóstol, Malba 2017.
+
+In March 2018, she presented in Barcelona the interactive transmodal
+intervention huelo huelo, que ves?, together with Sebastián Tedesco in the
+framework of the international meeting "Brain and wine" organized by the elBulli
+Foundation. And soon she presents the perfumes for Bruno Mesz's transmodal
+installation: "Scriabin TransEmocional" for NUJAS (new gardens Servente at the
+Musicology Congress organized by the Gilardo Gilardi Conservatory, La Plata.
+
+In May of 2018 she choreography and dance his catalog of movements, for the AW18 campaign of photography and video of the Argentine designer Jessica Kessel, in the General San Martín Theater.
+In October 2018 she performs the "Senses, scenes and sciences" tour in Finland and Norway.
+Since 2000 she has worked as a teacher for the UN and for the cultural extensions of the Faculties of Psychology, Philosophy and Letters and Law dependent on the University of Buenos Aires. She has given seminars at the Instituto Cervantes based in London. She has coordinated the body area of ​​the Recreo Foundation and has given workshops on performance in Mar del Plata, London, Mallorca and Madrid. And recently she dictates the seminar on “pequeño objeto de deseo (cuerpo como objeto y objetos para el cuerpo como dispositivo en la performance)” en la carrera de Diseño Conceptual de la Untref.
+
+
+
+* Taller para DT 2018
+** es                                                              :original:
+Destinatarios:
+
+Dirigido a compositores, coreógrafos, bailarines, músicos, performers, artistas
+visuales, diseñadores y estudiantes, que deseen ahondar en la puesta del cuerpo
+(el propio o el de sus intérpretes) como objeto, en sus producciones artísticas.
+
+El espíritu del taller es inspirar a los asistentes para el desarrollo de sus
+obras por medio de herramientas para pensar la idea de cuerpo subyacente a toda
+performance, con el objetivo principal de comprometerse con aquello que se tiene
+para brindar como artistas y sujetos singulares. Por otra parte, se trabajarán
+los ejes que estructuran y hacen a la coherencia interna de una obra y en
+determinar el vínculo que se entablará con el espectador- principal sujeto de la
+triada que compone la obra de arte.
+
+Modalidad:
+
+El taller teórico/práctico se desarrollará a lo largo de 4 encuentros, de 2
+horas y media minutos cada uno (del 17 al 20 de Diciembre). En cada sesión, se
+ofrecerán elementos teóricos/prácticos sobre los temas descritos en el párrafo
+anterior. A su vez, se analizará el proyecto de obra de cada asistente, se
+realizará  clínica del mismo y se valorará el desarrollo del trabajo en
+progreso, de manera diaria. El último encuentro constará de la presentación de
+la obra o proyecto, y para concluir habrá una devolución final.
+
+Admisión:
+
+Entrada libre y gratuita con inscripción previa.
+
+Presentación de 3 carillas A4, fuente 12, renglón interlineado. En la primera
+página se solicita la biografía personal. En la segunda página se pide exponer
+un proyecto que se desee desarrollar, que contenga una puesta en juego del
+cuerpo (composición, coreografía, performance). En la tercera página, se
+plasmarán tres imágenes que aporten a la descripción del proyecto, de manera
+verbal, gráfica o musical.
+
+** en
+Destinate to:
+
+Composers, coreographers, dancers, musicians, performers, visual artists,
+designers and students who wants to deepen in the matter of the body (the own or
+the one of the interpreter) as an object in their own artistic productions.
+
+The spirit of the workshop is to inspire the students in the development of
+their works through several tools that allow thinking about the idea of the body
+underlying all performance, with the main objective of committing to what you
+have to offer as an artist and singular person. On the other hand, we will be
+working the axes that structure and made the coherence of the work and
+determined the link that will be established with the spectator – principal
+subject of the triad that composes the work of art.
+
+Modality:
+
+the theoretical/practical workshop will be developed over 4 meetings of 2 hours
+and half minutes each of them. (from December 17 to 20). In each session,
+theoretical/practical elements will be offered on the topics described in the
+previous paragraph. At the same time, the proyect of each student will be
+analyzed, (clínica de obra como se dice en ingles?) and the development of the
+work in progress will be evaluated on a daily basis. The last meeting will
+consist of the presentation of the work and project and to conclude there will
+be a final return.
+
+Admision: 
+
+Free admision with previous registration. 
+
+Presentation of 3 A4 pages, font 12, line spacing. On the first page the
+personal biography will be requested. On the second page, you are asked to
+present a project that you wish to develop, wich contains a proposal about the
+body (composition, choreography, performance). On the third page, you must
+present three images that contribute to the description of the project,
+verbally, graphically or musically.
