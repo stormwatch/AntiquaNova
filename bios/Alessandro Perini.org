@@ -3,6 +3,7 @@
 #+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:t stat:t tags:t
 #+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
 #+TITLE:     Alessandro Perini
+#+SUBTITLE: Compositor
 #+AUTHOR:    Ezequiel Birman
 #+EMAIL:     ebirman77@gmail
 #+DATE:      <2014-11-27>
