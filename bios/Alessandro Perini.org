@@ -1,23 +1,22 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil stat:t tags:t
+#+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
 #+TITLE:     Alessandro Perini
 #+AUTHOR:    Ezequiel Birman
-#+EMAIL:     stormwatch@espiga4.com.ar
-#+DATE:      2014-11-27
-#+DESCRIPTION: Breve biografía
+#+EMAIL:     ebirman77@gmail
+#+DATE:      <2014-11-27>
+#+LANGUAGE:  es,en
+#+CREATOR: Emacs 26.1 (Org mode 9.1.14)
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+
+#+DESCRIPTION: datos, biografía y descripción de talleres
 #+KEYWORDS: música, compositor, electrónica
-#+LANGUAGE:  es
-#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
-#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
-#+OPTIONS:   email:t timestamp:t creator:t
-#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
-#+EXPORT_SELECT_TAGS: export
-#+EXPORT_EXCLUDE_TAGS: noexport
-#+LINK_UP:   
-#+LINK_HOME: 
-#+XSLT:
 
 * Foto
 
-* Bio
+* Bio de Distat Terra 2016
 Nació en 1983 en Italia. Estudió composición con Luca Francesconi e
 Ivan Fedele entre otros, Música Electrónica y Ciencias de la
 Comunicación Musical en Italia y en Suecia.
@@ -54,3 +53,90 @@ tracce d'infinito/ (Lugano), /Gameplay/ (Omaha), /Flow Interrupted/
 Ha estado dando cursos de producción audiovisual para las artes en el
 Conservatorio de Como en Italia y de composición (curso de música
 electronica) en la Academia de Música de Malmö.
+
+* Textos de Perini para Distat Terra 2018
+Recibí de SJ los textos siguientes en inglés y castellano el [2018-10-24].
+** Taller
+*** en                                                             :original:
+The workshop is dedicated to the ones who work with sound and/or music, and
+would like to experiment with materials, sounds, spaces, objects, inventing
+artifacts devoted to particular listening modes, tools to understand and listen
+to the environments in which we dwell. Various tools will be available:a handy
+recorder, contact microphonesm super-small speakers, vibration sound devices and
+basic Arduino materials. During one week, the participants will be able to work
+on a project of sound art installation or performance, aimed at a presentation
+on [INSERT DATE HERE] at [INSERT PLACE HERE].
+*** es                                                                   :SJ:
+El taller está dedicado a aquellos que trabajan con sonido o música y quieren
+experimentar con materiales, sonidos, espacios, objetos, inventar artefactos
+dedicados a modos particulares de audición y con herramientas para entender y
+escuchar el entorno en el que habitamos. Varias materiales van a estar
+disponibles: un grabador de audio, micrófonos con altavoces super pequeños (?),
+dispositivos de sonido de vibración y materiales básicos de Arduino. Durante una
+semana, los participantes van a poder trabajar en un proyecto de instalación de
+arte sonora o performance, dirigido a presentarse el (BUSCAR FECHA EXACTA) en
+(BUSCAR LUGAR EXACTO)
+
+** Biografía
+*** en                                                             :original:
+Alessandro Perini was born in 1983 in Italy. He studied Composition (with Luca
+Francesconi and Ivan Fedele among others), Electronic Music and Science of
+Musical Communication in Italy and Sweden.
+
+His very broad artistic production ranges from instrumental and electronic music
+to audiovisual and light-based works, net-art, land-art, vibration-based works
+and custom-built machines.
+
+As a composer, he had his compositions played in festivals such as Biennale di
+Venezia (Italy), Festival Futura (France), Open Spaces (Germany), Connect
+Festival and New directions (Sweden), Procesas (Lithuania), UNM 2012 (Iceland),
+Moscow Forum and ReMusik (Russia), Tempus Fugit and Terra Distat (Argentina). In
+summer 2014 he was in residence at Fondazione Spinola Banna per L'Arte (Italy).
+
+In 2014 he started a research about vibration and tactile sound, called
+touchmysound, including projects at the Darmstadt Ferienkurse and residencies at
+Cittadellarte - Fondazione Pistoletto (Italy) and Park In Progress (Belgium).
+
+Among the most significative residencies for visual artists, in 2016 he's been
+for Imagonirmia Prize in Chiaravalle (Milano, Italy), with a series of projects
+about site-specific sound art; in 2017 he was in residence at I-Park Foundation
+in Connecticut (May-June 2017); in 2018 at Fondazione Spinola Banna per L'arte
+(Italy), where he designed three machines to modify the clay found on-site; and
+again in 2018 at the BIOART Society in the Finnish Lapland.
+
+He has been teaching courses in audiovisual production for the arts at the
+Conservatory of Como (Italy) and in the Composition department (electronic music
+course) at the Music Academy of Malmö, as well as in workshops in Italy,
+Argentina and Bolivia
+
+*** es                                                                   :SJ:
+Alessandro Perini nace en 1983 en Italia. Estudió Composición (con Luca
+Francesconi e Ivan Fedele entre otros), Música Electrónica y Ciencia de la
+Comunicación Musical en Italia y Suecia.
+
+Su amplia producción artística abarca desde música instrumental y electrónica
+hasta obras audiovisuales y basadas en la luz, net-art, land-art, obras basadas
+en vibraciones y máquinas hechas a medida.
+
+Como compositor, sus composiciones fueron interpretadas en festivales como en
+Biennale di Venezia (Italy), Festival Futura (France), Open Spaces (Germany),
+Connect Festival and New directions (Sweden), Procesas (Lithuania), UNM 2012
+(Iceland), Moscow Forum and ReMusik (Russia), Tempus Fugit and Terra Distat
+(Argentina). In summer 2014 he was in residence at Fondazione Spinola Banna per
+L'Arte (Italy).
+
+En 2014 el empezó una investigación sobre vibración y sonido táctil llamada
+touchmysound, incluyendo proyectos en Darmstadt Ferienkurse y residencias en
+Cittadellarte – Fondazione Pistoletto (Italia) y Park in Progress (Bélgica).
+
+Entre las residencias más significativas para artistas visuales, en 2016
+participó del premio Imagonirmia en Chiaravalle (Milán, Italia), con una serie
+de proyectos sobre arte sonoro site-specific; en 2017 participó de una
+residencia en I-Park Foundation en Connecticut (Mayo-Junio 2017); en 2018 en la
+Fondazione Spinola Banna per L’arte (Italia), diseñó tres máquinas para
+modificar la arcilla encontrada en el lugar; y nuevamente en 2018 en la BIOART
+Society en la Laponia Finlandesa.
+
+Ha estado dando talleres de producción audiovisual en el Conservatorio de Como
+(Italia) y en el Departamento de Composición (curso de música electrónica) en la
+Academia de la Música de Malmö, como también en Italia, Argentina y Bolivia.
