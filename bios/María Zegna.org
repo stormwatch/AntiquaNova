@@ -3,7 +3,7 @@
 #+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:t stat:t tags:t
 #+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
 #+TITLE: María Zegna
-#+SUBTITLE: Bailarina
+#+SUBTITLE: Bailarina y coreógrafa
 #+DATE: <2018-10-25 jue>
 #+AUTHOR: Ezequiel Birman
 #+EMAIL: ebirman77@gmail.com
@@ -13,17 +13,14 @@
 #+CREATOR: Emacs 26.1 (Org mode 9.1.14)
 
 #+DESCRIPTION: biografía
-#+KEYWORDS: plástica
+#+KEYWORDS: danza,coreografía
 
 
 * Vita Brevis 
-  :PROPERTIES:
-  :END:
-
 :PROPERTIES:
 :Nacionalidad: Argentina
 :Ciudad: Buenos Aires
-:Fecha: 1975
+:Año: 1975
 :END:
 
 El [2018-10-24 mié] recibí de SJ los textos escritos por Zegna y las traducciones que siguen.
@@ -48,8 +45,8 @@ posgrado en Técnicas Corporales Terapéuticas en la Universidad del Salvador.
 
 Desde 1998 trabaja en performances multisensoriales con tecnología, vídeo,
 sabores y aromas, destacándose: MoT 2012, ToM 2012, OmT 2014, MoS 2015, la Cena
-Emocional 2015, Performance Transmodal 2016, El Perfume de la Danza 2016,
-Videos Perfumados 2017 y Compañeros de vida 2017.
+Emocional 2015, Performance Transmodal 2016, El Perfume de la Danza 2016, Videos
+Perfumados 2017 y Compañeros de vida 2017.
 
 Desde el año 2000 elabora su propio lenguaje al que llama Danza Nueva
 Emocionalidad —un sistema de movimientos estructurados en series (alas, olas,
@@ -282,9 +279,9 @@ project and to conclude there will be a final feedback.
 *** Admision 
 Free admision, provided the registration. 
 
-Applicants must provide a presentation of 3 A4 pages, with font size of 12 pt,
-and doube-line spacing. The first page must include a personal biography. On the
-second page, you are asked to describe the project that you wish to develop,
-wich must bring into play the body (composition, choreography, performance). On
-the third page, you must show three images that contribute to the project
-description, whether verbally, graphically or musically.
+Applicants must provide a presentation of three A4 sized pages, with font size
+of 12 pt, and doube-line spacing. The first page must include a personal
+biography. On the second page, you are asked to describe the project that you
+wish to develop, wich must bring into play the body (composition, choreography,
+performance). On the third page, you must show three images that contribute to
+the project description, whether verbally, graphically or musically.
