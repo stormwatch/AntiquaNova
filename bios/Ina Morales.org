@@ -7,7 +7,7 @@
 #+DATE: <2018-10-23 mar>
 #+AUTHOR: Ezequiel Birman
 #+EMAIL: ebirman77@gmail.com
-#+LANGUAGE: es,en
+#+LANGUAGE: es
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
 #+CREATOR: Emacs 26.1 (Org mode 9.1.14)
@@ -15,43 +15,76 @@
 #+DESCRIPTION: biografía
 #+KEYWORDS: teatro
 
-* CV Abreviado
+# El [2018-11-08] recibí de SJ el texto del workshop y otro cv con traducciones
+# al inglés para revisar.
+
+* CV
+  :PROPERTIES:
+  :idioma_original: es
+  :END:
 ** es
 Ina Morales es directora, actriz y docente. Desde el año 2012 se dedica a la
 investigación y creación de poéticas escénicas con objetos y materiales.
 Egresada de la Especialización en Teatro de Objetos, Interactividad y Nuevos
 Medios de la Universidad Nacional de las Artes (U.N.A) y del Profesorado en Arte
 Dramático del Instituto Nacional Superior de las Artes (I.N.S.A). Actualmente
-vive y desarrolla su actividad artística en Buenos Aires. Su obra a participado
-del Ciclo La Música en Diálogo con otras Artes en el espacio de arte de la
-Fundación OSDE. Ciclo Trama de Objetos organizado por la U.N.A bajo la curaduría
-de Ana Alvarado, 1°Festival Escena Doméstica sede Buenos Aires, entre otros. Fue
-seleccionada para participar del festival Fiesta Provincial de Teatro C.A.B.A
-2017 organizado por I.N.T. Fue becaría del Instituto Nacional del Teatro. Ha
-realizado funciones en diferentes teatros de Capital Federal, Bahía Blanca, Río
-Negro y Neuquén.
+vive y desarrolla su actividad artística en Buenos Aires.
+
+Su obra ha participado del ciclo /La Música en Diálogo con otras Artes/ en el
+espacio de arte de la Fundación OSDE. Ciclo /Trama de Objetos/ organizado por la
+U.N.A bajo la curaduría de Ana Alvarado, /1° Festival Escena Doméstica/ sede
+Buenos Aires, 1° y 2° encuentro del Ciclo Objetos de Teatro, entre otros. Fue
+seleccionada para participar del festival /Fiesta Provincial de Teatro C.A.B.A/
+2017 organizado por el Instituto Nacional de Teatro (I.N.T).
+
+Ha participado en Río negro y Neuquén de los siguientes festivales: 4° Festival
+de Invierno /Parapibes/ (Neuquén), 1.^er Festival de Clown Festín /Soyapa/ (Gral.
+Roca, Río Negro), 6.° Festival de /Clown Patacómico/ (El Bolsón, Río Negro),
+Festival /Fiesta Provincial del Teatro/ (Cipolletti, Río Negro), 3° y 4° Edición
+del Festival de Teatro de la Fundación Cultural Patagonia (Gral. Roca, Río
+Negro), 1.ª, 2.ª y 4.ª edición del /Festival Nacional de Teatro Joven/ (Viedma,
+Río Negro). Perteneció al elenco de títeres y comedia de la Fundación Cultural
+Patagonia (F.C.P) durante los años 2006 y 2007. Fue becaria del Instituto
+Nacional del Teatro durante los años 2012 y 2013. Ha realizado funciones en
+diferentes teatros de Buenos Aires, Bahía Blanca, Río Negro y Neuquén.
+
 ** en
 Ina Morales is a theatre director, actor and teacher. Since 2012 she has delved
 into the research and creation of scenic poetry with objects and materials. Mrs.
 Morales did earn a degree in Theater of Objects, Interactivity and New Media
 from the /Universidad Nacional de Las Artes/ and from the Dramatic Art
 Professorship of the /Instituto Nacional Superior de Las Artes/. She currently
-lives and performs in Buenos Aires. Her work featured at the festival /Ciclo La
-Música en Diálogo Con Las Otras Artes/ by /Fundación OSDE/; /Ciclo Trama de
-Objetos/ at U. N. A. under the curatorship of Ana Alvarado and /Primer Festival
-Escena Domestica/ in Buenos Aires, among others. She was selected to work at the
-/Festival Provincial de Teatro C. A.B .A  2017/ organized by I. N.T. She was a
-fellow of the /Instituto Nacional del Teatro/. Ina Morales has performed at
-various theaters in Buenos Aires, Bahía Blanca, Río Negro and Neuquén.
+lives and performs in Buenos Aires.
 
-* TODO Workshop y otro CV
+Her work featured at the festival /Ciclo La Música en Diálogo Con Las Otras
+Artes/ by /Fundación OSDE/; /Ciclo Trama de Objetos/ at U. N. A. under the
+curatorship of Ana Alvarado and /Primer Festival Escena Domestica/ in Buenos
+Aires, among others. She was selected to work at the /Festival Provincial de
+Teatro C. A.B .A  2017/ organized by I. N.T. She was a fellow of the /Instituto
+Nacional del Teatro/. Ina Morales has performed at various theaters in Buenos
+Aires, Bahía Blanca, Río Negro and Neuquén.
 
-El [2018-11-08] recibí de SJ el texto del workshop y otro cv con traducciones al
-inglés para revisar.
+She participated in the following festivals in Río Negro and Neuquén: 4^th Winter
+Festival /Parapibes/ (Neuquén), 1^st Clown Festival /Soyapa/ (Gral. Roca, Río
+Negro), 6^th Clown Festival /Patacómico/ (El Bolsón, Río Negro), Festival /Fiesta
+Provincial del Teatro/ (Cipolletti, Río Negro), 3^rd y 4^th Editions of /Festival
+de Teatro de la Fundación Cultural Patagonia/ (Gral. Roca, Río Negro), 1^st, 2^nd
+and 4^th editions of /Festival Nacional de Teatro Joven/ (Viedma, Río Negro). She
+was a member of the puppets and comedy cast at /Fundación Cultural Patagonia/
+(F.C.P) during the years 2006 and 2007. She was a fellow at the National
+Theather Institute during the years 2012 and 2013. She has performed at
+different theaters in Buenos Aires, Bahía Blanca, Río Negro and Neuquén.
 
-#+BEGIN_QUOTE
-*Taller de Teatro de Objetos. /Dar vida a la materia muerta. Exploración activa
-sobre la poética de las cosas./*
+* Taller
+  :PROPERTIES:
+  :idioma_original: es
+  :Título:   Taller de Teatro de Objetos
+  :subtítulo: Dar vida a la materia muerta. Exploración activa sobre la poética de las cosas.
+  :END:
+** es 
+*** Taller de Teatro de Objetos
+/Dar vida a la materia muerta. Una exploración activa sobre la poética de las
+cosas./
 
 Teatro de Objetos es un concepto que convoca múltiples poéticas que abordan al
 objeto desde un punto de vista amplio, material, conceptual, literal,
@@ -60,112 +93,55 @@ de formas del pasado y que busca experimentar y abrir espacios para encontrar
 otras formas de transmitir con la óptica y los recursos que permiten la
 realización de una producción artística.
 
-Object Theater Workshop. Give life to dead matter. Active exploration about the
-poetics of things.
+Este taller propone transformar el estado de quietud de los objetos para indagar
+nuevas posibilidades escénicas en el que él sea protagonista; explorar las
+diferentes técnicas de animación para darle vida a un objeto; reconocer las
+posibilidades de la manipulación: directa, indirecta, a distancia, con y sin
+varillas; promover el tránsito por ejercicios de interpretación que permitan
+descubrir las posibilidades y los límites de los materiales.
 
-Object Theater is a concept that convokes multiple poetics that approach the
-object from a large point of view, material, conceptual, literal, philosophical,
-etc. Is a contemporary expression that can appropriate forms of past and wants
-to experiment and open spaces to find other forms to transmit with the optics
-and resources that allow the realization of an artistic production.
-
-La propuesta del taller es transformar el estado de quietud de los objetos para
-indagar nuevas posibilidades escénicas en el que él sea protagonista. Explorar las
-diferentes técnicas de animación para darle vida a un objeto. Reconocer las
-posibilidades de la manipulación: directa, indirecta, a distancia, con varillas y sin
-varillas. Promover el tránsito por ejercicios de interpretación que permitan descubrir
-las posibilidades y los límites de los materiales.
-
-The proposal of the workshop is to transform the state of stillness of the
-objects to explore new scenic possibilities in which they are the protagonist.
-Explore the different animation techniques to give life to an object. Recognize
-the possibilities of manipulation: direct, indirect, at distance, with rods and
-without rods. Promote the transit through exercises of interpretation that allow
-discovering the possibilities and limits of the materials.
-
-*Destinatarios:*
-
+**** Destinatarios
 Dirigido a directores, actores, bailarines, músicos, performers, artistas
 visuales y estudiantes de teatro interesados en indagar en la materia como
 disparador dramatúrgico. Es necesario que al momento de realizar la inscripción
-envíen un mail a: tallerdeteatrodeobjetos@gmail.com donde se les pasará una
-lista de materiales necesarios para el taller.
+envíen un mail a [[mailto:tallerdeteatrodeobjetos@gmail.com][tallerdeteatrodeobjetos@gmail.com]] donde se les pasará una lista
+de materiales necesarios para el taller.
 
-Receivers
-
-Directed to directors, actors, dancers, musicians, performers, visual artists
-and theater students interested in investigating the matter as a dramaturgical
-trigger. It is necessary that at the time of registrating the inscription, send
-an email to: tallerdeteatrodeobjetos@gmail.com where a list of needed materials
-for the workshop will be send
- 
-Modalidad
-
-El taller tendrá carácter teórico/práctico y se realizará a lo largo de 4
-encuentros de 2 horas y media cada uno. Los talleristas en cada sesión
+**** Modalidad
+El taller tendrá carácter teórico/práctico y se realizará a lo largo de cuatro
+encuentros de dos horas y media cada uno. Los talleristas en cada sesión
 experimentarán ejercicios necesarios para adquirir las nociones básicas de
 manipulación e interpretación con objetos.
 
-Modality
+** en
+*** Object Theater Workshop
+/To breathe life into dead matter. An active exploration about the
+poetics of things./
 
-The workshop will be theoretical/ practical and will be held over 4 meetings of
-2 and a half hours heach. The workshop participants in each session will
-experience exercises needed to acquire the basic notions of manipulation and
-interpretation with objects.
+Object Theater is a concept that brings together multiple poetics that approach
+the object from a broad point of view, material, conceptual, literal,
+philosophical, etc. It is a contemporary expression that may appropriate past
+forms as well, and wants to experiment, and open spaces in order to find other
+ways to express employing the views and resources that allow the realization of
+an artistic production.
 
-CV
+This workshop will focus on transforming the state of stillness of the objects
+in order to explore new scenic possibilities in which it may become the leading
+character; exploring the different animation techniques in order to breathe life
+into an object; recognizing the possibilities of manipulation: direct, indirect,
+at a distance, with and without rods; encouraging interpretation excercises by
+which the discovery of the possibilities and limits of the materials may be
+enabled.
 
-*CV Abreviado*
-
-*Ina Morales*
-
-Es directora, actriz y docente. Desde el año 2012 se dedica a la investigación y
-creación de poéticas escénicas con objetos y materiales. Egresada de la
-Especialización en Teatro de Objetos, Interactividad y Nuevos Medios de la
-Universidad Nacional de las Artes (U.N.A) y del Profesorado en Arte Dramático
-del Instituto Nacional Superior de las Artes (I.N.S.A). Actualmente vive y
-desarrolla su actividad artística en Buenos Aires.
-
-She is a director, actress and teacher. Since 2012 she has been dedicated to
-research and creation of scenic poetics with objects and materials. Graduate of
-the Specialization in Object Theater, Interactivity and New Media of the
-Universidad Nacional de las Artes (U.N.A) and the Dramatic Art Teaching of the
-Instituto Nacional Superior de las Artes (I.N.S.A). Currently lives and develops
-her artistic activity in Buenos Aires.
-
-Su obra a participado del Ciclo /La Música en Diálogo con otras Artes/ en el
-espacio de arte de la Fundación OSDE. Ciclo /Trama de Objetos/ organizado por la
-U.N.A bajo la curaduría de Ana Alvarado, /1° Festival Escena Doméstica/ sede
-Buenos Aires, 1° y 2° encuentro del Ciclo Objetos de Teatro, entre otros. Fue
-seleccionada para participar del festival /Fiesta Provincial de Teatro C.A.B.A/
-2017 organizado por Instituto Nacional de Teatro (I.N.T).
-
-Her work has participated in the cycle La Música en Diálogo con otras Artes in
-the space of art of Fundación OSDE. Cycle Trama de objetos organized by the
-U.N.A under the curatorship of Ana Alvarado, 1° Festival Escena Doméstica Buenos
-Aires, 1° and 2° meeting of the cycle Objetos de Teatro, between others. She was
-selected to participate in the festival /Fiesta Provincial de Teatro/ C.A.B.A
-2017 organized by Instituto Nacional de Teatro (I.N.T.)
-
-A participado en Río negro y Neuquén de los siguientes festivales: 4° Festival
-de Invierno /Parapibes/ (Neuquén), 1° Festival de Clown Festín /Soyapa/ (Gral.
-Roca, Río Negro), 6° Festival de /Clown Patacómico/ (Bolsón, Río Negro),
-Festival /Fiesta Provincial del Teatro/ (Cipolletti, Río Negro), 3° y 4° Edición
-del Festival de Teatro de la Fundación Cultural Patagonia (Gral. Roca, Río
-Negro), 1°, 2° y 4° Edición del /Festival Nacional de Teatro Joven/ (Viedma, Río
-Negro). Perteneció al elenco de títeres y comedia de la Fundación Cultural
-Patagonia (F.C.P) durante los años 2006 y 2007. Fue becaría del Instituto
-Nacional del Teatro durante los años 2012 y 2013. Ha realizado funciones en
-diferentes teatros de Capital Federal, Bahía Blanca, Río Negro y Neuquén.
-
-She has participated in Río Negro y Neuquén in the following festivals: 4°
-Festival de Invierno Parapibes (Neuquén), 1° Festival de Clown Festín Soyapa
-(Gral. Roca, Río Negro), 6° Festival de Clown Patacómico (Bolsón, Río Negro),
-Festival Fiesta Provincial del Teatro (Cipolletti, Río Negro), 3° y 4° Edition
-of Festival de Teatro de la Fundación Cultural Patagonia (Gral. Roca, Río
-Negro), 1°, 2° y 4° Edition of Festival Nacional de Teatro Joven (Viedma, Río
-Negro). She belonged to the cast of puppets and comedy of the Fundación Cultural
-Patagonia (F.C.P) during the years 2006 and 2007. She was a fellow of the
-Instituto Nacional de Teatro during the years 2012 and 2013.She has performed at
-different theaters in Capital Federal, Bahía Blanca, Río Negro and Neuquén.
-#+END_QUOTE
+**** Audience 
+Intended for directors, actors, dancers, musicians, performers, visual artists
+and theater students interested in inquiring into matter as a dramaturgical
+trigger. Once you have registred, you must send an e‐mail to
+[[mailto:tallerdeteatrodeobjetos@gmail.com][tallerdeteatrodeobjetos@gmail.com]] and you will receive a repy with a list of
+materials needed for the workshop.
+ 
+**** Attendance and mode of instruction
+The workshop will be theoretical–practical and will be held over four sessions
+of two and a half hours each. The attendants will acquire the basic notions of
+manipulation and performance with objects by means of expermientation with
+exercises.
