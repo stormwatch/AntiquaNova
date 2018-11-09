@@ -7,4 +7,4 @@ Textos de la fundación. Para editarlos necesitás una cuenta en GitHub (recomen
 Accesos rápidos
 ---------------
 
-[Distat Terra 2018](https://github.com/stormwatch/AntiquaNova/2018/master/bios)
+[Distat Terra 2018](https://github.com/stormwatch/AntiquaNova/2018/bios)
