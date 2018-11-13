@@ -1,0 +1,65 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:nil
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:nil e:t
+#+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:t stat:t tags:t
+#+OPTIONS: tasks:t tex:t timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Alessandro Perini
+#+AUTHOR: Alessandro Perini
+#+EMAIL: contacto@fundacionmusicaantiquanova
+#+DATE: <1983-01-01>
+#+LANGUAGE: es
+#+CREATOR: Emacs 26.1 (Org mode 9.1.14)
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:nil html-preamble:nil
+#+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
+#+HTML_DOCTYPE: html5
+#+HTML_CONTAINER: div
+#+DESCRIPTION: biografía
+#+KEYWORDS: música, composición, electrónica, tecnología
+#+HTML_LINK_HOME:
+#+HTML_LINK_UP:
+#+HTML_MATHJAX:
+#+HTML_HEAD:
+#+HTML_HEAD_EXTRA:
+#+SUBTITLE: Compositor
+#+INFOJS_OPT:
+#+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.1 (<a href="https://orgmode.org">Org</a> mode 9.1.14)
+#+LATEX_HEADER:
+
+#+INCLUDE: "datos.org::Datos" 
+
+* default                                                            :ignore:
+[[https://alessandroperini.com/][Alessandro Perini]] nació en 1983 en Italia. Estudió composición con Luca
+Francesconi e Ivan Fedele entre otros, Música Electrónica y Ciencias de la
+Comunicación Musical en Italia y en Suecia.
+
+Su vastísima producción artística abarca desde música instrumental y electrónica
+hasta obras audiovisuales y basadas en la luz, net-art, land-art, obras basadas
+en vibraciones y máquinas hechas a medida.
+
+Sus composiciones han sido interpretadas en festivales como: /Biennale di
+Venezia/ (Italia), /Festival Futura/ (Francia), /Open Spaces/ (Alemania),
+/Connect Festival/ y /New directions/ (Suecia), /Procesas/ (Lituania), /UNM
+2012/ (Islandia), /Moscow Forum/ y /ReMusik/ (Rusia), /Tempus Fugit/ y /Distat
+Terra/ (Argentina). En el verano de 2014 fue artista en residencia de la
+/Fondazione Spinola Banna per L'Arte/ (Italia).
+
+En 2014 el empezó una investigación sobre vibración y sonido táctil llamada
+/[[https://touchmysound.wordpress.com/][touchmysound]]/, incluyendo proyectos en los Cursos de Darmstadt y residencias en
+/Cittadellarte – Fondazione Pistoletto/ (Italia) y /Park in Progress/ (Bélgica).
+
+Entre las residencias más significativas para artistas visuales, en 2016 fue
+galardonado con el premio /Imagonirmia/ en Chiaravalle (Milán, Italia) por una
+serie de proyectos sobre arte sonoro in situ; en 2017 participó de una
+residencia en /I-Park Foundation/ en Connecticut (Mayo a Junio de 2017); en 2018
+en la /Fondazione Spinola Banna per L’Arte/ (Italia) diseñó tres máquinas para
+modificar la arcilla encontrada en el lugar; y nuevamente en 2018 en la /Bioart
+Society/ en la Laponia finlandesa.
+
+Ha estado dictando cursos de producción audiovisual para las artes en el
+Conservatorio de Como (Italia) y en el Departamento de Composición (curso de
+música electrónica) en la Academia de la Música de Malmö así como también en
+Italia, Argentina y Bolivia.
+
+{{{property(website,*Datos)}}}

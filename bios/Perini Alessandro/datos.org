@@ -1,0 +1,10 @@
+* Datos                                                            :noexport:
+  :PROPERTIES:
+  :last_name: Perini
+  :name:     Alessandro
+  :birthday: <1983-01-01>
+  :country_es: Italia
+  :country_en: Italy
+  :job:      Composer
+  :website:  https://alessandroperini.com
+  :END:
