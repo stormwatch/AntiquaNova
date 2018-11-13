@@ -29,7 +29,7 @@
 
 =Distat Terra Festival 2018=\\
 =Prof. Alessandro Perini (Italy)=\\
-=Del 16 al 21 de diciembre de 2018=
+=Between 16–21 December, 2018=
 
 The workshop is intended for those who work with sound and/or music, and would
 like to experiment with materials, sounds, spaces, objects, inventing artifacts
@@ -43,7 +43,7 @@ installation or performance with the aim of it being publicly exhibited at the
 Distat Terra Festival 2018.
 
 - Registration :: [[mailto:contacto@fundacionmusicaantiquanova.org.ar][contacto@fundacionmusicaantiquanova.org.ar]]
-- Deadline for applications :: 30 de noviembre de 2018.
+- Deadline for applications :: <2018-11-30>
 
 #+INCLUDE: "datos.org"
 #+INCLUDE: "bio 2018 en.org::default"
