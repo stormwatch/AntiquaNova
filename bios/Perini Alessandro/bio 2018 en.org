@@ -27,9 +27,11 @@
 #+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.1 (<a href="https://orgmode.org">Org</a> mode 9.1.14)
 #+LATEX_HEADER:
 
-#+INCLUDE: "datos.org::Datos"
+#+INCLUDE: "datos.org"
 
 * default                                                            :ignore:
+{{{property(bio_photo,*Datos)}}}
+
 Alessandro Perini was born in 1983 in Italy. He studied Composition with Luca
 Francesconi and Ivan Fedele among others, Electronic Music and Science of
 musical Communication in Italy and Sweden.
@@ -53,7 +55,7 @@ Progress/ (Belgium).
 Among the most significative residencies for visual artists, in 2016 he has been
 awarded the /Imagonirmia/ Prize in Chiaravalle (Milano, Italy), for a series of
 projects about site-specific sound art; in 2017 he was in residence at /I-Park
-Foundation/ in Connecticut (May-June 2017); in 2018 at /Fondazione Spinola Banna
+Foundation/ in Connecticut (May–June 2017); in 2018 at /Fondazione Spinola Banna
 per L’Arte/ (Italy), where he designed three machines to modify the clay found
 on-site; and again in 2018 at the /Bioart/ Society in the Finnish Lapland.
 

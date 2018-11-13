@@ -27,6 +27,8 @@
 #+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.1 (<a href="https://orgmode.org">Org</a> mode 9.1.14)
 #+LATEX_HEADER:
 
+{{{property(workshop_photo,*Datos)}}}
+
 =Distat Terra Festival 2018=\\
 =Prof. Alessandro Perini (Italy)=\\
 =Between 16–21 December, 2018=
@@ -34,7 +36,7 @@
 The workshop is intended for those who work with sound and/or music, and would
 like to experiment with materials, sounds, spaces, objects, inventing artifacts
 devoted to particular listening modes, tools to understand and listen to the
-environments in which we dwell. Various tools will be available:a handy
+environments in which we dwell. Various tools will be available: a handy
 recorder, contact microphones, super-small speakers, vibration sound devices and
 basic [[https://en.wikipedia.org/wiki/Arduino][Arduino]] materials.
 

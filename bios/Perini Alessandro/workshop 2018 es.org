@@ -27,6 +27,8 @@
 #+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.1 (<a href="https://orgmode.org">Org</a> mode 9.1.14)
 #+LATEX_HEADER:
 
+{{{property(workshop_photo,*Datos)}}}
+
 =Festival Distat Terra 2018=\\
 =Prof. Alessandro Perini (Italia)=\\
 =Del 16 al 21 de diciembre de 2018=
@@ -45,5 +47,5 @@ pública dentro de la programación del Festival Distat Terra 2018.
 - Inscripción :: [[mailto:contacto@fundacionmusicaantiquanova][contacto@fundacionmusicaantiquanova.org.ar]]
 - Cierre de la convocatoria :: 30 de noviembre de 2018
 
-#+INCLUDE: "datos.org::Datos"
+#+INCLUDE: "datos.org"
 #+INCLUDE: "bio 2018 es.org::default"

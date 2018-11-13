@@ -7,4 +7,6 @@
   :country_en: Italy
   :job:      Composer
   :website:  https://alessandroperini.com
+  :bio_photo: [[https://alessandroperiniblog.files.wordpress.com/2017/01/polifoniesensoriali_mbenaglia-67.jpeg]]
+  :workshop_photo: [[https://sitespecificlistening.files.wordpress.com/2017/07/deadtreespectrum_09.jpg]]
   :END:
