@@ -1,0 +1,65 @@
+#+TITLE: Alexander Ott
+#+SUBTITLE: oboe
+#+AUTHOR: Ezequiel Birman
+#+EMAIL: contacto@fundacionmusicaantiquanova
+#+DATE: <2018-11-11>
+#+LANGUAGE: es
+#+DESCRIPTION: biografía 
+#+KEYWORDS: música, oboe
+
+#+INCLUDE: "datos.org"
+
+* TODO default                                                       :ignore:
+{{{property(photo_bio,*Datos)}}}  
+
+# fuente: [[https://www.swr.de/swr-classic/symphonieorchester/mitglieder-des-swr-symphonieorchesters-alexander-ott/-/id=17055322/did=17779222/nid=17055322/w70qn5/index.html]]
+
+#+BEGIN_SRC translate :src de :dest es :exports none
+  Geboren in Wangen/Allgäu 1955.
+
+  Erster Musikunterricht mit 6 Jahren bei seinem Vater, mit 16 Beginn des
+  Oboen-Spiels.
+
+  1975-1981 Studium an der Musikhochschule Freiburg: Oboe bei Hans Elhorst und
+  Heinz Holliger, Klavier bei Hellmuth Meyer-Eggen, Dirigieren bei Wolfgang
+  Schäfer.
+
+  1978 erfolgreiches Probespiel bei der Jungen Deutschen Philharmonie. Nach dem
+  Staatsexamen 1981 Aufnahme in die Karajan-Akademie des Berliner Philharmonischen
+  Orchesters.
+
+  Solokonzerte u. a. mit dem SWR Sinfonieorchester Baden-Baden und Freiburg
+  (Richard Strauss, Oboenkonzert), mit der Sinfonia tedesca, Karlsruhe, der
+  Klassischen Philharmonie Telekom Bonn, mit der Krakauer und der Breslauer
+  Philharmonie.
+
+  Neben der Orchesterarbeit vielfältige solistische und kammermusikalische
+  Tätigkeit: Seit 1982 Mitglied im ensemble 13, 1987-1991 im neuen Bläserquinttett
+  des SWF, seit 1982 im Orfeo-Bläseroktett, Duo Klavier/Oboe mit Hans-Georg
+  Gaydoul, Freiburg. Seit 1999 Mitglied im Audace Bläsertrio mit Dirk Altmann
+  (Klarinette) und Eckart Hübner (Fagott). 1986 Solooboist im Bayreuther
+  Festspielorchester.
+
+  Zahlreiche Rundfunkaufnahmen bei verschiedenen Sendeanstalten.
+
+  Seit 1981 Mitglied des SWR Sinfonieorchesters Baden-Baden und Freiburg, seit
+  2016 Mitglied des SWR Symphonieorchesters.
+#+END_SRC
+
+Nació en Wangen im Allgäu en 1955. Primeras lecciones de música a la edad de
+seis años con su padre, con dieciseis años comienza a tocar el oboe. 1975-1981
+estudió en la Musikhochschule Freiburg: oboe con Hans Elhorst y Heinz Holliger,
+piano con Hellmuth Meyer-Eggen, dirección con Wolfgang Schäfer. 1978 exitosa
+audición con la Junge Deutsche Philharmonie. Después del examen estatal, 1981,
+admisión a la Academia Karajan de la Orquesta Filarmónica de Berlín. Solo
+conciertos u. a. con la Orquesta Sinfónica SWR Baden-Baden y Friburgo (Richard
+Strauss, concierto para oboe), con la Sinfonia tedesca, Karlsruhe, la
+Filarmónica Clásica Telekom Bonn, con la Cracovia y la Filarmónica de Wroclaw.
+Además del trabajo orquestal diversa actividad en solitario y música de cámara:
+desde 1982 miembro del conjunto 13, 1987-1991 en el nuevo quinteto de viento del
+SWF, desde 1982 en el octeto de viento Orfeo, dúo piano y oboe con Hans-George
+Gaydoul, Friburgo. Miembro de la Audace Bläsertrio desde 1999 con Dirk Altmann
+(clarinete) y Eckart Hübner (fagot). 1986 solista oboista en la orquesta del
+festival de Bayreuth. Numerosas grabaciones de radio en diversas emisoras. Desde
+1981, miembro de la SWR Symphony Orchestra Baden-Baden y Freiburg, desde 2016
+miembro de la SWR Symphony Orchestra.
