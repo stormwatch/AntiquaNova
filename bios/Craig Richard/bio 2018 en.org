@@ -1,0 +1,75 @@
+#+TITLE: Richard Craig
+#+SUBTITLE: flutes
+#+AUTHOR: Richard Craig
+#+EMAIL: contacto@fundacionmusicaantiquanova
+#+DATE: <2018-11-11>
+#+LANGUAGE: en
+#+CREATOR: Emacs 26.1 (Org mode 9.1.14)
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:nil html-preamble:nil
+#+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
+#+HTML_DOCTYPE: html5
+#+HTML_CONTAINER: div
+#+DESCRIPTION: biography 
+#+KEYWORDS: music, flute
+#+HTML_LINK_HOME:
+#+HTML_LINK_UP:
+#+HTML_MATHJAX:
+#+HTML_HEAD:
+#+HTML_HEAD_EXTRA:
+#+INFOJS_OPT:
+#+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.1 (<a href="https://orgmode.org">Org</a> mode 9.1.14)
+#+LATEX_HEADER:
+
+#+INCLUDE: "datos.org"
+
+* default                                                            :ignore:
+{{{property(bio_photo,*Datos)}}}
+
+Richard Craig studied flute at the RSAMD (now the Royal Conservatoire of
+Scotland) with Sheena Gordon and later with Richard Blake. After graduating with
+honours, he continued his studies at the Conservatoire de Strasbourg, France,
+with Mario Caroli.
+
+Richard has performed with groups such as ELISION, Musikfabrik, Klangforum Wien,
+The Estonian Radio Choir, the RTÉ Orchestra and Das Experimentalstudio Ensemble,
+which has taken him to international festivals such as Maerzmusik Berlin,
+Wittener Tage für Neue Musik, the Venice Biennale, Huddersfield Contemporary
+Music Festival, the Festival d'Automne in Paris and the Lincoln Center Festival
+New York. Equally active as a soloist, Richard has given recitals throughout the
+world performing new work and presenting his collaborations, working alongside
+musicians such as Rohan de Saram and Roberto Fabbriciani. At the centre of
+Richard’s work in contemporary music is the development of new repertoire for
+the flute, and he is involved in commissions both with established composers and
+the younger generation of artists. As an chamber musician, Richard has performed
+with Distractfold Ensemble, the winners of the 2014 Kranisteiner prize, and is a
+member of the Spanish ensemble SMASH.
+
+As a lecturer he has given masterclasses and seminars in University Maryland
+Baltimore, Huddersfield University, St Andrews University, Aberdeen University,
+the Royal Northern College of Music, the Royal Scottish Conservatoire, Lawrence
+University Wisconsin, and was appointed as Visiting Fellow in Performance at
+Aberdeen University 2009–11. From 2012–2014 he was a visiting lecturer on the
+Post-Graduate performance course at Huddersfield University, and further to this
+he was appointed as Honorary Research Fellow at the same University 2014–2019.
+In October 2015 he became Head of Performance at Bangor University, Wales.
+
+Richard has recorded for the BBC, WDR Cologne, YLE Finland, Radio France, Radio
+Nacional de España, Swedish Radio, ARTE, Icelandic RUV, Wergo, Another Timbre.
+His solo debut disc INWARD was released on the Métier label in 2011 to critical
+acclaim. INWARD has since been nominated as the only classical music disc for
+the Scottish Album of the Year in 2012. He is currently preparing a second disc
+with Métier for release in 2017. This will include premiere recordings of new
+works by Esaias Järnegard, Richard Barrett, John Croft, Brice Pauset, Evan
+Johnson and Fabrice Fitch, with support from Creative Scotland. Alongside his
+three monograph discs, he has performed participated in recordings with
+ensembles musikFabrik, Ensemble Octandre, SMASH ensemble, Distractfold ensemble
+and Grizzana Ensemble. As an improviser he has performed with Barry Guy, the
+Glasgow Improvisers Orchestra and recorded with the group alongside Evan Parker.
+
+As a performer/composer, he has released the disc AMP/AL in collaboration with
+Rodrigo Constanzo and artist Angela Guyton in 2013.
+
+{{{property(website,*Datos)}}}
