@@ -1,0 +1,38 @@
+#+TITLE: Mariano Ceballos
+#+SUBTITLE: Violin
+#+DATE: <2016-12-01>
+#+AUTHOR: Mariano Ceballos
+#+EMAIL: ebirman77@gmail.com
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.1.1 (Org mode 9.0)
+
+#+DESCRIPTION: short biography
+#+KEYWORDS: music, violín
+
+* TODO Breve                                                :corregir:ignore:
+Violin player considered by the specialized critic as an outstanding performer
+wich has reached an artistic level of excellence; devoted to the interpretation,
+research, dissemination and teaching of contemporary classical music.
+
+His musical activity has led him to appear in the most relevant artistic
+centers, orchestras and music festivals in the world, integrating as the only
+South American musician the prestigious Ensemble Intercontemporain of Paris,
+conducted and founded by the internationally renowned maestro Pierre Boulez.
+
+He has received numerous prizes and distinctions; among them: 1st Prize
+Mozarteum Contest, Shell Youth Biennial, Young Outstanding of the Year 2010 from
+Argentina, International Scholarship Menuhin Music Academy of Switzerland and
+Fullbright Association of the United States.
+
+He has performed more than 50 premieres and first auditions in Latin America,
+Asia and Europe with works by the main composers of the 20th and 21st centuries,
+performing recitals and concerts that he regularly performs with leading
+international soloists.
+
+Violin soloist of the "Lucerne Festival Ensemble", an international group with
+which he performed concerts in London, New York, Zurich, Lucerne and Beijing;
+making recordings, pedagogical programs and film documentaries of his activity
+through different media in the world: Accentus Music (Switzerland), EuroArts and
+ARTE (Germany), Japan Foundation TV and Radio France.

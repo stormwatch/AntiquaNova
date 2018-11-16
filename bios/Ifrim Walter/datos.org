@@ -1,0 +1,8 @@
+* Datos                                                            :noexport:
+  :PROPERTIES:
+  :name:     Walter
+  :last_name: Ifrim
+  :country_es: Alemania
+  :country_en: Germany
+  :bio_photo: [[http://unfilrouge.eu/images/mitwirkende/walter.jpg]]
+  :END:

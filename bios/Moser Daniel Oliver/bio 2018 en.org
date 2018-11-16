@@ -1,0 +1,69 @@
+#+TITLE: Daniel Oliver Moser
+#+SUBTITLE: Viola, Composition
+#+DATE: <2016-11-27 dom>
+#+AUTHOR: Daniel Oliver Moser
+#+EMAIL: contacto@fundacionmusicaantiquanova.org.ar
+#+LANGUAGE: en
+#+DESCRIPTION: biography
+#+KEYWORDS: music, composition, viola
+
+#+INCLUDE: "datos.org" 
+
+* default                                                            :ignore:
+# extraída de http://www.danielolivermoser.com/biographie.html
+#+BEGIN_SRC translate :src de :dest en :exports none
+Daniel Oliver Moser studierte Komposition bei Alfred Stingl am
+Kärntner Landeskonservatorium und anschließend bei Wolfgang Liebhart
+und Christian Minkowitsch an der Konservatorium Wien Privatuniversität
+sowie am Mozarteum Salzburg bei Tristan Murail.
+
+Teilnahme an Meisterkursen unter anderem mit Philippe Leroux, Joshua
+Fineberg.  Kompositionsaufträge und Aufführungen international durch
+namhafte Solisten und Ensembles (Ensemble XX. Jahrhundert, AsianArts
+Ensemble Berlin, MusicaAntiquaNova Buenos Aires, Trio Unidas, Ensemble
+Zeitfluss, Ensemble Reconsil, TENM, Guardini Stiftung Berlin, Ensemble
+Platypus, Ensemble Klingekunst, Acies-Quartett).
+
+Aufführungen in Österreich (u.a. Musikverein und Konzerthaus Wien),
+sowie bei internationalen Konzerten und Festivals (u.a. MDR
+Musiksommer, ISCM World New Music Days, Forum Wallis, Musikbiennale
+Zagreb, Tage neuer Musik Graz, Festival Composit,
+KomponistInnenmarathon Wien). Aufnahmen und Sendungen durch den ORF,
+NDR, MDR, RTV Slowenien, HRT Kroatien.
+
+Daniel Oliver Moser war mehrfach Stipendiat unterschiedlicher
+Stiftungen. Startstipendium für Musik des BMUKK 2010. Er gewann
+den 1. Preis beim Wendl& Lung Klavierkompositionswettbewerb 2009,
+den 1. Preis beim Josef Trattner- Kompositionswettbewerb 2009 und
+erhielt den Theodor-Körner Preis 2012. 2014 war er Artist in Residence
+des Landes Tirol im Künstlerhaus in Paliano bei Rom sowie Träger des
+Hilde Zach Kompositionsstipendiums der Stadt Innsbruck. 2015 erhielt
+er das Jahresstipendium für Musik des Landes Kärnten und 2016 das
+österreichische Staatsstipendium für Komposition.
+#+END_SRC
+
+Daniel Oliver Moser studied composition with Alfred Stingl at the Kärntner
+Landeskonservatorium and then with Wolfgang Liebhart and Christian Minkowitsch
+at the Konservatorium Wien Privatuniversität and at the Mozarteum Salzburg with
+Tristan Murail.
+
+Participation in masterclasses with Philippe Leroux, Joshua Fineberg and others.
+Commissions and performances internationally by renowned soloists and ensembles
+(Ensemble XXth Century, AsianArts Ensemble Berlin, MusicaAntiquaNova Buenos
+Aires, Trio Unidas, Ensemble Zeitfluss, Ensemble Reconsil, TENM, Guardini
+Foundation Berlin, Ensemble Platypus, Ensemble Klingekunst, Acies Quartet).
+
+Performances in Austria (including Musikverein and Konzerthaus Wien), as well as
+at international concerts and festivals (including MDR Music Summer, ISCM World
+New Music Days, Forum Wallis, Music Biennale Zagreb, Days of New Music Graz,
+Festival Composit, Composers Marathon Vienna). Recordings and broadcasts by the
+ORF, NDR, MDR, RTV Slovenia, HRT Croatia.
+
+Daniel Oliver Moser has received several scholarships from various foundations.
+Start grant for music of the BMUKK 2010. He won first prize in the Wendl & Lung
+Piano Composition Competition 2009, 1st Prize in the Josef Trattner Composition
+Competition 2009 and received the Theodor-Körner Award 2012. In 2014 he was
+Artist in Residence of the State of Tyrol in the Künstlerhaus in Paliano near
+Rome and holder of the Hilde Zach composition scholarship of the City of
+Innsbruck. In 2015 he received the annual scholarship for Music of the Province
+of Carinthia and in 2016 the Austrian State Scholarship for Composition.

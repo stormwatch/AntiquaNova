@@ -1,0 +1,8 @@
+* Datos
+  :PROPERTIES:
+  :last_name: Ceballos
+  :name:     Mariano
+  :country_es: Argentina
+  :country_en: Argentina
+  :website:  [[http://marianoceballos.com/]]
+  :END:

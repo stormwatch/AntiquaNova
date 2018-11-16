@@ -1,0 +1,9 @@
+* Datos
+  :PROPERTIES:
+  :photo_bio: [[http://francescodillon.com/images/FD/1.jpg]]
+  :photo_workshop: [[http://francescodillon.com/images/FD/3.jpg]]
+  :last_name: Dillon
+  :name:     Francesco
+  :country_en: Italy
+  :country_es: Italia
+  :END:

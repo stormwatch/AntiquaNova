@@ -1,0 +1,8 @@
+* Datos                                                            :noexport:
+  :PROPERTIES:
+  :name:     Wolfgang
+  :last_name: Rüdiger
+  :country_es: Alemania
+  :country_en: Germany
+  :bio_photo:
+  :END:

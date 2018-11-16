@@ -1,0 +1,48 @@
+#+TITLE: Wolfgang Rüdiger
+#+SUBTITLE: clarinete
+#+AUTHOR: Wolfgang Rüdiger
+#+EMAIL: contacto@fundacionmusicaantiquanova
+#+DATE: <2018-11-11>
+#+LANGUAGE: es
+#+DESCRIPTION: biografía
+#+KEYWORDS: musica, fagot
+
+#+INCLUDE: "datos.org"
+
+* TODO default                                               :revisar:ignore:
+{{{property(bio_photo,*Datos)}}}
+
+#+BEGIN_SRC translate :src de :dest es :exports none
+  Wolfgang Rüdiger geb. 1957; Studium der Schulmusik (Hauptfächer Klavier und
+  Fagott, Analyse und Komposition bei Nicolaus A. Huber), Philosophie und
+  Pädagogik in Essen, Aufbaustudium Fagott (bei Karl-Otto Hartmann) und
+  Musikwissenschaft (Promotion bei Hans Heinrich Eggebrecht) in Freiburg;
+  Gründungsmitglied, Fagottist und künstlerischer Leiter des Ensemble Aventure
+  Freiburg seit 1986; internationale Konzerttätigkeit als Ensemblemusiker und
+  Fagottsolist, zahlreiche Uraufführungen, Rundfunk- und CD-Produktionen,
+  Auszeichnungen und Preise.
+
+  Nach Lehrtätigkeiten an den Musikhochschulen in Freiburg und Bremen seit Oktober
+  2001 Professor für Musikpädagogik/Künstlerische Ausbildung an der Robert
+  Schumann Hochschule Düsseldorf. Ständiger Mitarbeiter der Zeitschrift Üben &
+  Musizieren. Zahlreiche Aufsätze und Buchpublikationen zum Musikalischen Atem,
+  Körper, Ensemblespiel, zur Neuen Musik und Musikvermittlung.
+#+END_SRC
+
+Wolfgang Rüdiger (1957) estudió educación musical (materias principales: piano y
+fagot, análisis y composición con Nicolaus A. Huber), filosofía y educación en
+Essen, estudios de posgrado en fagot (con Karl-Otto Hartmann) y musicología
+(doctorado con Hans Heinrich Eggebrecht) en Friburgo; Miembro fundador,
+fagotista y director artístico del Ensemble Aventure Freiburg desde 1986;
+actividad como concertista internacional, en conjunto de cámara y como solista
+de fagot, numerosos estrenos mundiales, producciones de radio y CD,
+reconocimientos y premios.
+
+Después de enseñar en los conservatorios de Friburgo y Bremen desde octubre de
+2001, fue profesor de educación musical / educación artística en la Universidad
+de Ciencias Aplicadas Robert Schumann de Düsseldorf. Colaborador permanente de
+la revista Practice & Music. Numerosos ensayos y publicaciones de libros sobre
+la respiración musical, el cuerpo, la interpretación en conjunto, nueva música y
+educación musical.
+
+{{{property(website,*Datos)}}}

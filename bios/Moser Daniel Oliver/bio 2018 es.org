@@ -1,0 +1,39 @@
+#+TITLE: Daniel Oliver Moser
+#+SUBTITLE: Viola, Compositor
+#+DATE: <2016-11-27 dom>
+#+AUTHOR: Daniel Oliver Moser
+#+EMAIL: contacto@fundacionmusicaantiquanova.org.ar
+#+LANGUAGE: es
+#+DESCRIPTION: biografía
+#+KEYWORDS: música, composición, viola
+
+* default                                                            :ignore:
+# extraída de http://www.danielolivermoser.com/biographie.html
+Daniel Oliver Moser estudió composición con Alfred Stingl en el
+Conservatorio Estatal de Carintia y luego a Wolfgang Liebhart y
+Christian Minkowitsch en el Conservatorio de Viena y en el Mozarteum
+de Salzburgo con Tristan Murail.
+
+Participó de clases magistrales con Philippe Leroux, Joshua Fineberg
+entre otros. Obtuvo comisiones e interpretaciones de reconocidos
+solistas y grupos internacionales (Ensemble XX. Jahrhundert, AsianArts
+Ensemble Berlin, Fundación Musica AntiquaNova, Trio Unidas, Ensemble
+Zeitfluss, Ensemble Reconsil, TENM, Guardini Stiftung Berlin, Ensemble
+Platypus, Ensemble Klingekunst y Acies-Quartett).
+
+Su música se presentó en Austria (Musikverein y Konzerthaus de Viena),
+así como en conciertos y festivales internacionales (MDR Musisommer,
+ISCM World New Music Days, Forum Wallis, Bienal Musical de Zagreb,
+Días de Nueva Música de Graz, Festival Composit, Maratón de
+Compositores de Viena). Grabaciones y transmisiones radiales en la
+ORF (Francia), NDR y MDR (Alemania), RTV (Eslovenia), HRT (Croacia).
+
+Fue varias veces becario de diferentes fundaciones: Beca BMUKK 2010
+otorgada por el Ministerio de Educación y Cultura de Austria. Ganó el
+primer premio en el Concurso de Composición Wendl & Lung para piano y
+el Primer Premio en el Concurso de Composición Josef Trattner en
+2009. Fue galardonado con el Premio Theodor-Körner en 2012. Fue
+artista en residencia del Tirol en la residencia para artistas en
+Paliano, Roma y ganador de la beca Hilde Zach de la ciudad de
+Innsbruck en 2014. Fue galardonado con la beca anual de música de
+Carintia y la beca estatal del estado de Austria para composición.

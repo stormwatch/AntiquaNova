@@ -1,0 +1,46 @@
+#+TITLE: Wolfgang Rüdiger
+#+SUBTITLE: clarinet
+#+AUTHOR: Wolfgang Rüdiger
+#+EMAIL: contacto@fundacionmusicaantiquanova
+#+DATE: <2018-11-11>
+#+LANGUAGE: en
+#+DESCRIPTION: biography 
+#+KEYWORDS: music, bassoon
+
+#+INCLUDE: "datos.org"
+
+* default                                                            :ignore:
+{{{property(bio_photo,*Datos)}}}
+
+#+BEGIN_SRC translate :src de :dest en :exports none
+  Wolfgang Rüdiger geb. 1957; Studium der Schulmusik (Hauptfächer Klavier und
+  Fagott, Analyse und Komposition bei Nicolaus A. Huber), Philosophie und
+  Pädagogik in Essen, Aufbaustudium Fagott (bei Karl-Otto Hartmann) und
+  Musikwissenschaft (Promotion bei Hans Heinrich Eggebrecht) in Freiburg;
+  Gründungsmitglied, Fagottist und künstlerischer Leiter des Ensemble Aventure
+  Freiburg seit 1986; internationale Konzerttätigkeit als Ensemblemusiker und
+  Fagottsolist, zahlreiche Uraufführungen, Rundfunk- und CD-Produktionen,
+  Auszeichnungen und Preise.
+
+  Nach Lehrtätigkeiten an den Musikhochschulen in Freiburg und Bremen seit Oktober
+  2001 Professor für Musikpädagogik/Künstlerische Ausbildung an der Robert
+  Schumann Hochschule Düsseldorf. Ständiger Mitarbeiter der Zeitschrift Üben &
+  Musizieren. Zahlreiche Aufsätze und Buchpublikationen zum Musikalischen Atem,
+  Körper, Ensemblespiel, zur Neuen Musik und Musikvermittlung.
+#+END_SRC
+
+Wolfgang Rüdiger b. 1957; Studied music education (major subjects piano and
+bassoon, analysis and composition with Nicolaus A. Huber), philosophy and
+education in Essen, postgraduate basoon studies (with Karl-Otto Hartmann) and
+musicology (doctorate with Hans Heinrich Eggebrecht) in Freiburg; Founding
+member, bassoonist and artistic director of the Ensemble Aventure Freiburg since
+1986; international concert activity as ensemble musician and bassoon soloist,
+numerous world premieres, radio and CD productions, awards and prizes.
+
+After teaching at the conservatories in Freiburg and Bremen since October 2001
+Professor of Musical Education and Artistic Education at the Robert Schumann
+University of Applied Sciences Düsseldorf. Permanent contributor to the journal
+Practice & Music. Numerous essays and book publications on the musical breath,
+body, ensemble playing, new music and music education.
+
+{{{property(website,*Datos)}}}
