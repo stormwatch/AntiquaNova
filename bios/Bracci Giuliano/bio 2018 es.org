@@ -1,0 +1,37 @@
+#+TITLE: Giuliano Bracci
+#+SUBTITLE: Compositor
+#+DATE: <2016-09-19 lun>
+#+AUTHOR: Ezequiel Birman
+#+EMAIL: ebirman77@gmail.com
+#+LANGUAGE: es
+#+DESCRIPTION: Breve biografía
+#+KEYWORDS: música, compositor
+
+#+INCLUDE: "datos.org"
+
+* default                                                            :ignore:
+{{{property(photo_bio,*Datos)}}}
+
+Giuliano Bracci (Roma, 1980) estudió composición con Rosario Mirigliano en el
+Conservatorio de Florencia, Italia, en donde se graduó con honores en 2010.
+Participó de clases magistrales de composición brindadas por Helmut Lachenmann,
+Stefano Gervasoni y Salvatore Sciarrino, Barbara Hanigan y el Cuarteto Danel. En
+2010 se mudó a los Paises Bajos y en 2012 obtuvo su Maestría en Composición en
+el Conservatorio de Amsterdam, donde estudió con Richard Ayres. Bracci es
+también graduado /cum laude/ en Filosofía por la Universidad de La Sapienza de
+Roma, con una tesis sobre Giordano Bruno.
+
+Recibió una mención de honor en el Gaudeamus Prize 2010, y fue premiado en el
+Young Composer Meeting 2010 (Apeldoorn) y fue seleccionado ganador en el
+International SuonoSonda Competition 2009. Fue seleccionado finalista en el
+Premio Reina Sofia 2010 con una obra para coro y orquesta estrenada en Madrid
+por la Orquesta de Radio y Televisión Española y el Coro Nacional de España.
+
+Su música es publicada por la editoriales Donemus y Ars Publica, y ha sido
+programada en diferentes festivales e institutos, tales como: Gaudeamus Music
+Week (Amsterdam y Utrecht), Concertgebouw AAA Festival, Villa Romana
+(Florencia), Cantiere Internazionale d’Arte di Montepulciano y por músicos y
+conjuntos como Holland Symfonia, Nieuw Ensemble, Ensemble Klang, Freon Ensemble,
+VocaalLab, Looptail y Ensemble L’Arsenale.
+
+{{{property(website,*Datos)}}}
