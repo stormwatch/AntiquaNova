@@ -4,24 +4,8 @@
 #+EMAIL: contacto@fundacionmusicaantiquanova
 #+DATE: <2018-11-11>
 #+LANGUAGE: en
-#+CREATOR: Emacs 26.1 (Org mode 9.1.14)
-#+SELECT_TAGS: export
-#+EXCLUDE_TAGS: noexport
-
-#+OPTIONS: html-link-use-abs-url:nil html-postamble:nil html-preamble:nil
-#+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
-#+HTML_DOCTYPE: html5
-#+HTML_CONTAINER: div
 #+DESCRIPTION: biography 
-#+KEYWORDS: music, flute
-#+HTML_LINK_HOME:
-#+HTML_LINK_UP:
-#+HTML_MATHJAX:
-#+HTML_HEAD:
-#+HTML_HEAD_EXTRA:
-#+INFOJS_OPT:
-#+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.1 (<a href="https://orgmode.org">Org</a> mode 9.1.14)
-#+LATEX_HEADER:
+#+KEYWORDS: music, clarinet
 
 #+INCLUDE: "datos.org"
 
@@ -43,5 +27,3 @@ Breitenfeld, Donoung Lee dedicated him their works. Numerous CD and radio
 broadcastings document his active musical activity as a soloist and chamber
 musician in the classic to romantic repertoire as well as in the newest
 avant-garde music.
-
-{{{property(website,*Datos)}}}
