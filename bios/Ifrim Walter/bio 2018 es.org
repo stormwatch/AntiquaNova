@@ -12,7 +12,7 @@
 * default                                                            :ignore:
 {{{property(bio_photo,*Datos)}}}
 
-# http://unfilrouge.eu/en/mitwirkende.html
+# http://unfilrouge.eu/de/mitwirkende.html
 #+BEGIN_SRC translate :src de :dest es :exports none
   Walter Ifrim wurde in Rumänien geboren und studierte Klarinette an der
   Musikhochschule in Bukarest. Seit 1983 lebt er in Deutschland und ist als
@@ -30,17 +30,17 @@
   Bereich der klassisch-romantischen sowie der neuesten avantgardistischen Musik.
 #+END_SRC
 
-Walter Ifrim nació en Rumania y estudió clarinete en la Academia de Música de
-Bucarest. Vive en Alemania desde 1983 y trabaja como solista, músico de cámara y
-educador en Alemania y en el extranjero. Como miembro fundador del Ensemble
-Aventure (1986) y del trío RUGA (2001) se ha presentado en varios festivales y
-ciclos de conciertos de renombre en Alemania (Donaueschingen, Witten, Berlín,
-Munich, Colonia, Stuttgart, etc.) y en el extranjero (Argentina, Francia,
-Suiza). , Italia, España, Austria, Eslovenia, República Checa, México, Brasil,
-Uruguay, China, Japón, Ecuador y Rumania). Compositores contemporáneos de
-renombre como Nicolaus A. Huber, Rolf Riehm, Uros Rojko, Wolfgang Motz,
-Francesco M. Paradiso, Max E. Keller, Mariano Etkin, Coriún Aharonian, Mesias
-Maiguashca, Roland Breitenfeld, Donoung Lee y otros han escrito obras para él.
-Numerosas grabaciones de CD y radio documentan su nutrida actividad musical como
-solista y músico de cámara en el campo de la música clásica/romántica, así como
-en el de la última música de vanguardia.
+Walter Ifrim nació en Rumania y estudió clarinete en el Conservatorio de Música
+de Bucarest. Vive en Alemania desde 1983 y trabaja como solista, músico de
+cámara y educador en Alemania y en el extranjero. Como miembro fundador del
+Ensemble Aventure (1986) y del Trío RUGA (2001) se ha presentado en varios
+festivales y ciclos de conciertos de renombre en Alemania como Donaueschingen,
+Witten, Berlín, Munich, Colonia, Stuttgart, etc., y también en Francia, Suiza,
+Italia, España, Austria, Eslovenia, República Checa, México, Brasil, Uruguay,
+China, Japón, Ecuador y Rumania. Compositores contemporáneos de renombre como
+Nicolaus A. Huber, Rolf Riehm, Uros Rojko, Wolfgang Motz, Francesco M. Paradiso,
+Max E. Keller, Mariano Etkin, Coriún Aharonian, Mesías Maiguashca, Roland
+Breitenfeld, Donoung Lee y otros han escrito obras para él. Numerosas
+grabaciones de CD y radio documentan su nutrida actividad musical como solista y
+músico de cámara en el campo de la música clásica/romántica, así como en el de
+la última música de vanguardia.
