@@ -1,79 +1,58 @@
-# #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:nil
-# #+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:nil e:t
-# #+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:t stat:t tags:t
-# #+OPTIONS: tasks:t tex:t timestamp:nil title:t toc:nil todo:t |:t
 #+TITLE: Richard Craig
 #+SUBTITLE: flautas
 # #+EMAIL: contacto@fundacionmusicaantiquanova
 #+DATE: <2018-11-15>
 #+LANGUAGE: es
-#+CREATOR: Emacs 26.1 (Org mode 9.1.14)
-#+SELECT_TAGS: export
-#+EXCLUDE_TAGS: noexport
-
-# #+OPTIONS: html-link-use-abs-url:nil html-postamble:nil html-preamble:nil
-# #+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
-# #+HTML_DOCTYPE: html5
-# #+HTML_CONTAINER: div
-# #+DESCRIPTION: biography 
-#+KEYWORDS: musica, flauta
-# #+HTML_LINK_HOME:
-# #+HTML_LINK_UP:
-# #+HTML_MATHJAX:
-# #+HTML_HEAD:
-# #+HTML_HEAD_EXTRA:
-# #+SUBTITLE: Composer
-# #+INFOJS_OPT:
-# #+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.1 (<a href="https://orgmode.org">Org</a> mode 9.1.14)
-# #+LATEX_HEADER:
+#+DESCRIPTION: biografía 
+#+KEYWORDS: música, flauta
 
 #+INCLUDE: "datos.org"
 
 * default                                                            :ignore:
 {{{property(bio_photo,*Datos)}}}
 
-Richard Craig estudió flauta en el RSAMD (actualmente el Consevatorio Real de
-Escocia) con Sheena Gordon y luego con Richard Blake. Tras graduarse con honores
-continuó sus estudios en el Conservatorio de Estrasburgo, Francia, con Mario
-Caroli.
+Richard Craig estudió flauta en la Academia Escocesa Real de Música y Arte
+Dramático (actualmente el Consevatorio Real de Escocia) con Sheena Gordon y
+luego con Richard Blake. Tras graduarse con honores continuó sus estudios en el
+Conservatorio de Estrasburgo, Francia, con Mario Caroli.
 
-Richard ha tocado con grupos como ELISION, Musikfabrik, Klangforum Wien, El coro
-de radio de Estonia, la Orquesta RTÉ y Das Experimentalstudio Ensemble, que lo
-han llevado a festivales internacionales como Maerzmusik Berlin, Wittener Tage
-für Neue Musik, Venice Biennale, Huddersfield Festival de música contemporánea,
-el Festival d'Automne en París y el Lincoln Center Festival de Nueva York.
-Igualmente activo como solista, Richard ha dado recitales en todo el mundo
-interpretando obras nuevas y presentando sus colaboraciones, trabajando junto a
-músicos como Rohan de Saram y Roberto Fabbriciani. El foco del trabajo de
-Richard en música contemporánea se centra en el desarrollo de un nuevo
-repertorio para flauta y participa en comisiones tanto con compositores
-establecidos como con la generación más joven de artistas. Como músico de
-cámara, Richard ha actuado con el /Distractfold Ensemble/, ganadores del premio
+Ha tocado con grupos como ELISION, Musikfabrik, Klangforum
+Wien, el Coro de la Radio de Estonia, la Orquesta RTÉ y Das Experimentalstudio
+Ensemble, que lo han llevado a festivales internacionales como Maerzmusik
+Berlin, Wittener Tage für Neue Musik, la Bienal de Venecia, el Festival de
+Música Contemporánea de Huddersfield, el Festival de Otoño de París y el Lincoln
+Center Festival de Nueva York. Igualmente activo como solista, Craig ha dado
+recitales en todo el mundo interpretando obras nuevas y presentando sus
+colaboraciones, trabajando junto a músicos como Rohan de Saram y Roberto
+Fabbriciani. El interés de Craig por la música contemporánea se centra en el
+desarrollo de un nuevo repertorio para flauta y para ello realiza encargos tanto
+a compositores establecidos como a la generación más joven de artistas. Como
+músico de cámara, ha actuado con el Distractfold Ensemble, ganadores del premio
 Kranisteiner 2014, y es miembro del conjunto español SMASH.
 
 Como profesor, ha impartido clases magistrales y seminarios en la Universidad de
 Maryland en Baltimore, la Universidad de Huddersfield, la Universidad de St
 Andrews, la Universidad de Aberdeen, el Royal Northern College of Music, el
-Royal Scottish Conservatoire, la Universidad de Lawrence en Wisconsin y fue
-nombrado Intérprete en Residencia en la Universidad de Aberdeen, 2009–11. De
+Royal Scottish Conservatoire, la Universidad Lawrence de Wisconsin y fue
+nombrado intérprete en residencia en la Universidad de Aberdeen, 2009–11. De
 2012 a 2014 fue profesor visitante en el curso de posgrado de rendimiento en la
 Universidad de Huddersfield y además fue nombrado Investigador Honorario en la
-misma Universidad 2014–2019. En octubre de 2015 se convirtió en titular de la
+misma universidad 2014–2019. En octubre de 2015 se convirtió en titular de la
 Cátedra de Interpretación de la Universidad de Bangor, Gales.
 
-Ha grabado para la BBC, WDR Colonia, YLE Finlandia, Radio Francia, Radio
-Nacional de España, Radio Sueca, ARTE, Islandic RUV, Wergo, Another Timbre. Su
-disco debut como solista INWARD fue lanzado en el sello Métier en 2011 con gran
-éxito por parte de la crítica. INWARD ha sido desde entonces el único disco de
-música clásica nominado para el Álbum Escocés del Año 2012. Actualmente está
-preparando un segundo disco con Métier para su lanzamiento en 2017. Este
-incluirá los primeros registros de obras a estrenar de Esaias Järnegard, Richard
-Barrett, John Croft, Brice Pauset, Evan Johnson y Fabrice Fitch, con el apoyo de
-Creative Scotland. Junto a sus tres discos monográficos, ha participado en
-grabaciones con los ensambles MusikFabrik, Ensemble Octandre, SMASH, Ensemble
-Distractfold y Grizzana Ensemble. Como improvisador ha tocado con Barry Guy, la
-Orquesta de los Improvisadores de Glasgow y ha grabado con el grupo junto a Evan
-Parker.
+Ha grabado para la BBC, WDR Colonia, Radiodifusión pública de Finlandia (YLE),
+Radio Francia, Radio Nacional de España, Radio Sueca, ARTE, Radiodifusión
+estatal de Islandia (RÚV), [[https://de.schott-music.com/wergo/][Wergo]] y Another Timbre. Su disco debut como solista
+INWARD fue lanzado en el sello Métier en 2011 con gran éxito por parte de la
+crítica. INWARD ha sido desde entonces el único disco de música clásica nominado
+para el Álbum Escocés del Año 2012. Actualmente está preparando un segundo disco
+con Métier para su lanzamiento en 2017. Este incluirá los primeros registros de
+obras a estrenar de Esaias Järnegard, Richard Barrett, John Croft, Brice Pauset,
+Evan Johnson y Fabrice Fitch, con el apoyo de Creative Scotland. Junto a sus
+tres discos monográficos, ha participado en grabaciones con los ensambles
+MusikFabrik, Octandre, SMASH, Distractfold y Grizzana. Como improvisador ha
+tocado con Barry Guy, la Glasgow Improvisers Orchestra y ha grabado con el grupo
+de Evan Parker.
 
 Como intérprete/compositor lanzó el disco AMP/AL en colaboración con Rodrigo
 Constanzo y la artista Angela Guyton en 2013.
