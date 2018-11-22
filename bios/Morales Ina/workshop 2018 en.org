@@ -1,0 +1,53 @@
+#+TITLE: Object Theater Workshop
+#+DATE: <2018-10-23 mar>
+#+AUTHOR: Ina Morales
+#+EMAIL: contacto@fundacionmusicaantiquanova.org
+#+LANGUAGE: en
+#+DESCRIPTION: workshop
+#+KEYWORDS: theatre, theater, workshop
+
+[[https://static.wixstatic.com/media/0f23fe_766262df73d84ab994053bfa4d96bf50~mv2.jpg/v1/fill/w_734,h_535,al_c,q_85/image.jpg]]
+
+#+BEGIN_VERSE
+*=Prof. Ina Morales=*
+=17–20 December=
+=Choele Choel=
+=Distat Terra Festival 2018=
+#+END_VERSE
+
+* To breathe life into dead matter. /An active exploration on the poetics of things./
+
+Object Theater is a concept that brings together multiple poetics that approach
+the object from a broad point of view, material, conceptual, literal,
+philosophical, etc. It is a contemporary expression that may appropriate past
+forms as well, and wants to experiment, and open spaces in order to find other
+ways to express employing the views and resources that allow the realization of
+an artistic production.
+
+This workshop will focus on transforming the state of stillness of the objects
+in order to explore new scenic possibilities in which it may become the leading
+character; exploring the different animation techniques in order to breathe life
+into an object; recognizing the possibilities of manipulation: direct, indirect,
+at a distance, with and without rods; encouraging interpretation excercises by
+which the discovery of the possibilities and limits of the materials may be
+enabled.
+
+** Audience 
+Intended for directors, actors, dancers, musicians, performers, visual artists
+and theater students interested in inquiring into matter as a dramaturgical
+trigger. Once you have registred, you must send an e‑mail to
+[[mailto:tallerdeteatrodeobjetos@gmail.com][tallerdeteatrodeobjetos@gmail.com]] and you will receive a repy with a list of
+materials needed for the workshop.
+ 
+** Attendance and mode of instruction
+The workshop will be theoretical–practical and will be held over four sessions
+of two and a half hours each. The attendants will acquire the basic notions of
+manipulation and performance with objects by means of expermientation with
+exercises.
+
+- Fee :: Free course
+- Registration :: write to both [[mailto:contacto@fundacionmusicaantiquanova.org.ar][contacto@fundacionmusicaantiquanova.org]] and
+                  [[mailto:tallerdeteatrodeobjetos@gmail.com][tallerdeteatrodeobjetos@gmail.com]]
+- Deadline for applications :: <2018-11-30>
+
+#+INCLUDE: "bio 2018 en.org::default" 

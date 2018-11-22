@@ -1,0 +1,51 @@
+#+TITLE: Taller de Teatro de Objetos
+#+DATE: <2018-10-23 mar>
+#+AUTHOR: Ina Morales
+#+EMAIL: contacto@fundacionmusicaantiquanova.org
+#+LANGUAGE: es
+#+DESCRIPTION: taller
+#+KEYWORDS: teatro, taller, curso, workshop
+
+[[https://static.wixstatic.com/media/0f23fe_766262df73d84ab994053bfa4d96bf50~mv2.jpg/v1/fill/w_734,h_535,al_c,q_85/image.jpg]]
+
+#+BEGIN_VERSE
+*=Prof. Ina Morales=*
+=17–20 Diciembre=
+=Choele Choel=
+=Festival Distat Terra 2018=
+#+END_VERSE
+
+* Dar vida a la materia muerta. /Una exploración activa sobre la poética de las cosas./
+Teatro de Objetos es un concepto que convoca múltiples poéticas que abordan al
+objeto desde un punto de vista amplio, material, conceptual, literal,
+filosófico, etc. Es una expresión contemporánea que puede igualmente apropiarse
+de formas del pasado y que busca experimentar y abrir espacios para encontrar
+otras formas de transmitir con la óptica y los recursos que permiten la
+realización de una producción artística.
+
+Este taller propone transformar el estado de quietud de los objetos para indagar
+nuevas posibilidades escénicas en el que él sea protagonista; explorar las
+diferentes técnicas de animación para darle vida a un objeto; reconocer las
+posibilidades de la manipulación: directa, indirecta, a distancia, con y sin
+varillas; promover el tránsito por ejercicios de interpretación que permitan
+descubrir las posibilidades y los límites de los materiales.
+
+** Destinatarios
+Dirigido a directores, actores, bailarines, músicos, performers, artistas
+visuales y estudiantes de teatro interesados en indagar en la materia como
+disparador dramatúrgico. Es necesario que al momento de realizar la inscripción
+envíen un mail a [[mailto:tallerdeteatrodeobjetos@gmail.com][tallerdeteatrodeobjetos@gmail.com]] donde se les pasará una lista
+de materiales necesarios para el taller.
+
+** Modalidad
+El taller tendrá carácter teórico/práctico y se realizará a lo largo de cuatro
+encuentros de dos horas y media cada uno. Los talleristas en cada sesión
+experimentarán ejercicios necesarios para adquirir las nociones básicas de
+manipulación e interpretación con objetos.
+
+- Costo :: Curso gratuito.
+- Inscripción :: escriba a [[mailto:contacto@fundacionmusicaantiquanova.org.ar][contacto@fundacionmusicaantiquanova.org]] y también a
+                 [[mailto:tallerdeteatrodeobjetos@gmail.com][tallerdeteatrodeobjetos@gmail.com]]
+- Fecha límite para inscribirse :: <2018-11-30>
+
+#+INCLUDE: "bio 2018 es.org::default" 

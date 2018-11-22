@@ -1,0 +1,34 @@
+#+TITLE: Ina Morales
+#+SUBTITLE: Dramaturga y actriz
+#+DATE: <2018-10-23 mar>
+#+AUTHOR: Ezequiel Birman
+#+EMAIL: ebirman77@gmail.com
+#+LANGUAGE: es
+#+DESCRIPTION: biografía
+#+KEYWORDS: teatro
+
+[[http://static.alternativateatral.com/fotospersonas/000117703.jpg]]
+
+* default                                                            :ignore:
+Ina Morales es directora, actriz y docente. Desde el año 2012 se dedica a la
+investigación y creación de poéticas escénicas con objetos y materiales. Es
+egresada de la Especialización en Teatro de Objetos, Interactividad y Nuevos
+Medios de la Universidad Nacional de las Artes (UNA) y del Profesorado en Arte
+Dramático del Instituto Nacional Superior de las Artes. Actualmente vive y
+desarrolla su actividad artística en Buenos Aires.
+
+Su obra ha participado en los festivales: La Música en Diálogo con Otras Artes
+en la Fundación OSDE, Trama de Objetos organizado por la UNA bajo la curaduría
+de Ana Alvarado, la primera edición de Escena Doméstica y el 1.° y el 2.°
+encuentros de Objeto de Teatro, entre otros. Fue seleccionada para participar en
+la Fiesta Provincial de Teatro de CABA 2017 organizada por el Instituto Nacional
+del Teatro, en donde fue becaria durante 2012 y 2013
+
+Ha participado en Río negro y Neuquén en los siguientes festivales: 4.°
+Parapibes, 1.° festival de clown Festín Yosapa, 6.° Festival de Clown
+Patacómico, Fiesta Provincial del Teatro, 3.ª y 4.ª ediciones del Festival de
+Teatro de la Fundación Cultural Patagonia y 1.ª, 2.ª y 4.ª ediciones del
+Festival Nacional de Teatro Joven. Perteneció al elenco de títeres y comedia de
+la Fundación Cultural Patagonia de 2006 a 2007.
+
+[[http://www.alternativateatral.com/persona117703-ina-morales]]
