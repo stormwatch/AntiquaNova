@@ -1,0 +1,281 @@
+#+TITLE: Trio Aventure
+#+SUBTITLE: Trío de vientos del Ensemble Aventure
+#+DATE: <2018-11-23 vie>
+#+AUTHOR: Ezequiel Birman
+#+EMAIL: contacto@fundacionmusicaantiquanova.org
+#+LANGUAGE: es
+
+# Fuente: http://www.villastraeuli.ch/de/trio-aventure-lieder-von-dunkelheit-und-licht
+[[http://www.villastraeuli.ch/files/540/151029_Trio_Aventure.jpg]]
+
+* Integrantes
+- [[file:../Ott Alexander/bio 2018 es.org][Alexander Ott]] :: oboe
+- [[file:../Ifrim Walter/bio 2018 es.org][Walter Ifrim]] :: clarinete y clarinete bajo
+- [[file:../Rüdiger Wolfgang/bio 2018 es.org][Wolfgang Rüdiger]] :: fagot
+
+* Bio                                                                :ignore:
+# Fuente: https://de.schott-music.com/shop/autoren/ensemble-aventure
+#+BEGIN_SRC translate :src de :dest es :exports none
+  Das Ensemble Aventure, Anfang 1986 in Freiburg gegründet, zählt zu den ältesten
+  und profiliertesten Ensembles für neue Musik in Europa. Mit seiner renommierten
+  Freiburger Konzertreihe, seinen intensiven Kontakten zu Komponistinnen und
+  Komponisten weltweit, zahlreichen Kompositionsaufträgen, Hunderten von
+  Uraufführungen, internationalen Konzertauftritten, mehr als zwanzig CDs und
+  etlichen Publikationen zur Vermittlung neuer Musik hat Aventure das
+  Musikschaffen der Gegenwart maßgeblich mitgeprägt und einem breiten Publikum
+  nahegebracht. Das Ensemble besteht aus zwölf Musikerinnen und Musikern, die in
+  verschiedenen Besetzungen vom Solo bis zum Tutti spielen.
+
+  Gründungsmotiv und Grundanliegen des Ensemble Aventure ist es, Avantgarde mit
+  der Tradition zu verbinden, der sie entspringt, scheinbar Bekanntes neu zu
+  beleuchten, Vergessenes und Verdrängtes wieder zu entdecken, radikal Neues zu
+  fördern und dies in Epochen und Kulturen übergreifenden Programmen zu vereinen.
+
+  Das Repertoire des Ensembles erstreckt sich von der Zweiten Wiener Schule und
+  der amerikanischen Avantgarde über Dada, Fluxus, Konzeptkunst, kritisches
+  Komponieren und die Avantgarde Darmstädter Provenienz bis zu etlichen Werken
+  jüngerer Komponistinnen und Komponisten, die für Aventure geschrieben haben.
+  Besondere Schwerpunkte bilden die Werke politisch verfolgter und verdrängter
+  Komponisten, zu deren Wiederentdeckung Aventure maßgeblich beigetragen hat, und
+  der Dialog mit nichteuropäischen Kompositionswelten, vor allem der neuen Musik
+  in Lateinamerika, die das Ensemble zu Gastspielreisen nach Mexiko, Uruguay,
+  Argentinien, Brasilien und Ecuador geführt hat.
+
+  Der von Aventure 2001 bis 2005 dreimal ausgelobte Internationale
+  Elisabeth-Schneider-Kompositionswettbewerb, das 2005 gegründete Festival
+  Freiburger Frühling mit seinem offenen Werkstattcharakter und eine weit
+  gefächerte Vermittlungsarbeit in Schulen, Musikschulen und Hochschulen weisen
+  das Ensemble als Formation mit einem besonderen künstlerischen und pädagogischen
+  Ansatz aus, der sich auch in etlichen Publikationen zur neuen Musik
+  niederschlägt.
+
+  Preise der Ernst von Siemens-Musikstiftung, der Europäischen Wirtschaft und der
+  Deutschen Schallplattenkritik sowie Förderprojekte des Innovationsfonds
+  Baden-Württemberg und des Netzwerks Neue Musik Baden-Württemberg belegen die
+  hohe künstlerische Qualität und den vielgestaltigen Wirkungsradius des
+  Ensembles, das institutionell von der Stadt Freiburg und vom Land
+  Baden-Württemberg/Regierungspräsidium Freiburg gefördert wird und im
+  Gewölbekeller der Elisabeth-Schneider-Stiftung seinen durch einzigartiges
+  Mäzenatentum zur Verfügung gestellten Proben- und Konzertort besitzt.
+
+  www.ensemble-aventure.de 
+#+END_SRC
+
+# El Ensemble Aventure, fundado a principios de 1986 en Friburgo, es uno de los
+# conjuntos más antiguos y distinguidos de música nueva en Europa. Con su
+# renombrado ciclo de conciertos de Friburgo, sus contactos intensivos con
+# compositores de todo el mundo, numerosas comisiones de composición, cientos de
+# estrenos mundiales, apariciones en conciertos internacionales, más de veinte CD
+# y numerosas publicaciones sobre música nueva, Aventure ha desempeñado un papel
+# clave en la configuración de la música contemporánea y la ha llevado a un gran
+# público. El conjunto está formado por doce músicos que tocan en diferentes
+# formaciones, desde solo hasta tutti. El motivo fundador y la preocupación
+# fundamental del Ensemble Aventure es combinar vanguardia con la tradición de la
+# que se origina, reiluminar lo que parece familiar, redescubrir lo olvidado y lo
+# reprimido, promover algo radicalmente nuevo y unirlo en épocas y programas
+# interculturales. El repertorio del conjunto abarca desde la Segunda Escuela de
+# Viena y la vanguardia americana hasta Dada, Fluxus, arte conceptual, composición
+# crítica y la vanguardia de la procedencia de Darmstadt, así como numerosas obras
+# de compositores más jóvenes que escribieron para Aventure. Se hace especial
+# hincapié en las obras de compositores perseguidos y reprimidos políticamente,
+# cuyo redescubrimiento Aventure ha contribuido significativamente, y el diálogo
+# con mundos compositivos no europeos, especialmente la nueva música en América
+# Latina, que llevó al conjunto a viajes de invitados a México, Uruguay,
+# Argentina, Brasil y Ecuador. tiene. El Concurso Internacional de Composición
+# Elisabeth-Schneider, que fue premiado tres veces por Aventure de 2001 a 2005, el
+# Festival Freiburger Frühling, fundado en 2005 con su carácter de taller abierto
+# y una amplia gama de trabajos educativos en escuelas, escuelas de música y
+# colegios, identifica el conjunto como una formación con un enfoque artístico y
+# pedagógico especial. Lo que también se refleja en varias publicaciones sobre
+# nueva música. La Fundación de Música Ernst von Siemens, la Economía Europea y
+# los Premios de Críticos de Registros Alemanes, así como el Fondo de Innovación
+# Baden-Württemberg y la red New Music Baden-Württemberg, demuestran la alta
+# calidad artística y la eficacia múltiple del conjunto, que es administrado
+# institucionalmente por la Ciudad de Friburgo y Land Baden-Württemberg /
+# Regierungspräsidium Freiburg y en el sótano abovedado de
+# Elisabeth-Schneider-Stiftung posee su patrocinio único provisto de sala de
+# ensayos y conciertos. www.ensemble-aventure.de
+
+# Fuente: https://de.wikipedia.org/wiki/Ensemble_Aventure
+#+BEGIN_SRC translate :src de :dest es :exports none
+Das Ensemble Aventure, 1986 in Freiburg gegründet, zählt zu den angesehensten
+europäischen Ensembles für Neue Musik.
+
+Überblick
+
+Das Ensemble Aventure wurde Anfang 1986 im Umfeld der Hochschule für Musik
+Freiburg gegründet und besteht aus fünfzehn profilierten Instrumentalistinnen
+und Instrumentalisten, die in wechselnden Besetzungen miteinander musizieren.
+Auf den Konzertprogrammen stehen Werke der Zweiten Wiener Schule, der New York
+School und der Darmstädter Schule, Dada, Fluxus und Konzeptkunst sowie Werke
+verdrängter und vergessener Komponisten. Für die Besetzung von Edgar Varèses
+bereits im Debütkonzert präsentierter Komposition Octandre (sieben Bläser und
+Kontrabass), aber auch für viele andere Besetzungen hat das Ensemble seither
+zahlreiche Kompositionsaufträge vergeben;[1] insgesamt hat es mehrere hundert
+Uraufführungen gespielt.[2] Seit den frühen 1990er Jahren wird das Ensemble
+Aventure auf renommierte Festivals und in wichtige Konzertreihen eingeladen;
+Tourneen führten unter anderem ins europäische Ausland, nach Ostasien und immer
+wieder nach Lateinamerika. Eine Freiburger Konzertreihe mit in der Regel sechs
+Saisonkonzerten besteht seit 1991. 1995 fand das Ensemble in den Räumen der
+Elisabeth-Schneider-Stiftung einen festen Ort nicht nur für diese Konzertreihe,
+sondern auch für die Probenarbeit.[3]
+
+Neben der Konzerttätigkeit sind zahlreiche Einspielungen für den Südwestrundfunk
+und andere Rundfunkanstalten sowie rund zwanzig CD-Aufnahmen entstanden.[4] 1995
+erhielt das Ensemble Aventure den Regio-Musikpreis der Europäischen Wirtschaft,
+1996 und 1998 je einen Preis der deutschen Schallplattenkritik, 1996 und 2011 je
+einen Förderpreis der Ernst-von-Siemens-Musikstiftung und 2006 – für ein im
+Rahmen der Donaueschinger Musiktage gemeinsam mit Schülerinnen und Schülern
+präsentiertes John-Cage-Projekt – einen Preis der Kulturstiftung der Länder.[5]
+Eine Freiburger Kultur- und Veranstaltungszeitung charakterisierte das Ensemble
+Aventure mit folgenden Worten:[6]
+
+„Es hat Komponisten wiederentdeckt, die im Nationalsozialismus verfemt waren. Es
+sucht den Kontakt zur außereuropäischen Musik. Es möchte aufrütteln und
+emotional bewegen, möchte Stachel sein und auf keinen Fall langweilen.“
+#+END_SRC
+
+# El Ensemble Aventure, fundado en 1986 en Friburgo, es uno de los conjuntos
+# europeos dedicados a la nueva música de mayor renombre.
+
+El Ensemble Aventure se fundó a principios de 1986 en el entorno del
+conservatorio superior (Hochschule) de Freiburg y está integrado por doce
+músicos que tocan en diferentes formaciones, desde solo hasta tutti. Los
+programas de conciertos incluyen obras de la segunda escuela de Viena, las
+escuelas de Nueva York y Darmstadt, Dada, Fluxus y arte conceptual, así como
+obras de compositores silenciados y olvidados
+# [inserto párrafo de facebook] Se hace especial hincapié en las obras de
+# compositores perseguidos y reprimidos políticamente
+cuyo redescubrimiento ha hecho una contribución significativa al examen de
+mundos compositivos no europeos, especialmente la música nueva en América
+Latina, Israel y Palestina.
+
+# insertar texto sobre Argentina?
+
+# [continúa el texto de Wikipedia]
+# Para el orgánico de la composición de Edgar Varèse presentada en su concierto
+# debut /Octandre/ (siete vientos y contrabajo) —pero también para muchas otras
+# formaciones—, el
+El ensamble ha encargado numerosas comisiones, en total ha tocado varios cientos
+de estrenos mundiales. Desde principios de la década de 1990, el Ensemble
+Aventure ha sido invitado a prestigiosos festivales y ciclos de conciertos
+importantes; las giras lo han llevado a otros países europeos, al este de Asia y
+una y otra vez a América Latina. Desde 1991 ofrecen un ciclo de conciertos en
+Freiburg con —generalmente— seis temporadas. En 1995, el conjunto encontró en
+las instalaciones de la Fundación Elisabeth Schneider un lugar permanente no
+solo para este ciclo de conciertos, sino también para sus ensayos.
+
+Además de la actividad de conciertos, se han realizado numerosas grabaciones
+para la Südwestrundfunk y otras emisoras y más de veinte grabaciones en CD.
+# [inserto comentario sobre los dos CDs de FuMAN]
+En 2015 con la edición del CD dedicado a [[https://de.schott-music.com/shop/dedalus-invencion-nucleos-concrecion-no334747.html][Juan Carlos Paz]], comenzó una
+colaboración entre la Fundación Música AntiquaNova, Deutschlandradio y el sello
+Wergo para producir una serie de registros monográficos con música de
+compositores americanos. En 2018 se lanzó [[https://de.schott-music.com/shop/libres-en-el-sonido-no375351.html][/Libres en el Sonido/]] dedicado a
+Graciela Paraskevaídis.
+# [continuo con el artículo de Wikipedia]
+
+* Premios                                                            :ignore:
+1995 el Ensemble Aventure fue galardonado con el premio Regio otorgado por la
+Economía Europea (Europäischen Wirtschaft), en 1996 y 1998 el premio de los
+críticos de Alemania (Preis der deutschen Schallplattenkritik), en 1996 y 2011
+el premio de la Fundación de Música Ernst von Siemens y en 2005
+# Wikipedia dice 2006 pero aparentemente es 2005
+en el marco del Festival de Donaueschingen (Donaueschinger Musiktage) junto con
+un grupo de estudiantes presentaron el John Cage—Projekt por el cual recibieron
+un premio del Kulturstiftung der Länder.
+
+# * Comentarios
+# Un periódico de cultura y eventos de Freiburg caracterizó al Ensemble Aventure
+# con las siguientes palabras: «Ha redescubierto a los compositores que fueron
+# excluidos por el nacionalsocialismo. Busca el contacto con la música no europea.
+# Quiere sacudirse y moverse emocionalmente, quiere aguijonear y jamás aburre».
+# [fin del artículo de Wikipedia]
+
+Se hace especial hincapié en las obras de
+# compositores perseguidos y reprimidos políticamente, cuyo redescubrimiento
+# Aventure ha hecho una contribución significativa al examen de mundos
+# compositivos no europeos, especialmente la música nueva en América Latina,
+# Israel y Palestina.
+
+# Fuente: https://www.facebook.com/events/712169548913108/
+#+BEGIN_SRC translate :src de :dest es :exports none
+Anfang 1986 in Freiburg gegründet, zählt das Ensemble Aventure zu den ältesten
+und bedeutendsten Ensembles für neue Musik in Europa. Mit seiner renommierten
+Freiburger Konzertreihe, seinen intensiven Kontakten zu KomponistInnen
+weltweit, zahlreichen Kompositionsaufträgen, Hunderten von Uraufführungen,
+internationalen Konzertauftritten, etwa 20 CDs und etlichen Projekten und
+Publikationen zur Vermittlung neuer Musik hat Aventure das Musikschaffen der
+Gegenwart maßgeblich mitgeprägt und einem breiten Publikum nahe gebracht.
+
+Gründungsmotiv und Grundanliegen des fünfzehnköpfigen, in verschiedenen
+Besetzungen spielenden Ensemble Aventure ist es, Avantgarde zu verbinden mit
+der Tradition, der sie entspringt, scheinbar Bekanntes neu zu beleuchten,
+Vergessenes und Verdrängtes wieder zu entdecken, radikal Neues zu fördern und
+dies in sinnstiftenden, Epochen und Kulturen übergreifenden Programmen zu
+vereinen.
+
+Das Repertoire des Ensembles erstreckt sich von der Zweiten Wiener Schule und
+der amerikanischen Avantgarde über Dada, Fluxus, Konzeptkunst, kritischem
+Komponieren und der Avantgarde Darmstädter Provenienz bis zu etlichen Werken
+jüngerer Komponistinnen und Komponisten. Besondere Schwerpunkte bilden die
+Werke politisch verfolgter und verdrängter Komponisten, zu deren
+Wiederentdeckung Aventure maßgeblich beigetragen hat, und die
+Auseinandersetzung mit nichteuropäischen Kompositionswelten wie vor allem der
+neuen Musik in Lateinamerika, Israel und Palästina.
+
+Der von Aventure 2001 bis 2005 dreimal ausgelobte Internationale Elisabeth
+Schneider-Kompositionswettbewerb, das 2005 gegründete Festival Freiburger
+Frühling mit seinem offenen Werkstattcharakter und eine weit gefächerte
+Vermittlungsarbeit in Schulen, Musikschulen und Hochschulen (1. Preis beim
+Wettbewerb „Kinder des Olymp“ mit dem Cage-Projekt „Sculptures Musicales“ bei
+den Donaueschinger Musiktagen 2005 in Kooperation u.a. mit der Klangbaustelle
+Waldshut) weisen das Ensemble Aventure als Formation mit einem profilierten
+künstlerischen und pädagogischen Vermittlungsansatz aus, der auch die
+Mitwirkung des Ensembles im Förderprojekt der Kulturstiftung des Bundes
+Netzwerk Neue Musik MehrKlang Freiburg 2008-2011 geprägt hat.
+
+Preise der Europäischen Wirtschaft, der Ernst-von-Siemens-Stiftung und der
+Deutschen Schallplattenkritik belegen die hohe künstlerische Qualität und den
+vielgestaltigen Wirkungsradius des Ensembles, das institutionell von der Stadt
+Freiburg und vom Land Baden-Württemberg / Regierungspräsidium Freiburg
+gefördert wird und im Gewölbekeller der Elisabeth Schneider Stiftung seinen
+durch einzigartiges Mäzenatentum zur Verfügung gestellten Proben- und
+Konzertort besitzt.
+#+END_SRC
+
+# Fundado a principios de 1986 en Friburgo, el Ensemble Aventure es uno de los
+# conjuntos más antiguos e importantes de música nueva en Europa. Con su
+# renombrada serie de conciertos de Friburgo, sus contactos intensivos con
+# compositores de todo el mundo, numerosas comisiones de composición, cientos de
+# estrenos mundiales, apariciones en conciertos internacionales, aproximadamente
+# 20 CD y numerosos proyectos y publicaciones para transmitir nueva música,
+# Aventure ha influido de manera decisiva en la música contemporánea y la ha
+# llevado a un amplio público. El motivo fundador y la preocupación básica de los
+# quince miembros del Ensemble Aventure, que juegan en diferentes conjuntos, es
+# conectar la vanguardia con la tradición a partir de la cual se origina,
+# reiluminar lo aparentemente familiar, redescubrir lo olvidado y suprimido,
+# promover cosas radicalmente nuevas en épocas y tiempos significativos. Unificar
+# programas interculturales. El repertorio del conjunto abarca desde la Segunda
+# Escuela de Viena y la vanguardia americana hasta Dada, Fluxus, arte conceptual,
+# composición crítica y la vanguardia Darmstädter Provenienz hasta numerosas obras
+# de compositores más jóvenes. Se hace especial hincapié en las obras de
+# compositores perseguidos y reprimidos políticamente, cuyo redescubrimiento
+# Aventure ha hecho una contribución significativa al examen de mundos
+# compositivos no europeos, especialmente la música nueva en América Latina,
+# Israel y Palestina. El Concurso Internacional de Composición Elisabeth
+# Schneider, que fue premiado tres veces por Aventure entre 2001 y 2005, el
+# Freiburger Frühling Festival se fundó en 2005 con su carácter de taller abierto
+# y una amplia gama de trabajos educativos en escuelas, escuelas de música y
+# universidades (1er premio en el concurso "Los niños del Olimpo" con la jaula).
+# El proyecto "Sculptures Musicales" en el Donaueschinger Musiktage 2005 en
+# cooperación con Klangbaustelle Waldshut) muestra el Ensemble Aventure como una
+# formación con un enfoque artístico y pedagógico perfilado, que también incluye
+# la participación del conjunto en el proyecto de apoyo de la red Kulturstiftung
+# des Bundes Neue Musik MehrKlang Freiburg 2008-2011. Los premios de la Economía
+# Europea, la Fundación Ernst von Siemens y los Críticos de Registros de Alemania
+# dan testimonio de la alta calidad artística y la eficacia múltiple del conjunto,
+# que cuenta con el apoyo institucional de la ciudad de Friburgo y el estado de
+# Baden-Württemberg / Regierungspräsidium Freiburg y en el sótano abovedado de La
+# Fundación Elisabeth Schneider tiene su sala de ensayo y concierto a disposición
+# de un patrocinador único.

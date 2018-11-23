@@ -7,11 +7,9 @@
 #+DESCRIPTION: biografía 
 #+KEYWORDS: música, clarinete
 
-#+INCLUDE: "datos.org"
+[[http://unfilrouge.eu/images/mitwirkende/walter.jpg]]
 
-* default                                                            :ignore:
-{{{property(bio_photo,*Datos)}}}
-
+* bio                                                                :ignore:
 # http://unfilrouge.eu/de/mitwirkende.html
 #+BEGIN_SRC translate :src de :dest es :exports none
   Walter Ifrim wurde in Rumänien geboren und studierte Klarinette an der

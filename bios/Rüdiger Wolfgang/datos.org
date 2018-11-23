@@ -4,5 +4,5 @@
   :last_name: Rüdiger
   :country_es: Alemania
   :country_en: Germany
-  :bio_photo:
+  :bio_photo: [[http://www.ensemble-aventure.de/bilder/ensemble/bios/Aventure-22-9-2014_2176_web.jpg]]
   :END:

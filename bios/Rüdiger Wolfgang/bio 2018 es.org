@@ -7,10 +7,9 @@
 #+DESCRIPTION: biografía
 #+KEYWORDS: musica, fagot
 
-#+INCLUDE: "datos.org"
+[[http://www.ensemble-aventure.de/bilder/ensemble/bios/Aventure-22-9-2014_2176_web.jpg]]
 
-* TODO default                                               :revisar:ignore:
-{{{property(bio_photo,*Datos)}}}
+* bio                                                        :revisar:ignore:
 
 #+BEGIN_SRC translate :src de :dest es :exports none
   Wolfgang Rüdiger geb. 1957; Studium der Schulmusik (Hauptfächer Klavier und
@@ -31,18 +30,17 @@
 
 Wolfgang Rüdiger (1957) estudió educación musical (materias principales: piano y
 fagot, análisis y composición con Nicolaus A. Huber), filosofía y educación en
-Essen, estudios de posgrado en fagot (con Karl-Otto Hartmann) y musicología
-(doctorado con Hans Heinrich Eggebrecht) en Friburgo; Miembro fundador,
-fagotista y director artístico del Ensemble Aventure Freiburg desde 1986;
-actividad como concertista internacional, en conjunto de cámara y como solista
-de fagot, numerosos estrenos mundiales, producciones de radio y CD,
+Essen. Cursó estudios de posgrado en fagot (con Karl-Otto Hartmann) y
+musicología (doctorado con Hans Heinrich Eggebrecht) en Freiburg. Es Miembro
+fundador, fagotista y director artístico del Ensemble Aventure desde 1986. Su
+actividad como concertista internacional en conjuntos de cámara y como solista,
+sus estrenos mundiales, y sus producciones de radio y CD le han valido numerosos
 reconocimientos y premios.
 
-Después de enseñar en los conservatorios de Friburgo y Bremen desde octubre de
-2001, fue profesor de educación musical / educación artística en la Universidad
-de Ciencias Aplicadas Robert Schumann de Düsseldorf. Colaborador permanente de
-la revista Practice & Music. Numerosos ensayos y publicaciones de libros sobre
-la respiración musical, el cuerpo, la interpretación en conjunto, nueva música y
-educación musical.
+Después de enseñar en los conservatorios de Freiburg y Bremen desde 2001 es
+profesor de educación musical y artística en el conservatorio Robert Schumann de
+Düsseldorf. Es colaborador permanente de la revista /Practice & Music/. Ha
+escrito numerosos ensayos y libros sobre la respiración musical, el cuerpo, la
+interpretación de música de cámara, sobre la «nueva música» y educación musical.
 
-{{{property(website,*Datos)}}}
+[[https://de.wikipedia.org/wiki/Wolfgang_R%C3%BCdiger_(Musiker)]]
