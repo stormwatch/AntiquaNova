@@ -1,0 +1,90 @@
+#+TITLE: Lorena Faccio
+#+SUBTITLE: Artista plástica
+#+DATE: <2018-10-23 mar>
+#+AUTHOR: Lorena Faccio
+#+EMAIL: contacto@fundacionmusicaantiquanova.org
+#+LANGUAGE: es
+#+DESCRIPTION: biografía
+#+KEYWORDS: plástica, fotografía
+
+# fuente https://lorenafaccio.tumblr.com
+[[http://static.tumblr.com/aba2fc80cf7b79ebccd8d5586a05d9e3/dqg6avr/61eno68ga/tumblr_static_9gbr1i8vfjks0k0wk8c8okcss.jpg]]
+
+* default                                                            :ignore:
+Lorena Faccio (Argentina, 1974) egresó de la Escuela Nacional de Bellas Artes
+Prilidiano Pueyrredón como Profesora Nacional de Escultura y Pintura. Asistió al
+workshop de iluminación fotográfica con Gustavo Demaría y al taller de video
+analógico con Javier Plano. Se entrenó en danza contemporánea con Fabiana
+Capriotti. Asistió al taller sobre pensamiento queer dictado por Moira Pérez,
+Dra. en filosofía (UBA). Estudió fotografía estenopeica en el Museo Fotográfico
+Simik. Cursó el taller de video coordinado por Gustavo Galuppo, Hernán Khourian
+y Andrés Denegri en el Espacio Fundación Telefónica. Participó del taller sobre
+redacción de /statement/ dictado por Kekena Corvalán. Asistió al taller
+teórico/práctico sobre arte, ciencia y tecnología, a cargo de Mariano Sardón y
+Rodrigo Alonso en el Espacio Fundación Telefónica. Cursó el taller de fotografía
+con Gabriel Valansi. Forma parte del taller de fotografía y revelado con Eduardo
+Gil.
+
+Expuso en Buenos Aires, Caracas, París, Niza, Bérgamo, Verona, Milán, Bolonia,
+Nápoles, Caserta, Brescia, Bari y Lecce. Sus obras forman parte de varias
+colecciones privadas y públicas en Argentina, Italia, Hungría y Francia. Vive y
+trabaja en Buenos Aires.
+
+[[http://lorenafaccio.tumblr.com/]]
+
+* Algunas exhibiciones
+- 2017 :: MADI Internacional, MADI Buenos Aires – Banco Ciudad – Bs. As.
+          Argentina.
+- 2017 :: MADI La materia nel tempo – Ex conservatorio di Sant’Anna – Lecce –
+          Italia.
+- 2016 :: Miradas cruzadas – Galería Buenos Aires Fine Arts – Bs. As. –
+          Argentina.
+- 2016 :: 70 años de MADI – Galería Vermeer – Bs. As. – Argentina.
+- 2016 :: Arte MADI Internazionale - Proiezioni di forme e colori – Taranto –
+          Italia.
+- 2016 :: Arte MADI Internazionale - Pinacoteca “Michele de Napoli” – Terlizzi –
+          Bari – Italia.
+- 2016 :: Efemérides I – Video: Máquina de producción de mi retrato - Centro
+          Cultural Borges, Área de Géneros en el Arte – Bs. As. – Argentina.
+- 2015 :: Primera Bienal de Arte Lenguajes de Inclusión, - Videos: “Basura”
+          1’30’’ 2014 - “Frágil” 2’15’’ 2013 - Centro Cultural konex – Bs. As. –
+          Argentina.
+- 2015 :: Geo-Madi - Galería Buenos Aires Fine Arts – Bs. As. – Argentina.
+- 2015 :: FLAVIA (Festival Latinoamericano de Video Arte) – Video: “Tríptico de una transformación” 6’32’’ - Centro Cultural Borges – Bs. As. – Argentina.
+- 2015 :: ArteBA - Galería Laura Haber – Bs. As. – Argentina.
+- 2014 :: La noche de los artistas en Espacio AAMACLA (Asociación de amigos del MACLA) - MACLA - Museo de Arte Latinoamérica de La Plata - Bs. As. – Argentina.
+- 2014 :: MUTANTE: obras de Lorena Faccio en diálogo con el género – Fotografías y Videos: Superposición, Performatividad, Prácticas y repetición, Arquitectura corporal y Modo simultáneo - Conversan sobre la obra de Lorena Faccio y sus cruces con el género: Moira Pérez, Blas Radi y Kekena Corvalán - Centro Cultural Borges, Área de géneros en el arte – Bs. As. – Argentina.
+- 2014 :: 7×7 Muestra comentada de videoarte argentino y venezolano, Taller Intensivo de Prácticas vs Teoréticas en cruce de territorios – Videos: Frágil, Modo Simultáneo, Performatividad, Prácticas y Repetición, Roles, Superposición, Basura, Ocultar, Resurgir. Recopilación de 10 trabajos sobre el cuerpo - Centro Cultural La Pizarra – Sucre, Caracas – Venezuela.
+- 2014 :: MADI Simultáneo - Galería Arcimboldo – Bs. As. – Argentina.
+- 2014 :: Pixels of Identities, International video-art, photography, installation and performing art festival - Video “Superposición” 2’ - Laura Haber Galería – Bs. As. Argentina.
+- 2014 :: “Mensaje Geométrico 2” – “Concreto-Óptico-Madi-Geométrico” - Casa de la Cultura de San Isidro – Bs. As. – Argentina.
+- 2013 :: VIVIR sobrevivir, territorios de la precariedad – muestra organizada por AAVRA (Asociación de Artistas Visuales de la República Argentina) – Video “Frágil” 2’15’’ - Centro Cultural Recoleta – Bs. As. Argentina.
+- 2013 :: Mostra Internazionale “Segmento” Complementarità – Gallerie Art & Co.‏ - Caserta – Italia.
+- 2013 :: EGGO Feria de Arte 2013 – Galería Laura Haber – Bs. As. – Argentina.
+- 2013 :: “Geometría expandida” en torno a la sensación - Biblioteca del Congreso de La Nación – Bs. As. – Argentina.
+- 2013 :: Salón Nacional de Artes Visuales 2013 – Nuevos soportes e instalaciones - Video “Performatividad” 3’23’’ – Mención del jurado - Palais de Glace – Bs. As. Argentina.
+- 2013 :: FLAVIA (Festival Latinoamericano de Video Arte) – Video “Superposición” 2’ - Video presentado fuera de competencia - Centro Cultural Borges – Bs. As. – Argentina.
+- 2013 :: Presentación de videos de realizados en el Taller de video a cargo de Gustavo Galuppo, Hernán Khourian y Andrés Denegri en EFT – Video: “Prácticas y repetición” 9’ - Espacio Fundación Telefónica – Bs. As. – Argentina.
+- 2012 :: Remate 2012 decimotercera edición – Museo Eduardo Sívori – Bs. As. – Argentina.
+- 2012 :: Lorena Faccio, Marta Parga y Carolina San Martín - Pasaje 17 Arte Contemporáneo – Bs. As. – Argentina.
+- 2011 :: être MADI / ser MADI - RO galería de arte – Bs. As. – Argentina.
+- 2011 :: Carmelo Arden Quin & Co - Musée d'Art et d'Histoire - Ville de Cholet – Francia.
+- 2011 :: ArteBA 2011 – Galería Laura Haber – Bs. As. – Argentina.
+- 2011 :: MADI Internacional, Argentina-Uruguay-Brasil – Palais de Glace – Bs. As. – Argentina.
+- 2011 :: Conscience Polygonale, de carMelo ArDen quIn à MADI Contemporain - CIAC, Centre International d'Art Contemporain, château de Carros – Niza – Francia.
+- 2011 :: Noir et Blanc MADI - Kanalidarte Galleria d'arte moderna e contemporanea - Brescia – Italia.
+- 2010 :: Complementarità MADI - Castel dell’Ovo – Nápoles – Italia.
+- 2010 :: MADI Internacional - Centro Cultural Borges – Bs. As. – Argentina.
+- 2010 :: Galaxie des artistas MADI - Galerie Akié Arichi – París – Francia.
+- 2010 :: Colección permanente MADI Internazionale – Museo MAGI 900 – Bologna – Italia.
+- 2010 :: Geometrías 2 – RO Galería de Arte – Bs. As. – Argentina.
+- 2009 :: Galleria Marelia - Bergamo – Italia. (en permanencia).
+- 2009 :: Petits formats – Galerie Nouvellet – París – Francia.
+- 2009 :: Bichrome MADI – Centre des Arts de Montigny-le-Bretonneux – Francia.
+- 2008 :: MADI Internacional - MACLA - Museo de Arte Latinoamérica de La Plata – Bs. As. – Argentina.
+- 2008 :: Le teorie del MADI - Galleria Scoglio di Quarto – Milano – Italia.
+- 2008 :: MADI Internazionale - Galleria Pisanello della Fondazione Toniolo – Verona – Italia.
+- 2008 :: Mouvement MADI International – Maison de L’Amérique Latine – París - Francia.
+- 2007 :: Le noir et le blanc MADI – Mairie du XXº arrondissement de París – París – Francia.
+- 2007 :: Encuentro MADI - Loreto Arenas Galería de Arte – Bs. As. – Argentina.
+- 2007 :: 1ª Bienal de Arte Geométrico – MADI Internacional – Galería DHARMA Fine Arts – Bs. As.

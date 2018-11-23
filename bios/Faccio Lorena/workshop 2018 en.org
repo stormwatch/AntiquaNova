@@ -1,0 +1,87 @@
+#+TITLE: Desarrollo y concreción de proyectos
+#+SUBTITLE: Taller intensivo
+#+DATE: <2018-10-23 mar>
+#+AUTHOR: Lorena Faccio
+#+EMAIL: contacto@fundacionmusicaantiquanova.org
+#+LANGUAGE: es
+#+DESCRIPTION: Taller intensivo
+#+KEYWORDS: taller, curso, workshop
+
+https://static.wixstatic.com/media/0f23fe_31255cc3f9794735b554d700d7e0be33~mv2.jpg/v1/fill/w_719,h_509,al_c,q_85/Lorena_Faccio_-_imagen_para_FLYER_-_Foto.jpg
+
+#+BEGIN_VERSE
+*=Prof. Lorena Faccio=*
+=18–21 Diciembre=
+=Choele Choel=
+=Festival Distat Terra 2018=
+#+END_VERSE
+
+El taller propone abordar la práctica escrita como complemento de la obra con el
+objetivo de estimular y concretar la producción artística individual o
+colectiva. La comunicación de un trabajo desde el lenguaje verbal es
+imprescindible para elaborar un buen dossier o armar un proyecto. Puede ser una
+herramienta clave para esclarecer la dirección de la obra y la propuesta de cada
+uno. Es plenamente personal, porque forma parte del trabajo del artista, y por
+lo tanto poder hablar (escribir) sobre el trabajo que realizamos es parte
+fundamental del hacer obra.
+
+* Requisitos de ingreso
+Tener un proyecto para desarrollar y/o tener la necesidad de comunicar
+claramente lo que se desea decir.
+
+* Objetivos
+- Aportar las herramientas prácticas para redactar un proyecto.
+- Promover la búsqueda de los recursos conceptuales que conduzcan a la elaboración de un lenguaje personal vinculado al desarrollo de un cuerpo de obra propio.
+- Facilitar la reflexión y el intercambio con la obra de otros artistas.
+- Lograr compromiso con el trabajo.
+- Estimular la crítica y la autocrítica.
+- Desarrollar el uso de la palabra escrita como complemento de la obra.
+- Fomentar un acercamiento crítico a la obra de otros autores.
+- Incorporar el statement como forma proyectual.
+
+* Contenidos
+- Redacción para cada tipo de convocatoria.
+- Pautas y metodologías para trabajar individualmente cada proyecto.
+- Lectura y análisis conjunto de otros trabajos.
+- Ejercicios de escritura y confrontación entre texto y obra.
+
+* Unidades
+** Unidad 1
+- Presentación de los objetivos, contenidos y modalidad de trabajo.
+- Presentación entre pares :: Exposición de los proyectos, dirección que tomará
+     la obra, medios a utilizar. (Qué hago, cómo lo hago y por qué lo hago)
+- Qué es un /statement/ y por qué es importante realizarlo como complemento de
+  la obra.
+- Asignación de tarea :: Elegir un tema de interés (puede ser el mismo proyecto
+     con el que se acercaron al taller) y redactar un statement y metodología de
+     trabajo.
+
+** Unidad 2
+- Lectura de /statement/. Corrección.
+- Editar el proyecto (a dónde va la obra) :: tema, soportes, formato y medios
+     escogidos para la realización.
+- Asignación de tarea :: Corrección de guía de proyecto y statement. Redactar
+     propuesta de trabajo: Construir de un discurso claro. Armar un boceto de la
+     propuesta, puede ser una imagen, video, pintura, registro de una
+     performance, etc.
+
+** Unidad 3
+- Lectura de guía de proyecto y /statement/ corregidos.
+- Presentación de cada proyecto, lectura, justificación y debate.
+
+** Unidad 4
+Exhibición final.
+
+* Bibliografía
+- DELEUZE, Gilles :: /Pintura, El concepto de diagrama/, 2007, Editorial Cactus, fragmentos.
+- DELEUZE, Gilles :: /Francis Bacon, Lógica de la sensación/, 2002, Editorial Arena libros, fragmentos.
+- BERGER, John :: /Modos de ver/, 2010, Editorial Gustavo Gili. 2010, fragmentos. 
+- DEBRAY, Régis :: /Vida y muerte de la imagen/, 2013, Editorial Paidós, fragmentos.
+
+* Inscripción
+- Costo :: Curso gratuito.
+- Inscripción :: Escriba a [[mailto:contacto@fundacionmusicaantiquanova.org.ar][contacto@fundacionmusicaantiquanova.org]] 
+- Cierre de la inscripción :: <2018-11-30>
+# Cantidad de participantes/vacantes: 15 alumnos.
+
+#+INCLUDE: "bio 2018 es.org::default" 
