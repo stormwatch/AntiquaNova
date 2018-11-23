@@ -150,8 +150,6 @@ cuyo redescubrimiento ha hecho una contribución significativa al examen de
 mundos compositivos no europeos, especialmente la música nueva en América
 Latina, Israel y Palestina.
 
-# insertar texto sobre Argentina?
-
 # [continúa el texto de Wikipedia]
 # Para el orgánico de la composición de Edgar Varèse presentada en su concierto
 # debut /Octandre/ (siete vientos y contrabajo) —pero también para muchas otras
@@ -171,19 +169,19 @@ para la Südwestrundfunk y otras emisoras y más de veinte grabaciones en CD.
 En 2015 con la edición del CD dedicado a [[https://de.schott-music.com/shop/dedalus-invencion-nucleos-concrecion-no334747.html][Juan Carlos Paz]], comenzó una
 colaboración entre la Fundación Música AntiquaNova, Deutschlandradio y el sello
 Wergo para producir una serie de registros monográficos con música de
-compositores americanos. En 2018 se lanzó [[https://de.schott-music.com/shop/libres-en-el-sonido-no375351.html][/Libres en el Sonido/]] dedicado a
+compositores americanos. En 2018 se lanzó /[[https://de.schott-music.com/shop/libres-en-el-sonido-no375351.html][Libres en el Sonido]]/ dedicado a
 Graciela Paraskevaídis.
-# [continuo con el artículo de Wikipedia]
 
+# [continuo con el artículo de Wikipedia]
 * Premios                                                            :ignore:
 1995 el Ensemble Aventure fue galardonado con el premio Regio otorgado por la
 Economía Europea (Europäischen Wirtschaft), en 1996 y 1998 el premio de los
 críticos de Alemania (Preis der deutschen Schallplattenkritik), en 1996 y 2011
-el premio de la Fundación de Música Ernst von Siemens y en 2005
-# Wikipedia dice 2006 pero aparentemente es 2005
-en el marco del Festival de Donaueschingen (Donaueschinger Musiktage) junto con
-un grupo de estudiantes presentaron el John Cage—Projekt por el cual recibieron
-un premio del Kulturstiftung der Länder.
+el premio de la Fundación de Música Ernst von Siemens y en 2005 en el marco del
+Festival de Donaueschingen (Donaueschinger Musiktage) junto a un grupo de
+estudiantes presentaron el John Cage—Projekt /Sculptures Musicales/ por el cual
+recibieron un premio del Kulturstiftung der Länder.
+# wikipedia dice 2006 en lugar de 2005 pero el concierto fue en 2005.
 
 # * Comentarios
 # Un periódico de cultura y eventos de Freiburg caracterizó al Ensemble Aventure
@@ -191,12 +189,6 @@ un premio del Kulturstiftung der Länder.
 # excluidos por el nacionalsocialismo. Busca el contacto con la música no europea.
 # Quiere sacudirse y moverse emocionalmente, quiere aguijonear y jamás aburre».
 # [fin del artículo de Wikipedia]
-
-Se hace especial hincapié en las obras de
-# compositores perseguidos y reprimidos políticamente, cuyo redescubrimiento
-# Aventure ha hecho una contribución significativa al examen de mundos
-# compositivos no europeos, especialmente la música nueva en América Latina,
-# Israel y Palestina.
 
 # Fuente: https://www.facebook.com/events/712169548913108/
 #+BEGIN_SRC translate :src de :dest es :exports none
