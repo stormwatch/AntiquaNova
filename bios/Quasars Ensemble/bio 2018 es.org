@@ -1,0 +1,107 @@
+#+TITLE: Quasars Ensemble
+#+SUBTITLE: Trío de vientos del Ensemble Aventure
+#+DATE: <2018-11-23 vie>
+#+AUTHOR: Ezequiel Birman
+#+EMAIL: contacto@fundacionmusicaantiquanova.org
+#+LANGUAGE: es
+
+* fotos                                                              :ignore:
+#+CAPTION: Photo: Jaroslav Ľaš (2014)
+[[http://quasarsensemble.com/wp-content/uploads/2016/04/4Q1A1287.jpg]]
+
+#+CAPTION: Quasars Ensemble with Bent Sørensen
+[[http://quasarsensemble.com/wp-content/uploads/2016/04/564630_10151359752987256_163815057_n.jpg]]
+
+* integrantes
+- Andrea Mosorjaková :: flauta
+- Mónika Csonka :: oboe
+- Martin Mosorjak :: clarinete
+- Hunor Varga :: corno
+- Attila Janko :: fagot
+- István Siket :: trompeta
+- Tamás Schlanger :: percusión
+- Diana Buffa :: piano
+- Bojidara Kouzmanova-Vladar :: violín
+- Peter Mosorjak :: violín
+- Daniel Moser :: viola
+- Ján Bogdan :: violoncello
+- Marián Bujňák :: contrabajo
+- Ivan Buffa :: director artístico
+
+* bio                                                                :ignore:
+#+BEGIN_SRC translate :src en :dest es :exports none
+Quasars Ensemble, established in 2008, is a music ensemble, unique in its
+breadth of the repertoire consisting of contemporary classical music as well as
+of the music of the past eras. It confronts the latest contemporary works with
+the structural principles of the foregone classical music. The orchestra’s focus
+is on the introduction of rare and forgotten ensemble pieces, particularly by
+the Slovak authors.
+
+The ensemble performed concert works of some of the world’s most influential
+contemporary music composers such as Bent Sørensen, Michael Jarrell, Kaija
+Saariaho and Toshio Hosokowa with composers themselves in attendance.
+
+Quasars Ensemble cooperated with artists like Camilla Hoitenga (flute) Mario
+Caroli (flute), Dalibor Karvay (violin), Lionel Peintre (barytone) Sergej Kopčák
+(bass) and Stephan Loges (barytone).
+
+In 2012, Quasars Ensemble was selected to take part in International Summer
+Course for New Music in Darmstadt, Germany, considered to be the most
+prestigious contemporary music event in the world.
+
+In addition, Quasars performed at Música Viva in Lisbon, Arcus Temporum in
+Pannonhalma, at Warsaw Autumn Festival and at Ostrava Days Festival, among
+others. It had the honor to play at Flagey in Brussels and at Gasteig in Munich.
+In Slovakia, it is a regular guest at festivals such as Bratislava Music
+Festival and Melos-Ethos.
+
+Quasars Ensemble has been the resident ensemble of the Kasárne/Kulturpark
+Cultural Center in Košice. Its concert cycle was an essential element in the
+European Capital of Culture 2013 and ISCM Music World Days 2013 projects in the
+city. In a unique arrangement, the Slovak Philharmonic Orchestra hosted Quasars
+as its soloist performing Ivan Buffa’s „Organismi“.
+
+Quasars Ensemble has a recording contract with Hevhetia Recording Company. Their
+album containing pieces by Schönberg, Albrecht and Hindemith, who are considered
+the founding fathers of the chamber symphony, was awarded with the most
+prominent artistic award in Slovakia – Krištálové krídlo (Crystal Wing).
+Harmonie, a prestigious Czech music magazine, gave their recording of the works
+of Mahler, Debussy, Albrecht and Poulenc its „Editor’s Choice“ award and a
+six-star rating.
+#+END_SRC
+
+Quasars Ensemble, establecido en 2008, es un conjunto de música único en su
+amplitud de repertorio, compuesto por música clásica contemporánea y música de
+épocas pasadas. Confronta las últimas obras contemporáneas con los principios
+estructurales de la música clásica perdida. El enfoque de la orquesta está en la
+presentación de piezas de cámara raras y olvidadas, particularmente de autores
+eslovacos.
+
+El conjunto tuvo a algunos de los compositores más influyentes del mundo entre
+su audiencia al momento de interpretar su música; por ejemplo: Bent Sørensen,
+Michael Jarrell, Kaija Saariaho y Toshio Hosokowa.
+
++Colaboraron ​​con artistas como Camilla Hoitenga (flauta) Mario Caroli (flauta),
+Dalibor Karvay (violín), Lionel Peintre (barítono) Sergej Kopčák (bajo) y
+Stephan Loges (barítono).+ En 2012 fueron seleccionados para participar en el
+Curso de Verano de Darmstadt +considerado el evento de música contemporánea más
+prestigioso del mundo+. Se presentaron en Música Viva (Lisboa), Arcus Temporum
+(Pannonhalma, Hungría), en el Festival de Otoño de Varsovia y en el destival
+Ostrava Days, entre otros. Tuvieron el honor de tocar en la plaza Flagey
+(Bruselas) y en el centro cultural Gasteig (Munich). Son invitados habitualmente
+a los festivales Bratislava Music Festival y Melos-Étos (Eslovaquia).
+
+Ha sido el conjunto residente del centro cultural Kasárne/Kulturpark (Košice).
+Su ciclo de conciertos fue clave en los proyectos de la Capital Europea de la
+Cultura 2013 e ISCM Music World Days 2013 en la ciudad. En un arreglo único, la
+orquesta filarmónica eslovaca acogió al Quasars como solista en la
+interpretación de /Organismi/ de Ivan Buffa. Tienen un contrato de grabación con
+el sello Hevhetia. Su álbum que contiene piezas de Schönberg, Albrecht y
+Hindemith +, que son considerados los padres fundadores de la sinfonía de
+cámara,+ fue galardonado con el premio artístico más destacado de Eslovaquia:
+Krištálové krídlo (Ala de cristal). /Harmonie/, una prestigiosa revista de
+música checa otorgó a su grabación de las obras de Mahler, Debussy, Albrecht y
+Poulenc el premio Elección del Editor y obtuvo la máxima calificación de seis
+estrellas.
+
+[[http://quasarsensemble.com/]]
