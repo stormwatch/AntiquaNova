@@ -1,0 +1,6 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:nil
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:nil e:t
+#+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil stat:t tags:nil
+#+OPTIONS: tasks:t tex:t timestamp:nil title:t toc:nil todo:nil |:t
+#+OPTIONS: html5-fancy:t
+#+HTML_DOCTYPE: html5

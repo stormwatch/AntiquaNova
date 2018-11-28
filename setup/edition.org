@@ -1,0 +1,15 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: broken-links:mark c:t creator:t d:(not "LOGBOOK") date:t e:t
+#+OPTIONS: email:t f:t inline:t num:t p:t pri:t prop:t stat:t tags:t
+#+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
+#+AUTHOR: Ezequiel Birman
+#+EMAIL: ebirman77@gmail.com
+#+LANGUAGE: es
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.14)
+
+#+OPTIONS: html-scripts:t html-style:t html5-fancy:t
+#+HTML_DOCTYPE: html5
+
+#+PROPERTY: header-args :file-desc "html"
