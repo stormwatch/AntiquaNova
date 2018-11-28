@@ -1,0 +1,32 @@
+#+SUBTITLE: Compositor y director
+#+DESCRIPTION: biografía
+#+KEYWORDS: música, composición, dirección
+#+LANGUAGE: es
+#+SETUPFILE: ../../setup/tangle.org
+#+TITLE: Ivan Buffa
+[[http://quasarsensemble.com/wp-content/uploads/2016/02/dirigent.jpg]]
+
+Ivan Buffa, considerado como uno de los principales artístas de música clásica
+en Eslovaquia, es el director artístico del Quasars Ensemble desde 2008.
+
+Estudió piano y composición en Bratislava y en la Universidad de Música y Arte
+Dramático de Viena con Michael Jarrell.
+
+Sus obras ya se han escuchado en numerosos festivales como Wien Modern, Takefu
+International Music Festival, Tage der Neuen Musik Bamberg, Ostrava Days,
+Muzički Biennale Zagreb, ISCM World Music Days 2015 en Ljublana, Melos-Étos
+Bratislava y otros.
+
+En 2007, Ivan Buffa recibió el premio Ján Levoslav Bella por su composición
+titulada /Ritual/, que se realizó en el Festival Aspekte en Salzburgo.
+
+Como director y pianista, grabó diez CD con música del siglo XX y presentó más
+de cien piezas eslovacas. Como director, tiene un amplio repertorio, que va desde
+el romanticismo tardío a lo largo del impresionismo, el neoclasicismo, el
+expresionismo, la vanguardia de la posguerra hasta las obras recientes. Además
+de actuar con todas las orquestas de cámara del estado en Eslovaquia, también
+colaboró ​​con la Sinfónica de Bamberg.
+
+Ivan Buffa es el Director de la Asociación de Compositores Eslovacos y miembro
+de numerosos comités de festivales. También enseña composición en la Academia de
+Artes Escénicas de Bratislava.

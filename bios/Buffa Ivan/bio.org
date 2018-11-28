@@ -1,0 +1,97 @@
+#+TITLE: Ivan Buffa
+#+SUBTITLE: Biografía
+#+DATE: <2018-11-23 vie>
+#+SETUPFILE: ../../setup/edition.org
+
+* Foto
+#+name: foto
+#+BEGIN_SRC org
+  [[http://quasarsensemble.com/wp-content/uploads/2016/02/dirigent.jpg]]
+#+END_SRC
+
+#+BEGIN_SRC org :noweb yes :noweb-ref common :exports none
+  ,#+SETUPFILE: ../../setup/tangle.org
+  ,#+TITLE: Ivan Buffa
+  <<foto>>
+#+END_SRC
+
+* Bio de la web de [[http://quasarsensemble.com/ensemble/ivan-buffa/][Quasars]]
+** español
+#+BEGIN_SRC org :noweb yes :exports results :results file replace :file bio es.org :tangle yes
+  ,#+SUBTITLE: Compositor y director
+  ,#+DESCRIPTION: biografía
+  ,#+KEYWORDS: música, composición, dirección
+  ,#+LANGUAGE: es
+  <<common>>
+
+  <<text es>>
+#+END_SRC
+
+#+BEGIN_SRC org :noweb-ref text es
+  Ivan Buffa, considerado como uno de los principales artístas de música clásica
+  en Eslovaquia, es el director artístico del Quasars Ensemble desde 2008.
+
+  Estudió piano y composición en Bratislava y en la Universidad de Música y Arte
+  Dramático de Viena con Michael Jarrell.
+
+  Sus obras ya se han escuchado en numerosos festivales como Wien Modern, Takefu
+  International Music Festival, Tage der Neuen Musik Bamberg, Ostrava Days,
+  Muzički Biennale Zagreb, ISCM World Music Days 2015 en Ljublana, Melos-Étos
+  Bratislava y otros.
+
+  En 2007, Ivan Buffa recibió el premio Ján Levoslav Bella por su composición
+  titulada /Ritual/, que se realizó en el Festival Aspekte en Salzburgo.
+
+  Como director y pianista, grabó diez CD con música del siglo XX y presentó más
+  de cien piezas eslovacas. Como director, tiene un amplio repertorio, que va desde
+  el romanticismo tardío a lo largo del impresionismo, el neoclasicismo, el
+  expresionismo, la vanguardia de la posguerra hasta las obras recientes. Además
+  de actuar con todas las orquestas de cámara del estado en Eslovaquia, también
+  colaboró ​​con la Sinfónica de Bamberg.
+
+  Ivan Buffa es el Director de la Asociación de Compositores Eslovacos y miembro
+  de numerosos comités de festivales. También enseña composición en la Academia de
+  Artes Escénicas de Bratislava.
+#+END_SRC
+
+** inglés
+Sólo para referencia. No va en el folleto.
+#+BEGIN_SRC org :noweb-ref text en
+  Ivan Buffa, who is considered one of the leading classical music artists in
+  Slovakia, has been the artistic director of Quasars Ensemble since 2008.
+
+  He studied piano and composition in Bratislava and in Vienna at Universität
+  für Musik und darstellende Kunst, taught by Prof. Michael Jarrell.
+
+  His works have already been heard at many festivals such as Wien Modern, Takefu
+  International Music Festival, Tage der Neuen Musik Bamberg, Ostrava Days,
+  Muzički Biennale Zagreb, ISCM World Music Days 2015 in Ljublana, Melos-Étos
+  Bratislava and others.
+
+  In 2007, Ivan Buffa has been awarded the Ján Levoslav Bella prize for his
+  composition titled /Ritual/, which was performed at the Aspekte Festival in
+  Salzburg, Austria.
+
+  As a conductor and pianist, he has recorded ten CDs with XXth century music and
+  presented more than a hundred Slovak pieces. As a conductor, he has a wide
+  repertoire, ranging from late romanticism throughout impressionism,
+  neoclassicism, expressionism, post-war avant-garde to the recent works. Apart
+  from performing with all the state chamber orchestras in Slovakia, he also
+  cooperated with Bamberg Symphony.
+
+  Ivan Buffa is the Head of the Association of Slovak Composers and a member of
+  numerous festival committees. He also teaches composition at The Academy of
+  Performing Arts in Bratislava.
+#+END_SRC
+
+
+
+#+BEGIN_SRC org :noweb yes :exports none :results file :file bio en.org :tangle yes
+  ,#+SUBTITLE: Composer and Conductor
+  ,#+LANGUAGE: en
+  ,#+DESCRIPTION: biography
+  ,#+KEYWORDS: music, composition, conducting
+  <<common>>
+
+  <<text en>>
+ #+END_SRC
