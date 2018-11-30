@@ -1,0 +1,38 @@
+#+SUBTITLE: Flautas
+#+LANGUAGE: es
+#+DESCRIPTION: biografía
+#+KEYWORDS: música, flauta
+#+SETUPFILE: ../../setup/tangle.org
+#+TITLE: Carolin Ralser
+[[http://www.chromoson.cc/wp-content/uploads/2015/06/carolin-ralser.png]]
+
+Carolin Ralser estudió interpretación musical (flauta), educación musical,
+música de cámara y música contemporánea en las universidades de música y artes
+escénicas de Graz, Viena, Friburgo i.Br. y Frankfurt a. Principal, donde estudió
+con Dieter Flury (flauta principal, Orquesta Filarmónica de Viena), Felix
+Renggli, Thaddeus Watson (Orquesta Principal de Fráncfort Piccolo) y Dietmar
+Wiesner (Ensemble Modern) y completó sus estudios de maestría con distinción.
+
+Carolin ganó el primer premio en el Concurso Internacional de Flauta Friedrich
+Kuhlau y recibió varias becas y becas, es decir, de la Orquesta Filarmónica de
+Viena y la International Ensemble Modern Academy 2011/12 en Frankfurt. Tocó
+actuaciones y conciertos en festivales y series de conciertos como Salzburger
+Festspiele, Attergau Music Festival, ROT - Festival für aktuelle Musik y audio
+Art, cresc… Biennale Frankfurt aM, Transart Festival Bolzano, Klangspuren
+Schwaz, Manifeste festival en IRCAM París, ITYCP Hongkong, Darmst Festival
+Ferienkurse für Neue Musik, Festival Royaumont, HöRBAR! Tag der Neuen Musik, et
+al .. Su gran interés por la música contemporánea y experimental se debió a
+numerosas clases magistrales, entre ellas el Ensemble recherche, el Klangforum
+Wien y el Ensemble Modern. Fue directora de flauta de la Orquesta Sinfónica de
+Guiyang en 2012-13, y actualmente trabaja como miembro y músico invitado en
+varias orquestas y conjuntos como el Ensemble Modern Frankfurt. Carolin es
+miembro fundador de chromoson, un conjunto dedicado a la generación y promoción
+de la música y el arte contemporáneos, así como la Conexión de Compositores
+Austriacos - Hong Kong. En el campo de la educación, Carolin se especializa en
+música contemporánea para jóvenes y audiencias, componiendo piezas
+contemporáneas para niños y también impartiendo conferencias y talleres sobre
+enseñanza de música contemporánea, improvisación y composición elemental.
+Carolin es profesora en la Universidad Mozarteum Salzburg / Innsbruck,
+entrenando conjuntos de música contemporánea, y además es candidata a doctor en
+la Universidad de Música y Teatro de Munich en el campo de la Investigación de
+la Creatividad y la Composición Elemental.

@@ -1,0 +1,116 @@
+#+TITLE: Carolin Ralser
+#+SUBTITLE: Biografía
+#+DATE: <2018-11-23 vie>
+#+SETUPFILE: ../../setup/edition.org
+
+* Fotos                                                              :ATTACH:
+  :PROPERTIES:
+  :ID:       10123e19-99fd-4be6-8d00-a5fc0c4c5f72
+  :Attachments: carolin-ralser_2018-11-30_16-09-27.png 22_750x410_2018-11-30_16-14-05.jpg
+  :END:
+#+DOWNLOADED: http://www.chromoson.cc/wp-content/uploads/2015/06/carolin-ralser.png @ 2018-11-30 16:09:27
+# [[file:../../../../Im%C3%A1genes/Antiqu%C3%A6%20Nov%C3%A6/personas/10/123e19-99fd-4be6-8d00-a5fc0c4c5f72/carolin-ralser_2018-11-30_16-09-27.png]]
+#+name: foto1
+#+BEGIN_SRC org
+  [[http://www.chromoson.cc/wp-content/uploads/2015/06/carolin-ralser.png]]
+#+END_SRC
+
+
+#+DOWNLOADED: http://www.alpenclassicafestival.com/_files/f_media/2016/03/22_750x410.jpg @ 2018-11-30 16:14:05
+[[# file:../../../../Im%C3%A1genes/Antiqu%C3%A6%20Nov%C3%A6/personas/10/123e19-99fd-4be6-8d00-a5fc0c4c5f72/22_750x410_2018-11-30_16-14-05.jpg]]
+* Bios
+** Opciones y foto
+ #+BEGIN_SRC org :noweb yes :noweb-ref common :exports none
+   ,#+SETUPFILE: ../../setup/tangle.org
+   ,#+TITLE: Carolin Ralser
+   <<foto1>>
+ #+END_SRC
+
+** De [[http://www.alpenclassicafestival.com/en/artist/carolin-ralser][Alpen Classica]]
+*** español
+ #+BEGIN_SRC org :noweb yes :exports results :results file replace :file bio es.org :tangle bio es.org
+   ,#+SUBTITLE: Flautas
+   ,#+LANGUAGE: es
+   ,#+DESCRIPTION: biografía
+   ,#+KEYWORDS: música, flauta
+   <<common>>
+
+   <<text es>>
+  #+END_SRC
+ 
+#+BEGIN_SRC org :noweb-ref text es
+   Carolin Ralser estudió interpretación musical (flauta), educación musical,
+   música de cámara y música contemporánea en las universidades de música y artes
+   escénicas de Graz, Viena, Friburgo i.Br. y Frankfurt a. Principal, donde estudió
+   con Dieter Flury (flauta principal, Orquesta Filarmónica de Viena), Felix
+   Renggli, Thaddeus Watson (Orquesta Principal de Fráncfort Piccolo) y Dietmar
+   Wiesner (Ensemble Modern) y completó sus estudios de maestría con distinción.
+
+   Carolin ganó el primer premio en el Concurso Internacional de Flauta Friedrich
+   Kuhlau y recibió varias becas y becas, es decir, de la Orquesta Filarmónica de
+   Viena y la International Ensemble Modern Academy 2011/12 en Frankfurt. Tocó
+   actuaciones y conciertos en festivales y series de conciertos como Salzburger
+   Festspiele, Attergau Music Festival, ROT - Festival für aktuelle Musik y audio
+   Art, cresc… Biennale Frankfurt aM, Transart Festival Bolzano, Klangspuren
+   Schwaz, Manifeste festival en IRCAM París, ITYCP Hongkong, Darmst Festival
+   Ferienkurse für Neue Musik, Festival Royaumont, HöRBAR! Tag der Neuen Musik, et
+   al .. Su gran interés por la música contemporánea y experimental se debió a
+   numerosas clases magistrales, entre ellas el Ensemble recherche, el Klangforum
+   Wien y el Ensemble Modern. Fue directora de flauta de la Orquesta Sinfónica de
+   Guiyang en 2012-13, y actualmente trabaja como miembro y músico invitado en
+   varias orquestas y conjuntos como el Ensemble Modern Frankfurt. Carolin es
+   miembro fundador de chromoson, un conjunto dedicado a la generación y promoción
+   de la música y el arte contemporáneos, así como la Conexión de Compositores
+   Austriacos - Hong Kong. En el campo de la educación, Carolin se especializa en
+   música contemporánea para jóvenes y audiencias, componiendo piezas
+   contemporáneas para niños y también impartiendo conferencias y talleres sobre
+   enseñanza de música contemporánea, improvisación y composición elemental.
+   Carolin es profesora en la Universidad Mozarteum Salzburg / Innsbruck,
+   entrenando conjuntos de música contemporánea, y además es candidata a doctor en
+   la Universidad de Música y Teatro de Munich en el campo de la Investigación de
+   la Creatividad y la Composición Elemental.
+ #+END_SRC
+
+*** inglés
+ Sólo para referencia. No va en el folleto.
+ #+BEGIN_SRC org :noweb yes :exports none :results file :file bio en.org :tangle bio en.org
+   ,#+SUBTITLE: Flutes
+   ,#+LANGUAGE: en
+   ,#+DESCRIPTION: biography
+   ,#+KEYWORDS: music, flute
+   <<common>>
+
+   <<text en>>
+  #+END_SRC
+
+ #+BEGIN_SRC org :noweb-ref text en
+   Carolin Ralser studied Music Performance (flute), Music Education, Chamber music
+   and Contemporary music at the Universities of Music and Performing Arts of Graz,
+   Vienna, Freiburg i.Br. and Frankfurt a. Main, where she studied with Dieter
+   Flury (Principal flute, Vienna Philharmonic Orchestra), Felix Renggli, Thaddeus
+   Watson (Principal Piccolo HR Orchestra Frankfurt) und Dietmar Wiesner (Ensemble
+   Modern) and completed her master studies with distinction.
+
+   Carolin was 1st prize winner at the International Flute Competition Friedrich
+   Kuhlau and received various grants and scholarships, i.e. from the Vienna
+   Philharmonic Orchestra and the International Ensemble Modern Academy 2011/12 in
+   Frankfurt/Main. Performances and Concerts at festivals and concert series such
+   as Salzburger Festspiele, Attergau Music Festival, ROT – Festival für aktuelle
+   Musik and audio Art, cresc… Biennale Frankfurt a.M, Transart Festival Bolzano,
+   Klangspuren Schwaz, Manifeste festival at IRCAM Paris, ITYCP Hongkong,
+   Darmstädter Ferienkurse für Neue Musik, Festival Royaumont, HöRBAR! Tag der
+   Neuen Musik,et al.. Her deep interest in contemporary and experimental music was
+   raised by numerous master classes, among them the Ensemble recherche, the
+   Klangforum Wien and the Ensemble Modern. She was Principal flute player of the
+   Guiyang Symphony orchestra in 2012-13, and currently works as a member and guest
+   musician in various orchestras and ensembles such as the Ensemble Modern
+   Frankfurt. Carolin is founding member of chromoson, an ensemble dedicated to the
+   generation and promotion of contemporary music and art, as well as the
+   Austrian - Hong Kong Composers Connection. In the field of education Carolin
+   specializes in contemporary music for young players and audiences, composing
+   contemporary pieces for children and giving also lectures and workshops on
+   teaching contemporary music, improvisation and elementary composing. Carolin is
+   Lecturer at the University Mozarteum Salzburg/Innsbruck, coaching contemporary
+   music ensembles, further she is a doctoral candidate at the University of Music
+   and Theatre Munich in the field of Creativity Research and Elementary Composing.
+ #+END_SRC
