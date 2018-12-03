@@ -11,7 +11,7 @@ análisis en tiempo, espacio y frecuencia de sonido del árbol en sí. Un árbol
 muerto puede pudrirse o puede convertirse en un artefacto. ¿Cómo sonaría si se
 convirtiera en un instrumento musical? ¿Qué pasaría si cortáramos el árbol a
 diferentes alturas y hiciéramos un tubo resonante con él? La distancia de cada
-altavoz desde la raíz determina la frecuencia que emitirá. Pequeño instrumento,
+altavoz desde la raíz determina la frecuencia que emitirá. Instrumento pequeño,
 tono más agudo; Instrumento grande, tono más grave. En total, los veinte
 parlantes crean un espectro virtual, siempre cambiante y al mismo estático,
 derivado de una característica física incidental, aunque muy concreta.
