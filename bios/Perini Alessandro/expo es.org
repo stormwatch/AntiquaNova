@@ -1,0 +1,52 @@
+#+SUBTITLE: Instalación sonora
+#+LANGUAGE: es
+#+DESCRIPTION: instalación sonora
+#+KEYWORDS: música, instalación
+
+#+SETUPFILE: ../../setup/tangle.org
+#+TITLE:  Dead Tree Spectrum
+
+20 micro parlantes están incrustados en un árbol muerto, lo que determina un
+análisis en tiempo, espacio y frecuencia de sonido del árbol en sí. Un árbol
+muerto puede pudrirse o puede convertirse en un artefacto. ¿Cómo sonaría si se
+convirtiera en un instrumento musical? ¿Qué pasaría si cortáramos el árbol a
+diferentes alturas y hiciéramos un tubo resonante con él? La distancia de cada
+altavoz desde la raíz determina la frecuencia que emitirá. Pequeño instrumento,
+tono más agudo; Instrumento grande, tono más grave. En total, los veinte
+parlantes crean un espectro virtual, siempre cambiante y al mismo estático,
+derivado de una característica física incidental, aunque muy concreta.
+
+| Distancia desde la raíz (cm) | Parlante | Frecuencia Fundamental (Hz) |
+|------------------------------+----------+-----------------------------|
+|                          130 | 1a       |                  58,6481249 |
+|                          136 | 1b       |                 56,34144423 |
+|                              |          |                             |
+|                          190 | 2a       |                 41,61179751 |
+|                          198 | 2b       |                  40,0602185 |
+|                              |          |                             |
+|                          252 | 3a       |                 32,00497483 |
+|                          260 | 3b       |                 31,07914606 |
+|                              |          |                             |
+|                          313 | 4a       |                 26,08086129 |
+|                          324 | 4b       |                 25,23843642 |
+|                              |          |                             |
+|                          376 | 5a       |                 21,89518841 |
+|                          385 | 5b       |                 21,40445073 |
+|                              |          |                             |
+|                          439 | 6a       |                 18,86722043 |
+|                          447 | 6b       |                 18,54160914 |
+|                              |          |                             |
+|                          500 | 7a       |                 16,63917669 |
+|                          508 | 7b       |                 16,38541079 |
+|                              |          |                             |
+|                          560 | 8a       |                 14,90758856 |
+|                          568 | 8b       |                 14,70356786 |
+|                              |          |                             |
+|                          621 | 9a       |                 13,48125329 |
+|                          630 | 9b       |                 13,29359433 |
+|                              |          |                             |
+|                          685 | 10a      |                 12,25140831 |
+|                          695 | 10b      |                 12,07922963 |
+|                              |          |                             |
+
+ 
