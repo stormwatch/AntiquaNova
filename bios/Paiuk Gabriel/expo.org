@@ -1,0 +1,165 @@
+#+TITLE: Res Extensa
+#+SUBTITLE: Instalación sonora
+#+DATE: <2018-12-04> 
+#+SETUPFILE: ../../setup/edition.org
+
+* Opciones y texto común
+#+BEGIN_SRC org :noweb yes :noweb-ref common :exports none
+  ,#+SETUPFILE: ../../setup/tangle.org
+  ,#+TITLE: Res Extensa
+  ,#+AUTHOR: Gabriel Paiuk
+#+END_SRC
+
+* Teto del autor :ATTACH:
+  :PROPERTIES:
+  :Attachments: Res%20Extensa%20(by%20Gabriel%20Paiuk)%20(ENG).pdf
+  :ID:       e3ad8453-fbff-42bf-9cd1-ee46a9871a22
+  :END:
+
+#+BEGIN_SRC org :noweb yes :exports results :results file replace :file expo es.org :tangle yes
+  ,#+SUBTITLE: Instalación sonora
+  ,#+DESCRIPTION: instalción sonora
+  ,#+KEYWORDS: música, composición, instalación
+  ,#+LANGUAGE: es
+  <<common>>
+
+  <<text es>>
+#+END_SRC
+
+#+BEGIN_SRC org :noweb-ref text en :exports none
+  Res Extensa – Sound installation by Gabriel Paiuk
+
+  Res Extensa is a work based on the superposition and juxtaposition of different
+  layers of sound “registers”.
+
+  These registers are layers of sound materials diversely related to our everyday
+  sound environment and coming from different origins: marginal sounds from
+  electric devices, analogue sources, field recordings, amplification of
+  microsounds, recordings of machine noises, digital “errors” and “distant”
+  musics.
+
+  Within our sound environment a great variety of matters, articulations and
+  nuances, including the aural experience of “recorded sound”, nurture our feeling
+  and understanding of the world, constitute our “perceptive skin”. The sounds
+  that form Res Extensa act like extracts of this vibrational experience, our
+  shared surface of perception, feeling and thought. These sounds do not carry a
+  traditionally codified expressive meaning, but an affective and tactile charge
+  related to what we are exposed to, an emotional register linked to our everyday
+  experience.
+
+  The basis of the piece is to operate on these matters, unfold, friction and
+  break them up to build a sensitive whole and reach a point in which they are not
+  linked to their habitual schemes but are rather exposed in their affective
+  characters and our connection to them.
+
+  Res Extensa has been awarded the Gaudeamus 2006 composition prize
+  (www.gaudeamus.nl). It was realized at the Muziekgebouw aant’ Ij in Amsterdam,
+  The Netherlands during september 2006.
+
+  The stereo version has been edited by Sedimental Recordings [[www.sedimental.com]]
+
+  [[www.gabrielpaiuk.com]]
+
+  Res Extensa – Technical description
+
+  Res Extensa is a sound installation based on a 40 minute sound material which
+  plays without interruption as a loop throughout the whole available time of the
+  installation (It can extend from a recommended minimum of 4 hours to various
+  days). The sound material is devised to use 6 discrete spatialised channels (4
+  main channels, equidistant, and two auxiliary ones – see floor plan below).
+
+  The people who attend the installation can walk in and out of it, sit, stand,
+  lie on the floor or walk through it freely and for an indeterminate lapse of
+  time, there is no set start or beginning. It is advised, nevertheless, that that
+  duration of the stay shall not be too short, in order to be able to experience
+  the temporal proposal of the work.
+
+  The basic technical requirements to carry out the installation are the
+  following:
+
+    - a space acoustically isolated from the outside (ideally around 8*12 meters,
+      though it can vary)
+    - that the space may be (at least partially) free of objects and obstacles,
+      thus allowing the public to move freely, and the possibility to set some
+      chairs and benches on particular places, without a unique front, that will
+      also offer the public the chance to stay seated.
+    - the required sound equipment to reproduce the 4 2 channel system (it could
+      be reduced to only 4 depending on the specific conditions of the room). The
+      amplifier and loudspeaker power will be dependant on the room’s size.
+
+  It is recommended that the space where the installation is to take place shall
+  be free of excesive visual stimuli, and that it would ideally count on the
+  possibility of a basic light design that might help create an adequate situation
+  for neuter, concentrated listening (neither very dark nor too bright) The
+  edited, stereo version of the work is conceived as the “private” version of it,
+  to be listened to individually in a personal audio system.
+#+END_SRC
+
+#+BEGIN_SRC org :noweb-ref text es
+  /Res Extensa/ es una obra basada en la superposición y la yuxtaposición de
+  diferentes capas de «registros» sonoros.
+
+  Estos registros son capas de materiales sonoros que se relacionan de manera
+  diversa con nuestro entorno sonoro cotidiano y que provienen de diferentes
+  orígenes: sonidos marginales de dispositivos eléctricos, fuentes analógicas,
+  grabaciones de campo, amplificación de micro-sonidos, grabaciones de ruidos de
+  máquinas, «errores» digitales y músicas «distantes».
+
+  Dentro de nuestro entorno de sonido, una gran variedad de asuntos,
+  articulaciones y matices, incluida la experiencia auditiva de «sonido grabado»,
+  nutren nuestro sentimiento y comprensión del mundo, constituyen nuestra «piel
+  perceptiva». Los sonidos que forman Res Extensa actúan como extractos de esta
+  experiencia vibratoria, nuestra superficie compartida de percepción, sentimiento
+  y pensamiento. Estos sonidos no conllevan un significado expresivo
+  tradicionalmente codificado, sino una carga afectiva y táctil relacionada con lo
+  que estamos expuestos, un registro emocional vinculado a nuestra experiencia
+  cotidiana.
+
+  La base de la pieza es operar sobre estos asuntos, desplegarlos, refregarlos y
+  romperlos para construir un todo sensible y llegar a un punto en el que no estén
+  vinculados a sus esquemas habituales, sino que estén más bien expuestos en sus
+  personajes afectivos y nuestra conexión con ellos.
+
+  Res Extensa ha sido galardonada con el premio de composición Gaudeamus 2006
+  [[www.gaudeamus.nl]]. Se realizó en el Muziekgebouw aant ’Ij en Ámsterdam,
+  Países Bajos, en septiembre de 2006.
+
+  La versión estéreo ha sido editada por Sedimental Recordings (www.sedimental.com)
+
+  [[www.gabrielpaiuk.com]]
+
+  ,* Descripción técnica
+
+  /Res Extensa/ es una instalación de sonido basada en un material de sonido de 40
+  minutos que se reproduce sin interrupción como un bucle durante todo el tiempo
+  disponible de la instalación (puede extenderse desde un mínimo recomendado de 4
+  horas hasta varios días). El material de sonido está diseñado para utilizar 6
+  canales espacializados discretos (4 canales principales, equidistantes y dos
+  auxiliares; consulte el plano del piso a continuación).
+
+  Las personas que asisten a la instalación pueden entrar y salir de ella,
+  sentarse, pararse, tumbarse en el piso o caminar libremente por ella y, por un
+  lapso de tiempo indeterminado, no hay un inicio ni un comienzo establecidos. Se
+  aconseja, sin embargo, que la duración de la estancia no sea demasiado breve,
+  para poder experimentar la propuesta temporal de la obra.
+
+  Los requisitos técnicos básicos para llevar a cabo la instalación son los siguientes:
+
+    - Un espacio aislado acústicamente del exterior (idealmente alrededor de 8 *
+      12 metros, aunquepuede variar).
+    - Que el espacio esté (al menos parcialmente) libre de objetos y obstáculos,
+      permitiendo así que el público se mueva libremente, y la posibilidad de
+      colocar algunas sillas y bancos en lugares particulares, sin un frente
+      único, que también ofrezca al público oportunidad de permanecer sentado.
+    - El equipo de sonido requerido para reproducir el sistema de 4 + 2 canales
+      (podría reducirse a solo 4 dependiendo de las condiciones específicas de la
+      sala). La potencia del amplificador y del altavoz dependerá del tamaño de la
+      habitación.
+
+  Se recomienda que el espacio donde se lleve a cabo la instalación esté libre de
+  estímulos visuales excesivos y que, idealmente, cuente con la posibilidad de un
+  diseño de luz básico que pueda ayudar a crear una situación adecuada para una
+  escucha concentrada y neutra (ni mucho menos). oscuro ni demasiado brillante)La
+  versión estéreo editada de la obra está concebida como la versión "privada" de
+  la misma, para ser escuchada individualmente en un sistema de audio personal.
+#+END_SRC

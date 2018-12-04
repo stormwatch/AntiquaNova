@@ -1,0 +1,74 @@
+#+SUBTITLE: Instalación sonora
+#+DESCRIPTION: instalción sonora
+#+KEYWORDS: música, composición, instalación
+#+LANGUAGE: es
+#+SETUPFILE: ../../setup/tangle.org
+#+TITLE: Res Extensa
+#+AUTHOR: Gabriel Paiuk
+
+/Res Extensa/ es una obra basada en la superposición y la yuxtaposición de
+diferentes capas de «registros» sonoros.
+
+Estos registros son capas de materiales sonoros que se relacionan de manera
+diversa con nuestro entorno sonoro cotidiano y que provienen de diferentes
+orígenes: sonidos marginales de dispositivos eléctricos, fuentes analógicas,
+grabaciones de campo, amplificación de micro-sonidos, grabaciones de ruidos de
+máquinas, «errores» digitales y músicas «distantes».
+
+Dentro de nuestro entorno de sonido, una gran variedad de asuntos,
+articulaciones y matices, incluida la experiencia auditiva de «sonido grabado»,
+nutren nuestro sentimiento y comprensión del mundo, constituyen nuestra «piel
+perceptiva». Los sonidos que forman Res Extensa actúan como extractos de esta
+experiencia vibratoria, nuestra superficie compartida de percepción, sentimiento
+y pensamiento. Estos sonidos no conllevan un significado expresivo
+tradicionalmente codificado, sino una carga afectiva y táctil relacionada con lo
+que estamos expuestos, un registro emocional vinculado a nuestra experiencia
+cotidiana.
+
+La base de la pieza es operar sobre estos asuntos, desplegarlos, refregarlos y
+romperlos para construir un todo sensible y llegar a un punto en el que no estén
+vinculados a sus esquemas habituales, sino que estén más bien expuestos en sus
+personajes afectivos y nuestra conexión con ellos.
+
+Res Extensa ha sido galardonada con el premio de composición Gaudeamus 2006
+[[www.gaudeamus.nl]]. Se realizó en el Muziekgebouw aant ’Ij en Ámsterdam,
+Países Bajos, en septiembre de 2006.
+
+La versión estéreo ha sido editada por Sedimental Recordings (www.sedimental.com)
+
+[[www.gabrielpaiuk.com]]
+
+* Descripción técnica
+
+/Res Extensa/ es una instalación de sonido basada en un material de sonido de 40
+minutos que se reproduce sin interrupción como un bucle durante todo el tiempo
+disponible de la instalación (puede extenderse desde un mínimo recomendado de 4
+horas hasta varios días). El material de sonido está diseñado para utilizar 6
+canales espacializados discretos (4 canales principales, equidistantes y dos
+auxiliares; consulte el plano del piso a continuación).
+
+Las personas que asisten a la instalación pueden entrar y salir de ella,
+sentarse, pararse, tumbarse en el piso o caminar libremente por ella y, por un
+lapso de tiempo indeterminado, no hay un inicio ni un comienzo establecidos. Se
+aconseja, sin embargo, que la duración de la estancia no sea demasiado breve,
+para poder experimentar la propuesta temporal de la obra.
+
+Los requisitos técnicos básicos para llevar a cabo la instalación son los siguientes:
+
+  - Un espacio aislado acústicamente del exterior (idealmente alrededor de 8 *
+    12 metros, aunquepuede variar).
+  - Que el espacio esté (al menos parcialmente) libre de objetos y obstáculos,
+    permitiendo así que el público se mueva libremente, y la posibilidad de
+    colocar algunas sillas y bancos en lugares particulares, sin un frente
+    único, que también ofrezca al público oportunidad de permanecer sentado.
+  - El equipo de sonido requerido para reproducir el sistema de 4 + 2 canales
+    (podría reducirse a solo 4 dependiendo de las condiciones específicas de la
+    sala). La potencia del amplificador y del altavoz dependerá del tamaño de la
+    habitación.
+
+Se recomienda que el espacio donde se lleve a cabo la instalación esté libre de
+estímulos visuales excesivos y que, idealmente, cuente con la posibilidad de un
+diseño de luz básico que pueda ayudar a crear una situación adecuada para una
+escucha concentrada y neutra (ni mucho menos). oscuro ni demasiado brillante)La
+versión estéreo editada de la obra está concebida como la versión "privada" de
+la misma, para ser escuchada individualmente en un sistema de audio personal.
