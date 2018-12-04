@@ -1,0 +1,119 @@
+#+TITLE: Dead Tree Spectrum
+#+SUBTITLE: Exposición
+#+DATE: <2018-11-23 vie>
+#+SETUPFILE: ../../setup/edition.org
+
+* Configuración
+#+BEGIN_SRC org :noweb yes :noweb-ref common :exports none
+  ,#+SETUPFILE: ../../setup/tangle.org
+  ,#+TITLE:  Dead Tree Spectrum
+#+END_SRC
+
+* Fuente
+  :PROPERTIES:
+  :URL:      https://alessandroperini.com/2017/07/14/deadtreespectrum/
+  :CREATED:  <2018-12-03 lun 17:43>
+  :ID:       c05ccc80-4a4f-4a8f-98cf-895360413ccf
+  :ARCHIVED_AT: [[file:/home/eze/Antiquæ%20Novæ/personas/c0/5ccc80-4a4f-4a8f-98cf-895360413ccf/2018-12-03T17:43:45-0300/][2018-12-03T17:43:45-0300]] [[file:/home/eze/Antiquæ%20Novæ/personas/c0/5ccc80-4a4f-4a8f-98cf-895360413ccf/2018-12-03T17:45:11-0300/][2018-12-03T17:45:11-0300]]
+  :END:
+
+ Added [2018-12-03 lun 17:42]
+
+
+** texto
+#+BEGIN_SRC translate :src en :dest es :exports none :results replace
+    20 micro-speakers are embedded in a dead tree, determining an analysis in time,
+    space and sound frequency of the tree itself. A dead tree can rot or can become
+    an artifact. How would it sound if it were to become a musical instrument? What
+    if we would cut the tree at different heights and make a resonant pipe out of
+    it? The distance of each speaker from the root determines the frequency it will
+    emit. Small instrument, higher pitch; big instrument, lower pitch. Altogether,
+    the twenty speakers create a virtual, ever-changing — and at the same static —
+    spectrum derived from an incidental, yet very concrete, physical feature.
+
+    “Dead Tree Spectrum” is a sound exploration of a dead tree trunk, found along
+    the trails of I-Park, in East Haddam (Connecticut, USA). This site-specific
+    sound-art intervention includes ten 32mm and ten 17mm-diameter minispeakers,
+    embedded in wood and emitting different sets of frequencies.
+
+    # DeadTreeSpectrum_09
+
+    The wood has been carved in order to host the twenty sound devices, custom-made
+    cables and ten mp3 players.
+
+    Each speaker is embedded at a certain distance from the roots. The diameter of
+    the tree is around 120 cm. Diameter and distance from the roots are used to
+    calculate the fundamental frequency of a virtual pipe, as if the tree would be
+    cut in that particular position and become a resonating musical instrument (for
+    example, an organ pipe):
+#+END_SRC
+
+#+NAME: tab1
+| Distancia a la raíz (cm) | Parlante | Frecuencia fundamental (Hz) |
+|--------------------------+----------+-----------------------------|
+|                      130 | 1a       |                  58.6481249 |
+|                      136 | 1b       |                 56.34144423 |
+|                      190 | 2a       |                 41.61179751 |
+|                      198 | 2b       |                  40.0602185 |
+|                      252 | 3a       |                 32.00497483 |
+|                      260 | 3b       |                 31.07914606 |
+|                      313 | 4a       |                 26.08086129 |
+|                      324 | 4b       |                 25.23843642 |
+|                      376 | 5a       |                 21.89518841 |
+|                      385 | 5b       |                 21.40445073 |
+|                      439 | 6a       |                 18.86722043 |
+|                      447 | 6b       |                 18.54160914 |
+|                      500 | 7a       |                 16.63917669 |
+|                      508 | 7b       |                 16.38541079 |
+|                      560 | 8a       |                 14.90758856 |
+|                      568 | 8b       |                 14.70356786 |
+|                      621 | 9a       |                 13.48125329 |
+|                      630 | 9b       |                 13.29359433 |
+|                      685 | 10a      |                 12.25140831 |
+|                      695 | 10b      |                 12.07922963 |
+
+  # DeadTreeSpectrum_06
+
+#+BEGIN_SRC translate :src en :dest es :exports none
+  The speakers are arranged in ten pairs (one 37mm and one 17mm for each pair).
+  The composition of each track for each speaker pair involves the fundamental
+  frequencies at different higher octaves, both because the speakers are too small
+  to emit low frequencies, and because the lowest frequencies are too low to be
+  heard anyway.
+
+  Made at the I-Park residency for the Site-Responsive Art Biennale, I-Park
+  Foundation, East Haddam CT (USA) – May/June 2017
+
+  # DeadTreeSpectrum_01
+  # DeadTreeSpectrum_02
+  # DeadTreeSpectrum_04
+  # DeadTreeSpectrum_05
+  # DeadTreeSpectrum_07
+  # DeadTreeSpectrum_09
+#+END_SRC
+
+* Traducción
+#+BEGIN_SRC org :noweb-ref text es :exports code
+  20 micro parlantes son incrustados en un árbol muerto, lo que determina un
+  análisis en tiempo, espacio y frecuencia de sonido del árbol en sí. Un árbol
+  muerto puede pudrirse o puede convertirse en un artefacto. ¿Cómo sonaría si se
+  convirtiera en un instrumento musical? ¿Qué pasaría si cortáramos el árbol a
+  diferentes alturas y hiciéramos un tubo resonante con él? La distancia de cada
+  altavoz desde la raíz determina la frecuencia que emitirá. Pequeño instrumento,
+  tono más agudo; Instrumento grande, tono más grave. En total, los veinte
+  parlantes crean un espectro virtual, siempre cambiante y al mismo estático,
+  derivado de una característica física incidental, aunque muy concreta.
+#+END_SRC
+
+#+BEGIN_SRC org :noweb yes :exports none :results file replace :file expo es.org :tangle expo es.org
+  ,#+SUBTITLE: Instalación sonora
+  ,#+LANGUAGE: es
+  ,#+DESCRIPTION: instalación sonora
+  ,#+KEYWORDS: música, instalación
+
+  <<common>>
+
+  <<text es>>
+
+  <<tab1>>
+ #+END_SRC
